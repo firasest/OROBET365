@@ -1,0 +1,101 @@
+.general-form__phone {
+	position:relative;
+	z-index:100;
+}
+.general-form__phone input {
+	padding-left:130px;
+}
+.general-form__phone .jq-selectbox {
+	position:absolute!important;
+	top:4px;
+	left:4px;
+	width:120px;
+}
+.general-form__phone .jq-selectbox select,.general-form__phone .jq-selectbox select:focus{
+	outline:none!important;
+}
+.general-form__phone .jq-selectbox .jq-selectbox__select-text{
+	text-align:center;
+}
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown {
+	min-width:120px;
+	width:auto;
+}
+.general-form__phone .jq-selectbox .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li:before {
+	content:'';
+	margin-right:5px;
+	display:inline-block;
+	width:18px;
+	height:12px;
+	vertical-align:middle;
+}
+
+.general-form__phone .jq-selectbox.country_RU .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_RU:before{
+	background-image:url(../img/country/RU.gif);
+}
+.general-form__phone .jq-selectbox.country_UA .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_UA:before{
+	background-image:url(../img/country/UA.gif);
+}
+.general-form__phone .jq-selectbox.country_KZ .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_KZ:before{
+	background-image:url(../img/country/KZ.gif);
+}
+.general-form__phone .jq-selectbox.country_AZ .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_AZ:before{
+	background-image:url(../img/country/AZ.gif);
+}
+.general-form__phone .jq-selectbox.country_AM .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_AM:before{
+	background-image:url(../img/country/AM.gif);
+}
+.general-form__phone .jq-selectbox.country_BY .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_BY:before{
+	background-image:url(../img/country/BY.gif);
+}
+.general-form__phone .jq-selectbox.country_GE .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_GE:before{
+	background-image:url(../img/country/GE.gif);
+}
+.general-form__phone .jq-selectbox.country_KG .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_KG:before{
+	background-image:url(../img/country/KG.gif);
+}
+.general-form__phone .jq-selectbox.country_LV .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_LV:before{
+	background-image:url(../img/country/LV.gif);
+}
+.general-form__phone .jq-selectbox.country_LT .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_LT:before{
+	background-image:url(../img/country/LT.gif);
+}
+.general-form__phone .jq-selectbox.country_MD .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_MD:before{
+	background-image:url(../img/country/MD.gif);
+}
+.general-form__phone .jq-selectbox.country_TJ .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_TJ:before{
+	background-image:url(../img/country/TJ.gif);
+}
+.general-form__phone .jq-selectbox.country_TM .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_TM:before{
+	background-image:url(../img/country/TM.gif);
+}
+.general-form__phone .jq-selectbox.country_UZ .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_UZ:before{
+	background-image:url(../img/country/UZ.gif);
+}
+.general-form__phone .jq-selectbox.country_EE .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_EE:before{
+	background-image:url(../img/country/EE.gif);
+}
+.general-form__phone .jq-selectbox.country_PL .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_PL:before{
+	background-image:url(../img/country/PL.gif);
+}
+.general-form__phone .jq-selectbox.country_SE .jq-selectbox__select-text:before,
+.general-form__phone .jq-selectbox .jq-selectbox__dropdown li.country_SE:before{
+	background-image:url(../img/country/SE.gif);
+}

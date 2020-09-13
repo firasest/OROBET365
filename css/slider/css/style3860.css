@@ -1,0 +1,40 @@
+
+.jssorb03 {
+    position: absolute;
+}
+.jssorb03 div, .jssorb03 div:hover, .jssorb03 .av {
+    position: absolute;
+    /* size of bullet elment */
+    width: 21px;
+    height: 21px;
+    text-align: center;
+    line-height: 21px;
+    color: white;
+    font-size: 12px;
+    background: url('../../../img/slider/img/b03.png') no-repeat;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.jssora03l{
+    display: block;
+    margin-top:14px;
+    position: absolute;
+    /* size of arrow element */
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background: url('../../../img/slider/img/a03.png') no-repeat;
+    overflow: hidden;
+}
+.jssora03r {
+    display: block;
+    margin-top:14px;
+    position: absolute;
+    /* size of arrow element */
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    background: url('../../../img/slider/img/b03.png') no-repeat;
+    overflow: hidden;
+}

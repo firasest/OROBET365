@@ -1,0 +1,400 @@
+.popup_title {
+    margin: 0!important;
+    height: 50px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+#runtime-error .popup_title {
+    background-color: #efb4a4;
+}
+#runtime-success .popup_title{
+    background-color: #a0d468;
+}
+#runtime-info .popup_title{
+    background-color: #7dd0ed;
+}
+#runtime-welcome .popup_title{
+    background-color: #a0d468;
+}
+#confirm .popup_title{
+    height: 70px;
+    background-color: #ffce54;
+}
+.popup {
+    color: #312f29!important;
+    /*min-height: 128px;*/
+    border-radius: 7px;
+}
+.popup__box {
+    /*width: 480px;*/
+    display: inline-block;
+    height: auto;
+    padding: 20px 20px 15px;
+}
+.fancybox-custom.popup__box {
+    width: 480px;
+}
+#runtime-error .popup_icon {
+    position: absolute;
+    top: -60px;
+    left: -60px;
+    /*width: 150px;*/
+    /*height: 150px;*/
+}
+#runtime-success .popup_icon {
+    position: absolute;
+    top: -90px;
+    left: -60px;
+    /*width: 150px;*/
+    /*height: 150px;*/
+}
+#runtime-info .popup_icon {
+    position: absolute;
+    top: -90px;
+    left: -60px;
+    /*width: 150px;*/
+    /*height: 150px;*/
+}
+#runtime-welcome .popup_icon {
+    position: absolute;
+    top: -61px;
+    left: -57px;
+    /*width: 150px;*/
+    /*height: 150px;*/
+}
+#runtime-error .content, #runtime-success .content{
+    /*width: auto!important;*/
+}
+/*#confirm:before{*/
+    /*content: " ";*/
+    /*width: 226px;*/
+    /*height: 366px;*/
+    /*border-radius: 5px;*/
+    /*font-size: 0;*/
+    /*position: absolute;*/
+    /*display: block;*/
+    /*padding: 0;*/
+    /*left: -110px;*/
+    /*cursor: pointer;*/
+    /*top: 37px;*/
+    /*background: url(../img/wolf.png) no-repeat 0 0;*/
+    /*z-index: 100;*/
+/*}*/
+/*#confirm:after{*/
+    /*content: " ";*/
+    /*width: 226px;*/
+    /*height: 250px;*/
+    /*border-radius: 5px;*/
+    /*font-size: 0;*/
+    /*position: absolute;*/
+    /*right: -110px;*/
+    /*display: block;*/
+    /*padding: 0;*/
+    /*cursor: pointer;*/
+    /*top: 175px;*/
+    /*background: url(../img/pig.png) no-repeat 0 0;*/
+/*}*/
+.game #confirm:before{
+    width: 353px;
+    height: 467px;
+    font-size: 0;
+    left: -230px;
+    top: -60px;
+    background: url(../img/dep_hero1.png) no-repeat 0 0;
+    z-index: 100;
+}
+.game #confirm:after{
+    width: 242px;
+    height: 394px;
+    right: -170px;
+    top: 15px;
+    background: url(../img/dep_hero2.png) no-repeat 0 0;
+}
+/*#confirm .popup_title:before{*/
+    /*content: " ";*/
+    /*width: 60px;*/
+    /*height: 60px;*/
+    /*border-radius: 5px;*/
+    /*font-size: 0;*/
+    /*position: absolute;*/
+    /*display: block;*/
+    /*padding: 0;*/
+    /*cursor: pointer;*/
+    /*z-index: 0;*/
+    /*left: 5px;*/
+    /*top: 5px;*/
+    /*background: url(../img/attention_icon.png) no-repeat 0 0;*/
+/*}*/
+
+#confirm b{
+    color: #312f29;
+}
+#confirm {
+    background-color: #e0dcc7!important;
+    width: 550px;
+}
+#confirm .text-content p{
+    color: #312f29;
+    font-size: 16px;
+    line-height: 36px;
+    padding: 20px 55px;
+    height: 115px;
+    /*background-color: #ffffff;*/
+}
+
+#confirm .button_box{
+    height: 100px;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    /*width: 460px;*/
+}
+
+#confirm .f22{
+    font-size: 26px;
+    text-align: center;
+}
+
+
+#runtime-welcome,#runtime-info,#runtime-error,#runtime-success{
+    display:none;
+    /*position:fixed;*/
+    /*top:0;*/
+    /*left:0;*/
+    width:100%;
+    height:100%;
+    text-align:center;
+    /*z-index:10000;*/
+    background-color:#e0dcc7;
+    cursor:default;
+}
+
+#runtime-welcome .content,#runtime-info .content,#runtime-error .content,#runtime-success .content{
+    /*margin:100px auto 0;*/
+    display:block;
+    width:380px;
+    padding:0px;
+    /*background-color:#ee7248;*/
+    overflow:hidden;
+    border-radius:5px;
+    float: right;
+    /*text-align:left;*/
+    /*z-index:501;*/
+}
+#runtime-error{
+    /*background-color:#ee7248;*/
+}
+
+#runtime-success{
+    /*background-color:#c4df9b;*/
+}
+
+#runtime-error .content img,#runtime-success .content img{
+    /*display:inline-block;*/
+    /*margin-right: 5px;*/
+    /*width:50px;*/
+    /*height:50px;*/
+}
+
+#runtime-welcome .content .text-content,#runtime-info .content .text-content, #runtime-error .content .text-content,#runtime-success .content .text-content{
+    display:inline-block;
+    width:375px;
+    color:#363636;
+}
+
+#runtime-welcome h1,#runtime-info h1,#confirm h1 ,#runtime-error h1,#runtime-success h1{
+    color: #312f29;
+    display:inline-block;
+    text-align: center;
+    width:80%;
+    height:30px;
+    line-height:30px;
+    font-weight:bold;
+    font-size:18px;
+    /*text-transform:uppercase;*/
+    padding: 0;
+    float: right;
+}
+#runtime-welcome h2,#runtime-info h2,#confirm h2 ,#runtime-error h2,#runtime-success h2{
+    color: #312f29;
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    line-height: 50px;
+    font-weight: bold;
+    font-size: 18px;
+    /* text-transform: uppercase; */
+    padding: 0;
+    float: left;
+}
+#confirm h1{
+    line-height:38px;
+    font-weight:bold;
+    font-size:26px;
+}
+#confirm .big{
+    color: #312f29;
+    font-size: 40px;
+    display: block;
+}
+
+#runtime-welcome .content p,#runtime-info .content p,#runtime-error .content p,#runtime-success .content p{
+    display:inline-block;
+    width:70%;
+    height:100%;
+    line-height:20px;
+    font-size:16px;
+    padding: 0;
+    color: #312f29;
+}
+
+.alert {
+    background-color: #e8ba00;
+    padding: 10px;
+    border-radius: 5px;
+}
+.alert .alert__image{
+    display:table-cell;
+    vertical-align:middle;
+}
+.alert .alert__image img{
+    margin-right: 20px;
+}
+.alert .alert__text-content{
+    display:table-cell;
+    vertical-align:middle;
+}
+.alert .alert__text-content h1{
+    color:#363636;
+    padding:0;
+}
+.alert .alert__text-content p{
+    color:#363636;
+}
+input.error{
+    /*border: 1px solid #EE7248!important;*/
+}
+label.error{
+    padding:15px;
+    background-color:#EE7248;
+    border-radius:5px;
+    margin: 0 auto;
+}
+.landing label.error{
+    padding:15px;
+    background-color:#EE7248;
+    border-radius:5px;
+    margin-top: -14px!important;;
+}
+.error .error__image{
+    display:table-cell;
+    vertical-align:middle;
+}
+.error .error__image img{
+    margin-right: 20px;
+}
+.error .error__text-content{
+    display:table-cell;
+    vertical-align:middle;
+}
+.error .error__text-content h1{
+    color:#363636;
+    padding:0;
+}
+.error .error__text-content p{
+    color:#363636;
+}
+
+.success {
+    background-color: #c4df9b;
+    padding: 10px;
+    border-radius: 5px;
+}
+.success .success__image{
+    display:table-cell;
+    vertical-align:middle;
+}
+.success .success__image img{
+    margin-right: 20px;
+}
+.success .success__text-content{
+    display:table-cell;
+    vertical-align:middle;
+}
+.success .success__text-content h1{
+    color:#363636;
+    padding:0;
+}
+.success .success__text-content p{
+    color:#363636;
+}
+
+
+
+/*Confirm*/
+
+
+
+
+
+.btn.confirm.no {
+    background-image: url(../img/bt_sprites.png);
+    background-position: 0px -170px;
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 57px;
+    font-size: 20px;
+    line-height: 50px;
+    display: inline-block;
+    float: left;
+
+}
+
+.btn.confirm.no span{
+    line-height: 50px;
+
+    vertical-align: super;
+
+}
+
+.btn.confirm.no:hover {
+    background-position: 0px -230px;
+}
+
+
+
+.btn.confirm.yes {
+    background-image: url(../img/bt_sprites.png);
+    background-position: -248px -170px;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    width: 240px;
+    height: 57px;
+    line-height: 50px;
+    display: inline-block;
+    float: right;
+}
+
+/*.btn.confirm.yes {*/
+    /*background-image: url(../img/bt_sprites.png);*/
+    /*background-position: -411px 0px;*/
+    /*background-repeat: no-repeat;*/
+    /*font-size: 18px;*/
+    /*width: 160px;*/
+    /*height: 34px;*/
+    /*display: block;*/
+    /*margin: 10px auto;*/
+/*}*/
+.btn.confirm.yes:hover {
+    background-position: -248px -230px;
+}
+
+
+.btn.confirm.yes span{
+    line-height: 50px;
+
+    vertical-align: super;
+
+}
+

@@ -1,0 +1,129 @@
+.cms-css h2  {
+    font-size: 34px;
+    line-height: 34px;
+    color: #ffcc00;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-family: 'Roboto Condensed', Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+.cms-css h3 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    padding-top: 30px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #c3b177;
+    text-align: left;
+    text-transform: uppercase;
+}
+.faq .cms-css h3.ui-state-active {
+    color: #181610;
+}
+.cms-css h4 {
+    display: inline-block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+    color: #c6c2af;
+    text-align: left;
+}
+.cms-css p {
+    font-family: 'Roboto Regular', Arial, Helvetica, sans-serif;
+    color: #c6c2af;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+}
+.cms-css a {
+    color: #3bafda;
+    text-decoration: none;
+    transition: all 0.4s ease-in-out;
+}
+.cms-css a:hover {
+    text-decoration: underline;
+    transition: all 0.4s ease-in-out;
+}
+.cms-css i {
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 700;
+    color: #c6c2af;
+}
+.cms-css i + p {
+    padding-left: 30px;
+}
+.cms-css div.list ul {
+    margin-top: 0;
+    padding-left: 30px;
+    color: #c6c2af;
+    list-style-type: disc;
+}
+.cms-css ul li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.cms-css div.container ul {
+    padding-left: 30px;
+    color: #c6c2af;
+    list-style-type: disc;
+}
+.cms-css ol {
+    counter-reset: item;
+    font-size: 16px;
+    list-style: none;
+    padding-left: 30px;
+    color: #c3b177;
+}
+.cms-css ol li {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+.cms-css ol li ol {
+    font-family: 'Roboto Regular', Arial, Helvetica, sans-serif;
+    color: #c6c2af;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+.cms-css ol > li:before {
+    content: counters(item, ".") ". ";
+    counter-increment: item;
+    cursor: default;
+    font-size: 16px;
+    font-weight: bold;
+    color: #c3b177;
+}
+.cms-css ol li ol > li:before {
+    content: counters(item, ".") ". ";
+    counter-increment: item;
+    cursor: default;
+    font-size: 16px;
+    font-weight: bold;
+}
+.cms-css nav ol li {
+    margin-bottom: 5px;
+}
+.cms-css nav ol li a {
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.2;
+    text-transform: uppercase;
+    color: #c6c2af;
+    text-align: left;
+}
+.cms-css ol.hidden  li::before {
+    display: none;
+}
+.cms-css .btn.open_chat {
+    text-decoration: none;
+    color: #ffffff;
+    transition: all 0s ease;
+}
