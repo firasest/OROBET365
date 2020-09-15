@@ -1,3 +1,7 @@
+<?php
+include("includes/connect_db.php");
+ ?>
+ 
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
@@ -599,14 +603,11 @@
 
 
                     <div class="logining none">
-                        <form id="ajax-login-form" class="ajax-login-form">
-                            <input type="hidden" name="csrf" value="b712f75b459eecf2642b2b37615fe8b5">                            <input type="text" name="login"
-                                   placeholder="Login or Email"
-                                   autocomplete="off"/>
+                        <form id="ajax-login-form" class="ajax-login-form" action="Controller/cnx_admin.php" method="post">
+                            <input type="hidden" name="csrf" value="b712f75b459eecf2642b2b37615fe8b5">                            
+                            <input type="text" name="login" placeholder="Login or Email" autocomplete="off"/>
                             <br>
-                            <input type="password" name="password"
-                                   placeholder="Password"
-                                   autocomplete="off"/>
+                            <input type="password" name="password" placeholder="Password" autocomplete="off"/>
 
 
                             <div class="check-label" style="margin-left: 11px; margin-top: 20px;">
