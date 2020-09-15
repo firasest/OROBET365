@@ -171,8 +171,13 @@ include("includes/connect_db.php");
             
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="../en.html" class="logo_link">
-            <div class="top_logo"></div>
+        <a href="en.html" class="logo_link">
+            <img src="../img/orobet365.png"  style="
+            width: 130%;
+            margin-top: 20%;
+            margin-left: -12%;
+        ">
+        </a>
         </a>
         <div class="navbar">
             <div class="navbar_top_line">
