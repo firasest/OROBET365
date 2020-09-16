@@ -477,7 +477,7 @@ include("includes/connect_db.php");
                 <div class="register-container">
 
                     <div class="register none">
-                        <form id="ajax-register-form" class="ajax-register-form" action="">
+                        <form id="ajax-register-form" class="ajax-register-form" action="Controller/ajouter_client.php">
                             <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <div class="pull-left popup-registration__item">
                                 <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
