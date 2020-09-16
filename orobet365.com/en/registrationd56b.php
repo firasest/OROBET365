@@ -562,14 +562,11 @@ include("includes/connect_db.php");
 
 
                     <div class="logining ">
-                        <form id="" class="" action="Controller/cnx_admin.php" method="post">
-                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <input type="text" name="login"
-                                   placeholder="Login or Email"
-                                   autocomplete="off"/>
+                        <form id="" class="" action="Controller/cnx_client.php" method="post">
+                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">
+                            <input type="text" name="username" placeholder="UserName" autocomplete="off"/>
                             <br>
-                            <input type="password" name="password"
-                                   placeholder="Password"
-                                   autocomplete="off"/>
+                            <input type="password" name="password" placeholder="Password" autocomplete="off"/>
 
 
                             <div class="check-label" style="margin-left: 11px; margin-top: 20px;">
