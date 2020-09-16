@@ -20,7 +20,7 @@ public function verifier(){
 
   if (!$resultat)
 {
-  header('location:../login.php?error=oui');
+  header('location:../registrationd56b.php?error=oui');
   
 }
    else
@@ -34,7 +34,7 @@ public function verifier(){
        
        
 	   
-	header('location:../index.php');
+	header('location:../sport.html');
 
 
 } 

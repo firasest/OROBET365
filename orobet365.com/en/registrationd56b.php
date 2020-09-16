@@ -1,3 +1,6 @@
+<?php
+include("includes/connect_db.php");
+ ?>
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
@@ -604,7 +607,7 @@
 
 
                     <div class="logining ">
-                        <form id="ajax-login-form" class="ajax-login-form">
+                        <form id="" class="" action="Controller/cnx_admin.php" method="post">
                             <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <input type="text" name="login"
                                    placeholder="Login or Email"
                                    autocomplete="off"/>
@@ -623,7 +626,7 @@
                                 <a class="fancybox"
                                    href="#forgot-password-form">Forgot Password?</a>
                             </div>
-                            <button type="submit" id="login" class="reg-fix btn green_long big"
+                            <button type="submit" id="" class="reg-fix btn green_long big"
                                     style="margin-top: 20px;margin-bottom: 78px;">
                                 <span>Login</span>
                             </button>
