@@ -48,7 +48,7 @@
                                     <a href="dashboard.php">
                                         <div class="avatar-md profile-user-wid mb-4">
                                             <span class="avatar-title rounded-circle bg-light">
-                                                <img src="assets/images/logo.png" alt="" class="rounded-circle" height="34">
+                                                <img src="assets/images/logoorobet365.png" alt="" class="rounded-circle" height="34">
                                             </span>
                                         </div>
                                     </a>

@@ -1,4 +1,6 @@
- <div class="navbar-header">
+ <div class="navbar-header" style="
+    margin-top: 1%;
+">
                     <div class="d-flex">
                         <!-- LOGO -->
                         <div class="navbar-brand-box">
