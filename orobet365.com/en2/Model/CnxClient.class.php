@@ -34,7 +34,7 @@ public function verifier(){
        
        
 	   
-	header('location:../../en2.html');
+	header('location:../sport.html');
 
 
 } 
