@@ -34,7 +34,7 @@
                                     <div class="col-7">
                                         <div class="text-primary p-4">
                                             <h5 class="text-primary">Inscription gratuite</h5>
-                                            <p>Ouvrez votre compte Fiore gratuit maintenant.
+                                            <p>Ouvrez votre compte orobet365 gratuit maintenant.
                                             </p>
                                         </div>
                                     </div>
@@ -78,7 +78,7 @@
                                         </div>
                 
                                         <div class="mt-4 text-center">
-                                            <p class="mb-0">En vous inscrivant, vous acceptez la Fiore <a href="#" class="text-primary">Conditions d'utilisation</a></p>
+                                            <p class="mb-0">En vous inscrivant, vous acceptez la orobet365 <a href="#" class="text-primary">Conditions d'utilisation</a></p>
                                         </div>
                                     </form>
                                 </div>
@@ -87,7 +87,7 @@
                         </div>
                         <div class="mt-5 text-center">
                             <p>Vous avez déjà un compte ? <a href="index.php" class="font-weight-medium text-primary"> S'identifier</a> </p>
-                            <p>© 2020 Fiore. Fabriqué avec <i class="mdi mdi-heart text-danger"></i> par Designet</p>
+                            <p>© 2020 orobet365. Fabriqué avec <i class="mdi mdi-heart text-danger"></i> par FRConsulting</p>
                         </div>
 
                     </div>

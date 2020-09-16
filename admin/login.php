@@ -73,7 +73,7 @@
                                     <a href="#">
                                         <div class="avatar-md profile-user-wid mb-4">
                                             <span class="avatar-title rounded-circle bg-light">
-                                                <img src="assets/images/logo.png" alt="" class="rounded-circle" height="34">
+                                                <img src="assets/images/logoorobet365.png" alt="" class="rounded-circle" height="34">
                                             </span>
                                         </div>
                                     </a>
@@ -105,7 +105,7 @@
                         </div>
                         <div class="mt-5 text-center">
                             <p>Vous n'avez pas de compte? <a href="auth-register.php" class="font-weight-medium text-primary"> S'inscrire maintenant </a> </p>
-                            <p>© 2020 OROBET. Fabriqué avec <i class="mdi mdi-heart text-danger"></i> par Designet</p>
+                            <p>© 2020 OROBET365. Fabriqué avec <i class="mdi mdi-heart text-danger"></i> par FRConsulting</p>
                         </div>
 
                     </div>
