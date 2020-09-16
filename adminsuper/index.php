@@ -79,7 +79,7 @@ header('Location:login.php');
                                             <div class="col-7">
                                                 <div class="text-primary p-3">
                                                     <h5 class="text-primary">Bienvenue !</h5>
-                                                    <p>fiore Dashboard</p>
+                                                    <p>orobet365 Dashboard</p>
                                                 </div>
                                             </div>
                                             <div class="col-5 align-self-end">

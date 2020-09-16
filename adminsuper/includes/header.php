@@ -4,19 +4,19 @@
                         <div class="navbar-brand-box">
                             <a href="index.php" class="logo logo-dark">
                                 <span class="logo-sm">
-                                    <!--<img src="assets/images/logo.png" alt="" height="50">-->
+                                <img src="assets/images/logoorobet365.png" alt="" height="50">
                                 </span>
                                 <span class="logo-lg">
-                                   <!-- <img src="assets/images/logo.png" alt="" height="50">-->
+                                <img src="assets/images/logoorobet365.png" alt="" height="50">
                                 </span>
                             </a>
 
                             <a href="index.php" class="logo logo-light">
                                 <span class="logo-sm">
-                                 <!--   <img src="assets/images/logo.png" alt="" height="50">-->
+                                   <img src="assets/images/logoorobet365.png" alt="" height="50">
                                 </span>
                                 <span class="logo-lg">
-                                 <!--   <img src="assets/images/logo.png" alt="" height="50">-->
+                                <img src="assets/images/logoorobet365.png" alt="" height="50">
                                 </span>
                             </a>
                         </div>

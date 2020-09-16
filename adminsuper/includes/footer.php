@@ -28,10 +28,10 @@
                                     </ul>
                                 </center>
                                 <center id="fb">
-                                 <a href="https://twitter.com" class="icon-button twitter" target="_blank"><i class="icon-twitter"></i><span></span></a>
-                                 <a href="https://www.facebook.com/Fromage-Fiore-344785575533009/" class="icon-button facebook" target="_blank"><i class="icon-facebook"></i><span></span></a>
+                                <!-- <a href="https://twitter.com" class="icon-button twitter" target="_blank"><i class="icon-twitter"></i><span></span></a>
+                                 <a href="https://www.facebook.com/Fromage-orobet365-344785575533009/" class="icon-button facebook" target="_blank"><i class="icon-facebook"></i><span></span></a>
                                  <a href="https://plus.google.com" class="icon-button google-plus" target="_blank"><i class="icon-google-plus"></i><span>
-                                     
+-->
                                  </span>
                              </a>
                              <a href="ref.php" style="color: #074529;">.</a>
@@ -43,8 +43,8 @@
 						
 						<div class="row">
 							<div class="col-sm-4 col-sm-offset-4 pad-v text-center">
-								<img alt="logo" data-src="images/logo-Fiore-fr-foncé-footer.png" class="img-responsive1 lazy" srcset="images/logo-Fiore-fr-foncé-footer.png 1x, images/logo-Fiore-fr-foncé-footer.png 2x">
-							</div>
+							<!--	<img alt="logo" data-src="images/logo-orobet365-fr-foncé-footer.png" class="img-responsive1 lazy" srcset="images/logo-orobet365-fr-foncé-footer.png 1x, images/logo-orobet365-fr-foncé-footer.png 2x">
+--></div>
 						</div>
 						
 					</div>

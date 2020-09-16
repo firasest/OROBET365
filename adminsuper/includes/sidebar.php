@@ -28,8 +28,7 @@
                     <ul class="sub-menu" aria-expanded="false">
                         <li><a href="listesadmin.php">Listes Admin</a></li>
                         <li><a href="ajouteradmin.php">Ajouter Admin</a></li>
-                        <li><a href="game.html">Game</a></li>
-                        
+                       
                     </ul>
                 </li>
 

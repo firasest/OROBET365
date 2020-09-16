@@ -81,7 +81,7 @@ $req = $bdd->query("SELECT * FROM admin");
 
                                     <div class="page-title-right">
                                         <ol class="breadcrumb m-0">
-                                            <li class="breadcrumb-item"><a href="javascript: void(0);">CRMT</a></li>
+                                            <li class="breadcrumb-item"><a href="javascript: void(0);">OROBET365</a></li>
                                             <li class="breadcrumb-item active">Liste Admin</li>
                                         </ol>
                                     </div>
@@ -119,7 +119,7 @@ $req = $bdd->query("SELECT * FROM admin");
         
         <td>
         
-        <a href="modifierrecette.php?id=<?php echo $donnees['id']; ?>">Modifier</a>||<a href="Controller/supp_recette.php?id=<?php echo $donnees['id']; ?>">Supprimer</a>
+        <a href="modifier_admin.php?id=<?php echo $donnees['id']; ?>">Modifier</a>||<a href="Controller/supp_recette.php?id=<?php echo $donnees['id']; ?>">Supprimer</a>
         </td>
       </tr>
       

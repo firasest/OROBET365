@@ -60,7 +60,7 @@
                                     <div class="col-7">
                                         <div class="text-primary p-4">
                                             <h5 class="text-primary">Bienvenue !</h5>
-                                            <p>Connectez-vous pour continuer sur Fiore.</p>
+                                            <p>Connectez-vous pour continuer sur orobet365.</p>
                                         </div>
                                     </div>
                                     <div class="col-5 align-self-end">
@@ -105,7 +105,7 @@
                         </div>
                         <div class="mt-5 text-center">
                             <p>Vous n'avez pas de compte? <a href="auth-register.php" class="font-weight-medium text-primary"> S'inscrire maintenant </a> </p>
-                            <p>© 2020 Fiore. Fabriqué avec <i class="mdi mdi-heart text-danger"></i> par Designet</p>
+                            <p>© 2020 orobet365. Fabriqué avec <i class="mdi mdi-heart text-danger"></i> par FRConsulting</p>
                         </div>
 
                     </div>
