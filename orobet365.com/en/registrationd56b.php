@@ -477,33 +477,32 @@ include("includes/connect_db.php");
                 <div class="register-container">
 
                     <div class="register none">
-                        <form id="ajax-register-form" class="ajax-register-form">
+                        <form id="ajax-register-form" class="ajax-register-form" action="">
                             <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <div class="pull-left popup-registration__item">
-                                <input name="login" type="text" placeholder="Login" autocomplete="off"/>
+                                <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
 
                             <div class="pull-left popup-registration__item">
-                                <select name="country" id="styled-country" class="styled styled-country gold-reg-country-select simple-select">
-                                    <option value=""></option>
-                                </select>
+                                <input name="nationalite" value="" type="text" placeholder="nationality" autocomplete="off"/>
+                            </div>
 
-                                <label id="styled-country-error" class="error" for="styled-country"></label>
+                            
+                            
+
+
+                            <div class="pull-left popup-registration__item">
+                                <input name="prenom" type="text" placeholder="Prename" autocomplete="off"/>
+                            </div>
+
+                            <div class="pull-left popup-registration__item">
+                                <input name="adresse" type="text" placeholder="Adress" autocomplete="off"/>
+                                
                             </div>
                             <br/>
 
 
                             <div class="pull-left popup-registration__item">
-                                <input name="name" type="text" placeholder="Name" autocomplete="off"/>
-                            </div>
-
-                            <div class="pull-left popup-registration__item">
-                                <input name="city" type="text" placeholder="City" autocomplete="off"/>
-                            </div>
-                            <br/>
-
-
-                            <div class="pull-left popup-registration__item">
-                                <input name="surname" type="text" placeholder="Surname" autocomplete="off"/>
+                                <input name="email" type="email" placeholder="Email" autocomplete="off"/>
                             </div>
 
 
@@ -513,90 +512,46 @@ include("includes/connect_db.php");
 
 
                             <div class="pull-left popup-registration__item">
-                                <input name="email" value="" type="email" placeholder="E-Mail" autocomplete="off"/>
+                                
 
                                 <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
                             </div>
+                            <br/>
 
-                            <div class="pull-left popup-registration__item client-phone">
-                                <input type="text" class="input_tel" name="phone" id="user-phone"
-                                       placeholder="Phone number (optional)">
+                            <div class="pull-left popup-registration__item">
+                                <input name="region" value="" type="text" placeholder="Region" autocomplete="off"/>
 
-                                <div class="pull-left popup-registration__item tooltip-container">
+                            </div>
+                            <br/>
+
+                            
+
+                            <div class="pull-left popup-registration__item">
+                                <input type="password" class="confirmpassword" name="confirmpassword" id="confirmpassword"
+                                       placeholder="Confirm Password">
+
+                                <!--<div class="pull-left popup-registration__item tooltip-container">
                                     <div class="tooltip bottom" role="tooltip">
                                         <div class="tooltip-arrow"></div>
                                         <div class="tooltip-inner"> Enter your phone number and get <b>BONUSES</b>                                            <i class="icon-promo"></i></div>
                                     </div>
-                                </div>
-                            </div>
-
-
-                            <div class="gender pull-left popup-registration__item">
-                                <div class="gender_label">Gender:</div>
-                                <ul class="radio_gender">
-                                    <li class="male"><input name="gender" value="m" type="radio" class="radio styled" checked/> Male</li>
-                                    <li><input name="gender" value="f" type="radio" class="radio styled"/> Female</li>
-                                </ul>
+                                </div>-->
                             </div>
 
                             <div class="pull-left popup-registration__item">
+                                <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
+                            </div>
 
-
-                                <div class="currency_label">Choose the currency:</div>
-                                <ul class="radio_currency">
-                                    <li class="first-column">
-                                        
-        <input name="currency" value="eur" type="radio" class="radio styled" checked/>
-        EUR
-                                            </li>
-                                    <li>
-                                        
-        <input name="currency" value="rub" type="radio" class="radio styled" />
-        RUB
-                                            </li>
-                                    <br/>
-                                    <li class="first-column">
-                                        
-        <input name="currency" value="pln" type="radio" class="radio styled" />
-        PLN
-                                            </li>
-                                    <li>
-                                        
-        <input name="currency" value="sek" type="radio" class="radio styled" />
-        SEK
-                                            </li>
-                                </ul>
+                            <div class="pull-left popup-registration__item">
+                                <input name="mobile" value="" type="number" id="mobile" placeholder="Number" autocomplete="off"/>
                             </div>
 
 
-                            <br/>
-                            <div style="clear: both"></div>
-                            <div class="register-agreement-block">
-                                <!--                                -->                                <div class="check-label">
-                                    <input name="notifications" checked="checked"
-                                           class="checkbox styled checkbox-normal"
-                                           type="checkbox" autocomplete="off"/>
-                                    I would like to receive exclusive bonuses, special promotions and gifts from ArgoCasino.com                                </div>
-                                <!--                                -->                                <br/>
-                                <div class="check-label">
-                                    <input name="autobonus" checked="checked" class="checkbox styled checkbox-normal"
-                                           type="checkbox"
-                                           autocomplete="off"/>
-                                    I would like bonuses to be automatically credited to my account                                </div>
-                                <br/>
-                                <div class="check-label">
-                                    <input name="sms" checked="checked" class="checkbox styled checkbox-normal"
-                                           type="checkbox"
-                                           autocomplete="off"/>
-                                    Follow promotions via SMS                                </div>
-                                <br/>
-                                <div class="check-label accept">
-                                    <input name="accept" checked="checked" class="checkbox styled checkbox-normal"
-                                           type="checkbox"
-                                           autocomplete="off"/>
-                                    <p style="margin-top: -10px" class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="rules.html">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
-                                </div>
-                            </div>
+                            
+
+                            
+
+                            
 
                             <button type="submit" id="register" class="reg-fix btn green_long big">
                                 <span>Join Now</span>
