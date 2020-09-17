@@ -29,8 +29,20 @@ public function ajouter(){
   include('../includes/connect_db.php');
       
     
-      $req = $bdd->exec ("INSERT INTO `client`(`login`,`name`, `surname`, `password`,`phone`, `bonus`, `balance`) 
-      VALUES ('$this->login','$this->name','$this->surname','$this->password','$this->phone','$this->bonus','$this->balance')");
+      $req = $bdd->exec ("INSERT INTO `client`(`login`,
+                                               `name`, 
+                                               `surname`,
+                                               `password`,
+                                               `phone`, 
+                                               `bonus`, 
+                                               `balance`) 
+      VALUES ('$this->login',
+              '$this->name',
+              '$this->surname',
+              '$this->password',
+              '$this->phone',
+              '$this->bonus',
+              '$this->balance')");
       
       echo'oui';
                   //return TRUE;

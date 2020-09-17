@@ -128,7 +128,7 @@ header('Location:login.php');
             <div class="form-group">
                 <label for="balance">Balance</label>
                 <input type="number" class="form-control" id="balance" name="balance" 
-                placeholder="Saisissez votre resultat eq 2" >        
+                placeholder="Saisissez votre Balance" >        
             </div>
             	
 
