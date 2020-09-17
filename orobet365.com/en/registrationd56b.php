@@ -362,16 +362,16 @@ include("includes/connect_db.php");
                 <div class="register-container">
 
                     <div class="register none">
-                        <form id="ajax-register-form" class="ajax-register-form" action="Controller/ajouter_client.php">
+                        <form  action="Controller/ajouter_client.php">
                             <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <div class="pull-left popup-registration__item">
                                 <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
 
-                            <div class="pull-left popup-registration__item">
-                                <input name="nationalite" value="" type="text" placeholder="nationality" autocomplete="off"/>
-                            </div>
+                           
 
-                            
+                            <div class="pull-left popup-registration__item">
+                                <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
+                            </div>
                             
 
 
@@ -379,21 +379,16 @@ include("includes/connect_db.php");
                                 <input name="prenom" type="text" placeholder="Prename" autocomplete="off"/>
                             </div>
 
-                            <div class="pull-left popup-registration__item">
-                                <input name="adresse" type="text" placeholder="Adress" autocomplete="off"/>
-                                
-                            </div>
+                           
                             <br/>
-
+                            
 
                             <div class="pull-left popup-registration__item">
                                 <input name="email" type="email" placeholder="Email" autocomplete="off"/>
                             </div>
 
 
-                            <div class="pull-left popup-registration__item">
-                                <input id="birthday" type="text" class="datepicker" id="from" name="birth_day" value="" placeholder="Date of Birth" autocomplete="off">
-                            </div>
+                           
 
 
                             <div class="pull-left popup-registration__item">
@@ -404,33 +399,18 @@ include("includes/connect_db.php");
                             <br/>
 
                             <div class="pull-left popup-registration__item">
-                                <input name="region" value="" type="text" placeholder="Region" autocomplete="off"/>
+                                <input name="phone" value="" type="number" placeholder="Number" autocomplete="off"/>
 
                             </div>
                             <br/>
 
                             
 
-                            <div class="pull-left popup-registration__item">
-                                <input type="password" class="confirmpassword" name="confirmpassword" id="confirmpassword"
-                                       placeholder="Confirm Password">
+                            
 
-                                <!--<div class="pull-left popup-registration__item tooltip-container">
-                                    <div class="tooltip bottom" role="tooltip">
-                                        <div class="tooltip-arrow"></div>
-                                        <div class="tooltip-inner"> Enter your phone number and get <b>BONUSES</b>                                            <i class="icon-promo"></i></div>
-                                    </div>
-                                </div>-->
-                            </div>
+                            
 
-                            <div class="pull-left popup-registration__item">
-                                <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
-                            </div>
-
-                            <div class="pull-left popup-registration__item">
-                                <input name="mobile" value="" type="number" id="mobile" placeholder="Number" autocomplete="off"/>
-                            </div>
-
+                           
 
                             
 
@@ -449,7 +429,7 @@ include("includes/connect_db.php");
                     <div class="logining ">
                         <form id="" class="" action="Controller/cnx_client.php" method="post">
                             <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">
-                            <input type="text" name="username" placeholder="UserName" autocomplete="off"/>
+                            <input type="text" name="login" placeholder="UserName" autocomplete="off"/>
                             <br>
                             <input type="password" name="password" placeholder="Password" autocomplete="off"/>
 
@@ -469,13 +449,7 @@ include("includes/connect_db.php");
                             </button>
                         </form>
                     </div>
-                    <div class="footer_form">
-                        <h3>Or login via social networks:</h3>
-                        <div class="social_box">
-    <ul>
-                <li><a href="https://oauth.jocsystems.com:30443/facebook/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwibGFuZyI6ImVuIn19" class="btn gray social_login facebook"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/google/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login google"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/mailru/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login mailru"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/odnoklassniki/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login odnoklassniki"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/vkontakte/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login vkontakte"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/yandex/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login yandex"><div></div></a></li>    </ul>
-</div>                    </div>
-                </div>
+                   
             </div>
         </div>
 

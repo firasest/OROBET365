@@ -17,8 +17,13 @@
               
 
                
-
-                
+                <li>
+                    <a href="javascript: void(0);" class="has-arrow waves-effect">
+                        <i class="bx bx-user-circle"></i>
+                        <span>Sport</span>
+                        
+                    </a>
+                    <ul class="sub-menu" aria-expanded="false">
 
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
@@ -103,9 +108,20 @@
 
                 
 
-                
+</ul> 
 
-
+</li>
+<li>
+                    <a href="javascript: void(0);" class="has-arrow waves-effect">
+                        <i class="bx bx-user-circle"></i>
+                        <span>Client</span>
+                    </a>
+                    <ul class="sub-menu" aria-expanded="false">
+                        <li><a href="listesbadminton.php">Listes Client</a></li>
+                        <li><a href="ajouterbadminton.php">Ajouter Client</a></li>
+                        
+                    </ul>
+                </li>
                 
 
                 

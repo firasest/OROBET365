@@ -20,7 +20,7 @@ public function verifier(){
 
   if (!$resultat)
 {
-  header('location:../../registration.php?error=oui');
+  header('location:../registration.php?error=oui');
   
 }
    else
