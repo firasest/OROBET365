@@ -29,11 +29,11 @@ public function verifier(){
        $_SESSION['id'] = $resultat['id'];
        $_SESSION['username'] = $resultat['username'];
        $_SESSION['password'] = $resultat['password'];
-       $_SESSION['email'] = $resultat['email'];
+       
        
        
 	   
-	header('location:../../en2.html');
+	header('location:../../en2.php');
 
 
 } 

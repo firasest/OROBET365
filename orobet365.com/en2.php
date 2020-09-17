@@ -1,3 +1,7 @@
+<?php
+
+
+?>
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
@@ -151,129 +155,11 @@
             margin-left: -12%;
         ">
         </a>
-        <div class="navbar">
-            <div class="navbar_top_line">
-                <nav class="casino_options_nav">
-                    <ul class="casino_options_list">
-                        <li class="casino_options_li">
-                            <a data-title="Orobet365.com- Online Casino, Slots, Online Lottery"
-                               href="en2.html"
-                               class="casino_options_link">Casino</a>
-                        </li>
-                        <li class="casino_options_li">
-                            <a data-title="Online Kasino - ArgoCasino.com"
-                               href="en2/live-casino.html"
-                               class="casino_options_link">Live Casino</a>
-                        </li>
-                        <li class="casino_options_li">
-                            <a data-title="TV Games"
-                               href="en2/tv_games.html"
-                               class="casino_options_link">TV games</a>
-                        </li>
-                        <li class="casino_options_li">
-                            <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="en2/sport.html"
-                               class="casino_options_link">Sport</a>
-                        </li>
-                        <li class="casino_options_li">
-                            <a data-title="Virtual Sport - ArgoCasino.com"
-                               href="en2/virtual-sport.html"
-                               class="casino_options_link">Virtual Sport</a>
-<!--                            <ul class="casino_options_sub_menu">-->
-<!--                                <li class="casino_options_sub_menu_li">-->
-<!--                                    <a href="/--><?//= LANGUAGE_CODE . '/' . ( User::isOnline() ? 'game' : 'demo' ) . '/football-league-3392' ?><!--"-->
-<!--                                       class="casino_options_sub_menu_game_link">-->
-<!--                                        Kiron-->
-<!--                                    </a>-->
-<!--                                </li>-->
-<!--                                <li class="casino_options_sub_menu_li">-->
-<!--                                    <a href="/--><?//= LANGUAGE_CODE . '/' . ( User::isOnline() ? 'game' : 'demo' ) . '/virtual-basketball-league-3391' ?><!--"-->
-<!--                                       class="casino_options_sub_menu_game_link">-->
-<!--                                        BetRadar-->
-<!--                                    </a>-->
-<!--                                </li>-->
-<!--                            </ul>-->
-                        </li>
-<!--                        <li class="casino_options_li">-->
-<!--                            <a href=""-->
-<!--                               class="casino_options_link">--><!--</a>-->
-<!--                        </li>-->
-                    </ul>
-                    <!-- /.casino_options_list -->
-                </nav>
-
-                <a href="en2/e-sport.html">
-                    <img src="img/logo_ESports.svg" alt="">
-                </a>
-                <!-- /.casino_options_nav -->
-                <nav class="header-top__nav pull-left main_top_bar">
-                    <ul class="header-top__nav__list pull-left horizontal left_top_menu">
-                        <li class="header-top__nav__item">
-                            <a title="Promotions"
-                               href="en2/bonuses.html">
-                                <i class="icon-promo"></i>
-                                <span>Promotions</span>
-                            </a>
-                        </li>
-						                            <li class="header-top__nav__item">
-                                <a title="Tournaments"
-                                   href="en2/tournament.html">
-                                    <i class="icon-tournament"></i>
-                                    <span>Tournaments</span>
-                                </a>
-                            </li>
-						
-						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="en2/download.html">
-                                    <i class="icon-download"></i>
-                                    <span>Download</span>
-                                </a>
-                            </li>
-												                            <li class="lang_box">
-                                <div class="lang-switcher">
-									                                    <div class="lang_switch_active">EN</div>
-                                    <ul class="hidden_switcher">
-
-
-										<li class="ru"><a href="ru.html"></a><a class="no_image" href="ru.html"><span>Русский</span></a></li><li class="pl"><a href="pl.html"></a><a class="no_image" href="pl.html"><span>Polski</span></a></li><li class="sv"><a href="sv.html"></a><a class="no_image" href="sv.html"><span>Svenska</span></a></li><li class="en active"><a href="en.html"></a><a class="no_image" href="en.html"><span>English</span></a></li><li class="de"><a href="de.html"></a><a class="no_image" href="de.html"><span>Deutsch</span></a></li><li class="ro"><a href="ro.html"></a><a class="no_image" href="ro.html"><span>Română</span></a></li><li class="zh"><a href="zh.html"></a><a class="no_image" href="zh.html"><span>Chinese</span></a></li><li class="uk"><a href="uk.html"></a><a class="no_image" href="uk.html"><span>Українська</span></a></li><li class="tr"><a href="tr.html"></a><a class="no_image" href="tr.html"><span>Turkey</span></a></li>                                    </ul>
-                                </div>
-                            </li>
-
-															<!--                                <li><a class="fix-login btn small blue popup-open"-->
-<!--                                       href="/--><?//= LANGUAGE_CODE ?><!--/registration?login"><span>--><!--</span></a>-->
-<!--                                </li>-->
-																			                    </ul>
-                </nav>
-            </div><!-- /.navbar_top_line -->
-            <div class="navbar_bottom_line">
-                <nav class="header-top__nav pull-right main_top_bar">
-                    <ul class="header-top__nav__list horizontal">
-                        <li class="search_box">
-
-                            <div id="search-plugin">
-                                <div class="">
-                                    <form action="http://6.argocasino50.com/en/search" method="get" class="search_form">
-                                        <input type="text" class="search-plugin__text" name="q"
-                                               placeholder="Search games">
-                                        <input type="submit" class="search-plugin__btn" onclick="$('form.search_form').submit(); return false;" value="search">
-                                        <!--			  <a href="#" class="search_close" onclick="$('body').click(); return false;"></a>-->
-                                    </form>
-<!--                                    <div class="search_close" onclick="$('body').click(); $(this).hide(); return false;"><i></i></div>-->
-                                </div>
-                            </div>
-                        </li>
-						                            <li class="flex100">
-                                <a class="fix-login btn small blue popup-open"
-                                   href="en2/registrationd56b.php?login"><span>Login</span></a>
-                            </li>
-                            <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="en2/registration.php"><span>Join Now</span></a>
-                            </li>
-							                    </ul>
-                </nav>
-            </div><!-- /.navbar_bottom_line -->
-        </div><!-- /.navbar     -->
-    </div>
+        <!-- Header -->
+        <?php
+                include("en/includes/menu.php");
+                ?>
+        <!-- end Header -->
     <div class="autocomplete-suggestions"
          style="position: absolute; display: none; max-height: 485px; z-index: 9999;"></div>
 </div>
