@@ -1,37 +1,26 @@
 <?php
 class Client{
-private $nom;
-private $prenom;
-private $email;
-private $date_nas;
-private $nationalite;
-private $region;
-private $adresse;
-private $adresse2;  
-private $ville;
-private $mobile;
-private $username;
+private $login;
+private $name;
+private $city;
+private $surname;
+private $email; 
 private $password;
-private $confirmpassword;
-private $code;
+private $phone;
+
+
               
 
-function __construct($nom,$prenom,$email,$date_nas,$nationalite,$region,$adresse,$adresse2,$ville,
-$mobile,$username,$password,$confirmpassword,$code){
-$this->nom = $nom;
-$this->prenom = $prenom;
-$this->email = $email;
-$this->date_nas = $date_nas;
-$this->nationalite = $nationalite;
-$this->region = $region;
-$this->adresse = $adresse;
-$this->adresse2 = $adresse2;
-$this->ville = $ville;
-$this->mobile = $mobile;
-$this->username = $username;
-$this->password = $password;
-$this->confirmpassword = $confirmpassword;
-$this->code = $code;
+function __construct($login,$name,$city,$surname,$email,$password,$phone){
+  $this->login = $login;
+  $this->name = $name;
+  $this->city = $city;
+  $this->surname = $surname;
+  $this->email = $email;
+  $this->password = $password;
+  $this->phone = $phone;
+  
+
 
 
 
@@ -42,34 +31,27 @@ public function ajouter(){
   include('../includes/connect_db.php');
       
     
-      $req = $bdd->exec ("INSERT INTO `client`(`nom`,
-                                              `prenom`,
+      $req = $bdd->exec ("INSERT INTO `client`(
+                                              `login`
+                                              `name`,
+                                              `surname`,
                                               `email`,
-                                              `date_nas`,
-                                              `nationalite`,
-                                              `region`,
-                                              `adresse`,
-                                              `adresse2`, 
-                                              `ville`, 
-                                              `mobile`,
-                                              `username`, 
+                                              `city`, 
+                                              `phone`,
+                                              `login`, 
                                               `password`,
-                                              `confirmpassword`,
-                                              `code`)
-       VALUES ('$this->nom',
-               '$this->prenom',
+                                              
+                                              )
+       VALUES ('$this->login',
+               '$this->name',
+               '$this->surname',
                '$this->email',
-               '$this->date_nas',
-               '$this->nationalite',
-               '$this->region',
-               '$this->adresse',
-               '$this->adresse2',
-               '$this->ville',
-               '$this->mobile',
-               '$this->username',
+               '$this->city',
+               '$this->phone',
+               '$this->login',
                '$this->password',
-               '$this->confirmpassword',
-               '$this->code')");
+               
+               )");
       
       echo 'oui';
                   //return TRUE;
@@ -84,19 +66,19 @@ public function ajouter(){
     $id=$_GET['id'];
         
     $req=$bdd->exec("UPDATE `client` SET 
-     `nom`='$this->nom',
-     `prenom`='$this->prenom',
+     `name`='$this->name',
+     `surname`='$this->surname',
      `email`='$this->email',
      `date_nas`='$this->date_nas',
      `nationalite`='$this->nationalite',
      `region`='$this->region',
-     `ville`='$this->ville',
+     `city`='$this->city',
      `adresse2`='$this->adresse2',
      `region`='$this->region',
-     `email`='$this->mobile',
-     `date_nas`='$this->username',
+     `email`='$this->phone',
+     `date_nas`='$this->login',
      `nationalite`='$this->password',
-     `region`='$this->confirmpassword',
+     `region`='$this->gender',
      `nationalite`='$this->code',
     
       WHERE id=$id");
@@ -121,7 +103,7 @@ public function supprimer(){
         
 }
 
-//$instance = new User($_POST['nom'],$_POST['prenom'],$_POST['nom'],$_POST['email'],$_POST['pass'],$_POST['type']);
+//$instance = new User($_POST['name'],$_POST['surname'],$_POST['name'],$_POST['email'],$_POST['pass'],$_POST['type']);
 
 
 ?>

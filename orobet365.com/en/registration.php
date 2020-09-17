@@ -478,85 +478,59 @@ include("includes/connect_db.php");
                 <div class="register-container">
 
                     <div class="register ">
-                        <form id="ajax-register-form" class="ajax-register-form" action="Controller/ajouter_client.php">
-
-                            <input type="hidden" name="csrf" value="b712f75b459eecf2642b2b37615fe8b5"> 
-                            <div class="pull-left popup-registration__item">
-                                <input name="login" type="text" placeholder="Login" autocomplete="off"/>
+                    <form action="Controller/ajouter_client.php">
+                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <div class="pull-left popup-registration__item">
+                                <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
 
-                        
-
-
-                            <div class="pull-left popup-registration__item">
-                                <input name="name" type="text" placeholder="Name" autocomplete="off"/>
-                            </div>
+                           
 
                             <div class="pull-left popup-registration__item">
-                                <input name="city" type="text" placeholder="City" autocomplete="off"/>
+                                <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
                             </div>
                             
 
 
                             <div class="pull-left popup-registration__item">
-                                <input name="surname" type="text" placeholder="Surname" autocomplete="off"/>
+                                <input name="prenom" type="text" placeholder="Prename" autocomplete="off"/>
                             </div>
 
+                           
+                            <br/>
+                            
 
                             <div class="pull-left popup-registration__item">
-                                <input id="birthday" type="number" class="datepicker" id="from" name="birth_day" value="" placeholder="Date of Birth" autocomplete="off">
-                                <input type="text" class="input_tel" name="phone" id="user-phone"
-                                       placeholder="Phone number (optional)">
-
+                                <input name="email" type="email" placeholder="Email" autocomplete="off"/>
                             </div>
 
-
-                            <div class="pull-left popup-registration__item">
-                                <input name="email" value="" type="email" placeholder="E-Mail" autocomplete="off"/>
-
-                                <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
-                            </div>
 
                            
 
 
-                            <div class="gender pull-left popup-registration__item">
-                                <div class="gender_label">Gender:</div>
-                                <ul class="radio_gender">
-                                    <li class="male"><input name="gender" value="m" type="radio" class="radio styled" checked/> Male</li>
-                                    <li><input name="gender" value="f" type="radio" class="radio styled"/> Female</li>
-                                </ul>
+                            <div class="pull-left popup-registration__item">
+                                
+
+                                <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
                             </div>
+                            <br/>
 
-                           <!-- <div class="pull-left popup-registration__item">-->
+                            <div class="pull-left popup-registration__item">
+                                <input name="phone" value="" type="number" placeholder="Number" autocomplete="off"/>
 
+                            </div>
+                            <br/>
 
-                            <!--    <div class="currency_label">Choose the currency:</div>-->
-                              <!--  <ul class="radio_currency">
-                                    <li class="first-column">
-                                        
-        <input name="currency" value="eur" type="radio" class="radio styled" checked/>
-        EUR
-                                            </li>
-                                    <li>
-                                        
-        <input name="currency" value="rub" type="radio" class="radio styled" />
-        RUB
-                                            </li>
-                                    <br/>
-                                    <li class="first-column">
-                                        
-        <input name="currency" value="pln" type="radio" class="radio styled" />
-        PLN
-                                            </li>
-                                    <li>
-                                        
-        <input name="currency" value="sek" type="radio" class="radio styled" />
-        SEK
-                                            </li>
-                                </ul>-->
-                            <!--</div>-->
+                            
 
+                            
+
+                            
+
+                           
+
+                            
+
+                            
 
                             
 
