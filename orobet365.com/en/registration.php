@@ -478,19 +478,14 @@ include("includes/connect_db.php");
                 <div class="register-container">
 
                     <div class="register ">
-                        <form id="ajax-register-form" class="ajax-register-form">
-                            <input type="hidden" name="csrf" value="b712f75b459eecf2642b2b37615fe8b5">                            <div class="pull-left popup-registration__item">
+                        <form id="ajax-register-form" class="ajax-register-form" action="Controller/ajouter_client.php">
+
+                            <input type="hidden" name="csrf" value="b712f75b459eecf2642b2b37615fe8b5"> 
+                            <div class="pull-left popup-registration__item">
                                 <input name="login" type="text" placeholder="Login" autocomplete="off"/>
                             </div>
 
-                            <div class="pull-left popup-registration__item">
-                                <select name="country" id="styled-country" class="styled styled-country gold-reg-country-select simple-select">
-                                    <option value=""></option>
-                                </select>
-
-                                <label id="styled-country-error" class="error" for="styled-country"></label>
-                            </div>
-                            <br/>
+                        
 
 
                             <div class="pull-left popup-registration__item">
@@ -500,7 +495,7 @@ include("includes/connect_db.php");
                             <div class="pull-left popup-registration__item">
                                 <input name="city" type="text" placeholder="City" autocomplete="off"/>
                             </div>
-                            <br/>
+                            
 
 
                             <div class="pull-left popup-registration__item">
@@ -509,7 +504,10 @@ include("includes/connect_db.php");
 
 
                             <div class="pull-left popup-registration__item">
-                                <input id="birthday" type="text" class="datepicker" id="from" name="birth_day" value="" placeholder="Date of Birth" autocomplete="off">
+                                <input id="birthday" type="number" class="datepicker" id="from" name="birth_day" value="" placeholder="Date of Birth" autocomplete="off">
+                                <input type="text" class="input_tel" name="phone" id="user-phone"
+                                       placeholder="Phone number (optional)">
+
                             </div>
 
 
@@ -519,17 +517,7 @@ include("includes/connect_db.php");
                                 <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
                             </div>
 
-                            <div class="pull-left popup-registration__item client-phone">
-                                <input type="text" class="input_tel" name="phone" id="user-phone"
-                                       placeholder="Phone number (optional)">
-
-                                <div class="pull-left popup-registration__item tooltip-container">
-                                    <div class="tooltip bottom" role="tooltip">
-                                        <div class="tooltip-arrow"></div>
-                                        <div class="tooltip-inner"> Enter your phone number and get <b>BONUSES</b>                                            <i class="icon-promo"></i></div>
-                                    </div>
-                                </div>
-                            </div>
+                           
 
 
                             <div class="gender pull-left popup-registration__item">
@@ -540,11 +528,11 @@ include("includes/connect_db.php");
                                 </ul>
                             </div>
 
-                            <div class="pull-left popup-registration__item">
+                           <!-- <div class="pull-left popup-registration__item">-->
 
 
-                                <div class="currency_label">Choose the currency:</div>
-                                <ul class="radio_currency">
+                            <!--    <div class="currency_label">Choose the currency:</div>-->
+                              <!--  <ul class="radio_currency">
                                     <li class="first-column">
                                         
         <input name="currency" value="eur" type="radio" class="radio styled" checked/>
@@ -566,38 +554,11 @@ include("includes/connect_db.php");
         <input name="currency" value="sek" type="radio" class="radio styled" />
         SEK
                                             </li>
-                                </ul>
-                            </div>
+                                </ul>-->
+                            <!--</div>-->
 
 
-                            <br/>
-                            <div style="clear: both"></div>
-                            <div class="register-agreement-block">
-                                <!--                                -->                                <div class="check-label">
-                                    <input name="notifications" checked="checked"
-                                           class="checkbox styled checkbox-normal"
-                                           type="checkbox" autocomplete="off"/>
-                                    I would like to receive exclusive bonuses, special promotions and gifts from ArgoCasino.com                                </div>
-                                <!--                                -->                                <br/>
-                                <div class="check-label">
-                                    <input name="autobonus" checked="checked" class="checkbox styled checkbox-normal"
-                                           type="checkbox"
-                                           autocomplete="off"/>
-                                    I would like bonuses to be automatically credited to my account                                </div>
-                                <br/>
-                                <div class="check-label">
-                                    <input name="sms" checked="checked" class="checkbox styled checkbox-normal"
-                                           type="checkbox"
-                                           autocomplete="off"/>
-                                    Follow promotions via SMS                                </div>
-                                <br/>
-                                <div class="check-label accept">
-                                    <input name="accept" checked="checked" class="checkbox styled checkbox-normal"
-                                           type="checkbox"
-                                           autocomplete="off"/>
-                                    <p style="margin-top: -10px" class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="rules.html">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
-                                </div>
-                            </div>
+                            
 
                             <button type="submit" id="register" class="reg-fix btn green_long big">
                                 <span>Join Now</span>
@@ -608,7 +569,7 @@ include("includes/connect_db.php");
 
 
                     <div class="logining none">
-                        <form id="ajax-login-form" class="ajax-login-form" action="Controller/cnx_admin.php" method="post">
+                        <form  action="Controller/cnx_admin.php" method="post">
                             <input type="hidden" name="csrf" value="b712f75b459eecf2642b2b37615fe8b5">                            
                             <input type="text" name="login" placeholder="Login or Email" autocomplete="off"/>
                             <br>
@@ -630,12 +591,7 @@ include("includes/connect_db.php");
                             </button>
                         </form>
                     </div>
-                    <div class="footer_form">
-                        <h3>Or login via social networks:</h3>
-                        <div class="social_box">
-    <ul>
-                <li><a href="https://oauth.jocsystems.com:30443/facebook/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login facebook"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/google/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login google"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/mailru/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login mailru"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/odnoklassniki/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login odnoklassniki"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/vkontakte/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login vkontakte"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/yandex/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login yandex"><div></div></a></li>    </ul>
-</div>                    </div>
+                    
                 </div>
             </div>
         </div>
