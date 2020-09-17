@@ -1,3 +1,7 @@
+<?php
+
+
+?>
 <div class="navbar">
             <div class="navbar_top_line">
                 <nav class="casino_options_nav">
@@ -109,13 +113,25 @@
                                 </div>
                             </div>
                         </li>
-						                            <li class="flex100">
+                        <?php if( isset($_SESSION['username'])  )
+{
+?>
+						                            
+                            <li class=""><a class="btn green_reg_top small popup-open"
+                                   href="registration.html"><span>Logout</span></a>
+                            </li>
+
+                            <?php }else{ ?>
+
+                                <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
                                    href="registrationd56b.html?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
                                    href="registration.html"><span>Join Now</span></a>
                             </li>
+
+                            <?php } ?>
 							                    </ul>
                 </nav>
             </div><!-- /.navbar_bottom_line -->
