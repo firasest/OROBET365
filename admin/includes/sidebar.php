@@ -19,7 +19,8 @@
                
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
+                        <i class="bx bx-aperture"></i>
                         <span>Sport</span>
                         
                     </a>
@@ -27,7 +28,7 @@
 
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>Football</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -38,7 +39,7 @@
                 </li>
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>Tennis</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -49,7 +50,7 @@
                 </li>
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>BasketBAll</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -60,7 +61,7 @@
                 </li>
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>Icehockey</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -72,7 +73,7 @@
 
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>BaseBall</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -84,7 +85,7 @@
 
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>VolleyBall</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -96,7 +97,7 @@
 
                 <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
+                        
                         <span>BadMinton</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
@@ -111,17 +112,7 @@
 </ul> 
 
 </li>
-<li>
-                    <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-user-circle"></i>
-                        <span>Client</span>
-                    </a>
-                    <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="listesbadminton.php">Listes Client</a></li>
-                        <li><a href="ajouterbadminton.php">Ajouter Client</a></li>
-                        
-                    </ul>
-                </li>
+
                 
 
                 
@@ -130,18 +121,17 @@
              
 
               
-             <!--   <li>
+              <li>
                     <a href="javascript: void(0);" class="has-arrow waves-effect">
-                        <i class="bx bx-aperture"></i>
-                        <span>Icons</span>
+                    <i class="bx bx-user-circle"></i>
+                        <span>Clients</span>
                     </a>
                     <ul class="sub-menu" aria-expanded="false">
-                        <li><a href="icons-boxicons.html">Boxicons</a></li>
-                        <li><a href="icons-materialdesign.html">Material Design</a></li>
-                        <li><a href="icons-dripicons.html">Dripicons</a></li>
-                        <li><a href="icons-fontawesome.html">Font awesome</a></li>
+                        <li><a href="listeclient.php">liste Client</a></li>
+                        <li><a href="ajouterclient.php">Ajouter Client $ Balance</a></li>
+                        
                     </ul>
-                </li>-->
+                </li>
 
                
 
