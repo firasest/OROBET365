@@ -16,7 +16,7 @@
         <meta property="og:site_name" content="argocasino.com">
         <meta property="og:title" content="Orobet365.com- Online Casino, Slots, Online Lottery">
         <meta property="og:description" content="">
-        <meta property="og:url" content="en.html">
+        <meta property="og:url" content="en2.html">
         <meta property="og:locale" content="en_EN">
         <meta property="og:image" content="../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
@@ -27,8 +27,8 @@
         <meta name="twitter:title" content="Orobet365.com- Online Casino, Slots, Online Lottery">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="en.html">
-        <meta name="twitter:domain" content="en.html">
+        <meta name="twitter:url" content="en2.html">
+        <meta name="twitter:domain" content="en2.html">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
@@ -148,7 +148,7 @@
             
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.html" class="logo_link">
+        <a href="en2.html" class="logo_link">
             <img src="img/orobet365.png"  style="
             width: 130%;
             margin-top: 20%;
