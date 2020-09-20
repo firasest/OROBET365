@@ -480,107 +480,133 @@
     }
 </style>
 
-<section
-        class="game_page "
-        style="visibility: hidden; min-width: 1200px">
+<section class="game_page " style="visibility: hidden; min-width: 1200px">
     <div class="flex-game-table">
         <div class="flex-game-table__box">
             <div class="loading"></div>
-			                <div class="clearfix">
-                    <div class=" ig_green_banner">
-                        <div style="margin: 0 auto;width: 935px">
-                            <img style="margin-top: 5px;float: left" src="../../img/ArgoCasino_play.png">
-                            <h2 class="ig_h1_demo">
-								You are playing in demo mode. Playing for real money is much more interesting !                            </h2>
-                            <a class="ig_denghi" href="../registrationd56b.html">
-								play for money                            </a>
-                        </div>
-                    </div>
-                </div>
-			            <div class="flex-game-table__box__container ">
+            <div class="flex-game-table__box__container ">
                 <div class="loader"></div>
                 <div class="flex-game-table__game">
 
                     <div class="game-box__container">
-						                            <iframe id="game_frame"
-                                    allowfullscreen
-                                    width="1280"
-                                    height="720" scrolling="no"
-                                    src="https://client.qtlauncher.com/client/game-launcher.html#/?gameSession=30b6024f-3bca-4505-a74a-c66782216317">
-                            </iframe>
-							                        <div class="flex-game-table__sidebar-right" id="sidebar-right">
+                        <iframe id="game_frame" allowfullscreen width="1200" height="800" scrolling="no"
+                            src="https://mollinar.pragmaticplay.net/gs2c/playGame.do?key=token%3D7c2f7c3e-f670-4635-ad1f-5392f1c1e6b8%26symbol%3Dvs25wolfgold%26technology%3DH5%26platform%3DWEB%26language%3Den%26cashierUrl%3Dhttps%253A%252F%252F6.argocasino50.com%252Fen%252Faccount%252Fdeposit%26lobbyUrl%3Dhttps%253A%252F%252F6.argocasino50.com%252Fen%26operatorGameHistoryUrl%3Dhttps%253A%252F%252F6.argocasino50.com%252Fen%252Faccount%252Fhistory%26secureLogin%3Dmol_zigzag777sw&stylename=mol_zigzag777sw">
+                        </iframe>
+                        <div class="flex-game-table__sidebar-right" id="sidebar-right">
                             <span class="open_btn_deposit">
                             </span>
                             <div class="sidebar__box">
-								                                <div class="deposit_box">
+                                <div class="deposit_box">
                                     <p>INSTANT DEPOSIT</p>
-									                                </div>
+                                    <form class="ajax-deposit-form-new" method="post" action="/ajax/newdep">
+                                        <input type="hidden" name="paymethod" value="sc_visa">
+                                        <div class="user-deposit-payment_mode__tab cloud-gray show_tab">
+                                            <ul class="dep_amount">
+                                                <li data-amount="10">10<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                                <li data-amount="25">25<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                                <li data-amount="50">50<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                                <li data-amount="100">1<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                            </ul>
+                                            <ul class="ps__list horizontal">
+                                                <li class="pull-left_ text_pool_right">
+                                                    <input type="text" autofocus="" name="amount" style="width: 160px"
+                                                        class="profile__input-text" value=""
+                                                        placeholder="INSTANT DEPOSIT">
+                                                    <input id="sc_visa" style="" type="text" name="code"
+                                                        class="profile__input-text promo_code" placeholder="">
+                                                </li>
+                                                <li class="pull-right_ action">
+
+                                                    <button onclick="ga('send','event','Web','Deposit'); return true;"
+                                                        class="btn green_dep small" type="submit">
+                                                        <span class="withdraw_cancel">Deposit</span>
+                                                    </button>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </form>
+                                </div>
                                 <div class="winwin">
-									
-<div class="win-now">
-    <ul class="win-now__list">
-                    <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">42 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="crystal-queen-2932.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ALEX1*</div>
-                        <div class="win-now-sum">2 CREDITS</div>
-                        <div class="win-now_game">Crystal Queen</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bb4b68211b1e.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">180 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="micro-knights-4669.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">DDDDD*</div>
-                        <div class="win-now-sum">412 CREDITS</div>
-                        <div class="win-now_game">Micro Knights</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15e564074529fe.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="gonzo-s-quest-megaways-6862.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">SVETA*</div>
-                        <div class="win-now-sum">14.4 CREDITS</div>
-                        <div class="win-now_game">Gonzo's Quest Megaways</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15f3d133617f75.jpg"/>
-                    </div>
-                </a>
-            </li>
-                </ul>
-</div>
+
+                                    <div class="win-now">
+                                        <ul class="win-now__list">
+                                            <li class="win-now-li">
+                                                <a href="/en/game/playboy-5326">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">RETRA*</div>
+                                                        <div class="win-now-sum">1000 CREDITS</div>
+                                                        <div class="win-now_game">Playboy</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15e593c4d09c0b.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/mustang-gold-3122">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">BANZA*</div>
+                                                        <div class="win-now-sum">247.5 CREDITS</div>
+                                                        <div class="win-now_game">Mustang Gold</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15c4033df9026a.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/game-of-thrones-ways-5568">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">TENIS*</div>
+                                                        <div class="win-now-sum">3 CREDITS</div>
+                                                        <div class="win-now_game">Game of Thrones 243 Ways</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15e59fc87e86a2.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/john-hunter-and-the-tomb-of-the-scarab-queen-4196">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">PERSE*</div>
+                                                        <div class="win-now-sum">5 CREDITS</div>
+                                                        <div class="win-now_game">John Hunter and the Tomb of the Scarab
+                                                            Queen</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15d8c78c0d1f1c.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/john-hunter-and-the-tomb-of-the-scarab-queen-4196">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">PERSE*</div>
+                                                        <div class="win-now-sum">5 CREDITS</div>
+                                                        <div class="win-now_game">John Hunter and the Tomb of the Scarab
+                                                            Queen</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15d8c78c0d1f1c.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -590,134 +616,7 @@
 
             </div>
 
-			                <div itemscope
-                     itemtype="http://schema.org/WebApplication"
-                     class='pl_back'
-                     style='margin-bottom: 40px !important;border: 1px solid #5b563d;margin-top: 25px !important;'>
-                    <link itemprop="applicationCategory" href="https://schema.org/BrowserApplication"/>
-                    <meta itemprop="name" content="Beat the Beast: Mighty Sphinx">
-                    <meta itemprop="applicationSubCategory" content="popular">
-                    <meta itemprop="applicationSuite" content="Thunderkick">
-                    <meta itemprop="operatingSystem" content="Any">
-                    <meta itemprop="thumbnailUrl" content="../../../d32wwkuryjkg7f.cloudfront.net/img/15e97022908bd7.jpg">
-                    <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                        <meta itemprop="price" content="10.00">
-                        <meta itemprop="priceCurrency" content="RUB, EUR, PLN, SEK" />
-                    </div>
-					                        <div itemprop="aggregateRating"
-                             itemscope
-                             itemtype="http://schema.org/AggregateRating"
-                             class="rating_box">
-
-                            <div>
-
-								
-                                <span>
-                                <ol class="floating-box">
-                                    <li>
-                                        <a href="javascript:void('#star1')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star2')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star3')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                </ol>
-                            </span>
-                                <span>
-                                <b style="float: right;
-                                        font-size: 16px;
-                                        color: #ffba00;
-                                        margin-top: 9px;
-                                        margin-left: 140px;
-                                        text-transform: uppercase;
-                                        font-weight: initial;">
-                                    GAME RATING 5                                    <img style=" width: 13px;background-color: #e8ba00;"
-                                         src="../../img/argo_rating_star_contur1.png"/>
-                                </b>
-                            </span>
-                                <meta itemprop="ratingValue"
-                                      content="5">
-                                <meta itemprop="ratingCount"
-                                      content="5">
-                                <meta itemprop="worstRating" content="0">
-                                <meta itemprop="bestRating" content="5">
-                            </div>
-                        </div>
-                        <style>
-
-                            .floating-box {
-                                list-style-type: none;
-                                margin: 0;
-                                padding: 0;
-                                position: absolute;
-                            }
-
-                            .floating-box li {
-                                float: left;
-                            }
-
-                            .floating-box li img {
-                                /*position: absolute;*/
-                                z-index: 246 !important;
-                                height: 30px !important;
-                                width: auto !important;
-                                margin-right: 2px;
-                            }
-
-                            .floating-box li a:hover img {
-                                background-color: #e8ba00;
-                            }
-                        </style>
-                        <div class="breadcrumbs_g">
-							                            <ol itemscope itemtype="http://schema.org/BreadcrumbList"  >
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem"
-                                    style="float: left;margin-right: 3px">
-                                    <a itemprop="item" href="../../index.html">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                Home                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="1"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" style="float: left;margin-right: 3px">
-                                    /<a itemprop="item"
-                                        href="../popular.html">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                popular                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="2"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" class="overflow ellipsis">
-                                    /<a itemprop="item">
-                                        <span itemprop="name">Beat the Beast: Mighty Sphinx</span>
-                                    </a>
-                                    <meta itemprop="position" content="3"/>
-                                </li>
-                            </ol>
-                        </div>
-
-										<h1 style='text-align: center;color: #ffba00'>To play in  Beat the Beast: Mighty Sphinx at ArgoCasino </h1>                     <p itemprop="description" style='text-align: justify'>The newest slot machine  Beat the Beast: Mighty Sphinx from the best provider Thunderkick  and ArgoCasino. Modern graphics and high quality sound will capture your attention. This is one of the best online slots from the provider Thunderkick . The Slot Machine Beat the Beast: Mighty Sphinx - is one of the most popular games from this category. This slot will help you re-open the world of the online slot machines and try your luck. The easy rules of Beat the Beast: Mighty Sphinx are clear enough even to newbies.  </p>                     <h2 style='text-align: center;color: #ffba00'>Slot machine Beat the Beast: Mighty Sphinx: on real money or free demo version</h2>                     <p itemprop="description" style='text-align: justify;'>Slot machine  Beat the Beast: Mighty Sphinx allows you to play online without registration and absolutely for free. The game- play in the online casino can bring essential winnings, as well as, loses. That is why, before starting to play real money on the Beat the Beast: Mighty Sphinx slot machine make sure you totally got familiar with the game-play in demo version. Anyone can play on Beat the Beast: Mighty Sphinx. You can play the demo version absolutely for free, or you can register and play on real money. Slot Beat the Beast: Mighty Sphinx, would rather be preferred by players of profitable classic games. But  even those who prefer the modern online (offline) slot machines, should not pass by this wonderful game.  </p>                </div>
-			        </div>
+        </div>
         <!--.flex-game-table -->
 </section>
 <!--<div id="loader-spinner"><i class="fa fa-spinner faa-spin animated"></i></div>-->
