@@ -9,7 +9,7 @@
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="orobet365.com">
         <meta property="og:title" content="Terms and conditions">
         <meta property="og:description" content="">
         <meta property="og:url" content="../en.php">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">orobet365.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - ArgoCasino.com"
+                            <a data-title="Online Kasino - orobet365.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - ArgoCasino.com"
+                            <a data-title="Virtual Sport - orobet365.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in ArgoCasino.com"
+                    <a data-title="Retro Slots Online in orobet365.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - ArgoCasino.com"
+                    <a data-title="Online Kasino - orobet365.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - ArgoCasino.com"
+                    <a data-title="Brettspiele - orobet365.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -478,8 +478,8 @@
   <li id="intro">
     <h4>Introduction</h4>
     <ol>
-      <li>ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar. Address 1st Floor Garrison House 3 Library Ramp Gibraltar, Gibraltar GX11 1AA. Company Number 112971. Contact information: support@argocasino.com Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.</li>
-      <li>ArgoCasino.com is licensed in Curacao and the license № 8048/JAZ2015-008 is held by JocSystems N.V. a limited liability company incorporated under the laws of Curacao, bearing company number 124835 and having its registered address at E-Commerce Park, Vredenberg, Curacao.</li>
+      <li>orobet365.com is owned and operated by JocSolutions Limited, Gibraltar. Address 1st Floor Garrison House 3 Library Ramp Gibraltar, Gibraltar GX11 1AA. Company Number 112971. Contact information: support@orobet365.com Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.</li>
+      <li>orobet365.com is licensed in Curacao and the license № 8048/JAZ2015-008 is held by JocSystems N.V. a limited liability company incorporated under the laws of Curacao, bearing company number 124835 and having its registered address at E-Commerce Park, Vredenberg, Curacao.</li>
     </ol>
   </li>
 </ol>
@@ -511,7 +511,7 @@
       <li>Any e-mail is for the intended recipient only and is confidential because it contains an authorization key. It is forbidden to forward, copy or reprint the contents of the letter.</li>
       <li>You must keep your Username and Password confidential and should not disclose them to anyone. You shall be responsible for all activities and transactions conducted on your Player Account. Every person who identifies him/herself by entering your correct Username and Password is assumed by us to be you, and all transactions where the Username and Password have been entered correctly will be regarded as valid. We will not be responsible for any third party access to your Player Account and under no circumstances shall we be liable for any losses incurred by you as a result of misuse of your Username and Password by any person or for any unauthorized access to your Player Account.</li>
       <li>You may not use anyone else's username or password, and you will not use any other person's Player Account or means of payment to access or use the Online Casino or the Website or the Software.</li>
-      <li>We will only use your personal information in accordance with our privacy policy, which is set out in full at http://argocasino.com/en/privacy-policy. We reserve the right to amend the Privacy Policy at any time. We may also ask you to provide us with additional details and any such additional information will also be kept confidential in accordance with our Privacy Policy.</li>
+      <li>We will only use your personal information in accordance with our privacy policy, which is set out in full at http://orobet365.com/en/privacy-policy. We reserve the right to amend the Privacy Policy at any time. We may also ask you to provide us with additional details and any such additional information will also be kept confidential in accordance with our Privacy Policy.</li>
     </ol>
   </li>
   <li id="rule-4">
@@ -534,8 +534,8 @@
   <li id="rule-5">
     <h4>SELF-EXCLUSION</h4>
     <ol>
-      <li>If you feel that you have lost control of your gambling behavior, we offer you a self-exclusion possibility which can be activated by contacting<a href="mailto:support@argocasino.com">support@argocasino.com</a>. Self-exclusion means that player account is closed during the entire exclusion period.</li>
-      <li>Unlike the standard account closure requests, the self-exclusion can be set for a certain period of time. In order to re-activate your account after a self-exclusion request, you need to contact our Customer Support via:<a href="mailto:support@argocasino.com">support@argocasino.com</a>.</li>
+      <li>If you feel that you have lost control of your gambling behavior, we offer you a self-exclusion possibility which can be activated by contacting<a href="mailto:support@orobet365.com">support@orobet365.com</a>. Self-exclusion means that player account is closed during the entire exclusion period.</li>
+      <li>Unlike the standard account closure requests, the self-exclusion can be set for a certain period of time. In order to re-activate your account after a self-exclusion request, you need to contact our Customer Support via:<a href="mailto:support@orobet365.com">support@orobet365.com</a>.</li>
       <li>We will do our best to enforce your self-exclusion request. But at the same time, you acknowledge and agree that the initial responsibility for controlling your gambling experience belongs exclusively to you. Consequently, you totally accept the fact that we will not be responsible if you decide to continue gambling afterward.</li>
       <li>We also recommend an additional step of installing the software that will block access to Internet gambling websites.</li>
     </ol>
@@ -554,7 +554,7 @@
       </li>
 <li>You agree to pay the money to your account directly from the accounts / systems and / or payment card registered in your name. Cash flows from third parties (relatives, friends, partners) will not be accepted. Identification and confirmation of violations of the Rules will result in cancellation and return of all winnings.</li>
       <li>Once your Player Account has been opened, you will be able to credit funds to your Player Account by requesting an electronic transfer of funds using any of the means set out in the Profile section of the Online Casino.</li>
-      <li>By making a deposit on ArgoCasino.com, the player agrees to use at least once the full amount of the deposit on betting. In case when players ignore this rule, ArgoCasino.com reserves the right to impose a fee on the player's account to cover all the deposit and withdrawal costs. If necessary, the amount requested for withdrawal will be reduced depending on the costs incurred by ArgoCasino.com.</li>
+      <li>By making a deposit on orobet365.com, the player agrees to use at least once the full amount of the deposit on betting. In case when players ignore this rule, orobet365.com reserves the right to impose a fee on the player's account to cover all the deposit and withdrawal costs. If necessary, the amount requested for withdrawal will be reduced depending on the costs incurred by orobet365.com.</li>
       <li>You agree to fully pay any and all payments and charges due to us or to Payment Providers in connection with your use of the Online Casino.</li>
       <li>You acknowledge that you may, from time to time, upon our request, be required to provide additional details referring to the Deposits made by you.</li>
       <li>You agree that we will have the right to withhold any Withdrawals, in the event we believe or suspect that you may be engaging in or have engaged in fraudulent, collusive, unlawful or improper activity, or if we are concerned about the operation of that Player Account or the request for Withdrawal. In such cases, we may commence and/or be involved in and/or assist any investigation into such circumstances, and you agree to assist and cooperate with any such investigation.</li>
@@ -567,14 +567,14 @@
 <li>The company reserves the right to combine several withdrawal requests into one for faster transaction processing, as well as to process requests in a different order from the chronological one.</li>
       <li>Terms and Conditions of the withdrawals obtained by playing with No Deposit Bonuses. In case the player wins by playing with a No Deposit Bonus, initially credited as bonus balance or as Free Spins, or by another way, the maximum withdrawal amount constitutes 50 EUR in the equivalent currency of the player account. When such a withdrawal is requested, the amount the player receives is 50 EUR in the equivalent currency of the player account. ArgoCasino Administration reserves the right to cancel the winnings coming from the game-play using a No Deposit Bonus in case the player is using duplicate accounts, is misleading the Casino personnel in order to receive a No Deposit Bonus, as well as any other types of abuse of the Casino Bonus Program, including exceeding the maximum bet provided for the Bonus wagering, as well as, any violation of the present Terms and Conditions. When wagering any Bonus provided by ArgoCasino, the requirements for the maximum bet size must be followed and not exceed (10 EUR). If the maximum bet is exceeded, the winnings will be forfeited. In case there is no specification or reference to that kind of bet amount, in the Promotion Rules or the section that regards the Bonus, the player must contact the Customer Support service to specify the maximum bet amount for the acquired or an eventual Bonus. To withdraw funds from the No-Deposit Bonus is required a minimum deposit from the system to which the funds are to be withdrawn (in case the user has not previously deposited). If the user continues playing after making the minimum deposit (without creating a withdraw request and without waiting for withdrawal of funds), the payment will be made according to the above rules for withdrawing the winnings received from the No-Deposit Bonus, that is, no more than 50 EUR.</li>
       <li>The Bonuses can be claimed upon the actual deposit was performed within the hours of the same day.</li>
-      <li>The wagering requirements of a Bonus at ArgoCasino.com represents 40x of the initial bonus amount, in case the Promotion does not foresee anything different. When wagering a bonus, only bets made using bonus funds are considered. The percentage of bonus wins depends on the game. Bets placed in Baccarat and Craps games are not counted when the bonus is wagered.</li>
+      <li>The wagering requirements of a Bonus at orobet365.com represents 40x of the initial bonus amount, in case the Promotion does not foresee anything different. When wagering a bonus, only bets made using bonus funds are considered. The percentage of bonus wins depends on the game. Bets placed in Baccarat and Craps games are not counted when the bonus is wagered.</li>
       <li>You may close your Player Account at any time by contacting the Online Casino’s customer service, provided that your Player Account is not expected to become in debt/deficit pursuant to any liabilities incurred through your gaming activities on the Online Casino. On closing your Player Account, we will return the balance to you in accordance with the rest of the provisions of this section 8.</li>
     </ol>
   </li>
   <li id="rule-7">
     <h4>VERIFY YOUR IDENTITY. REQUIREMENTS FOR PROTECTION AGAINST MONEY LAUNDERING.</h4>
     <ol>
-      <li>A user can open only one account on a site. An account can belong exclusively to one person, home address, email address, phone number, computer and the same payment account number (card, e-wallet, etc.).  Any other accounts opened on the site will be treated as "Duplicate Accounts". In this case, the company has the right to close any duplicate accounts with the following sanctions: Each transaction performed from the duplicate accounts will be voided; If cash prizes and bonuses have been withdrawn from the Duplicate Account, they will be lost, and the company has the right to demand them back. Argocasino.com reserves the right to cancel the bets, to deny receiving any kind of bonuses or participation in any promotion, as well as prohibit opening an account or close an existing account without prior written notice and any explanations.</li>
+      <li>A user can open only one account on a site. An account can belong exclusively to one person, home address, email address, phone number, computer and the same payment account number (card, e-wallet, etc.).  Any other accounts opened on the site will be treated as "Duplicate Accounts". In this case, the company has the right to close any duplicate accounts with the following sanctions: Each transaction performed from the duplicate accounts will be voided; If cash prizes and bonuses have been withdrawn from the Duplicate Account, they will be lost, and the company has the right to demand them back. orobet365.com reserves the right to cancel the bets, to deny receiving any kind of bonuses or participation in any promotion, as well as prohibit opening an account or close an existing account without prior written notice and any explanations.</li>
       <li>To create an account and use the services of the site, You must enter a username, Your email address, and password. Login will be used to enter the system. Also, You will need to provide personal information such as Your name, date of birth and telephone number.</li>
       <li>When opening an account, You should enter Your real name. If necessary, the company may require proof of identities such as a copy of the passport, ID card payment or any other necessary documents. If this information can not be provided, the company may suspend your account or close it if You do not provide this information.</li>
       <li>You agree that when opening an account on the site, You indicate true and complete information about yourself and agree to correct it in case of any changes. In case of not following these conditions, the company has the right to restrict access to the site, cancel the transaction (the winnings, bonuses) and/or terminate Your account.</li>
@@ -630,18 +630,18 @@ The bonus is a gift from casino. Bonus may be received without deposit or on dep
       <li>Bonuses are provided to users according to both to regular casino promotions and to special promotional offers. In all other cases, Bonuses are provided individually at the discretion of the Administration.</li>
       <li>The minimum deposit amount to receive any bonus or Free spins is 20 EUR unless indicated otherwise in the promotion. Bonuses granted on an individual basis may have conditions different from the standard ones. Any bonus cannot be received on the sum of the deposits, only on the one deposit made in one payment. The user is able to get one bonus per one deposit and only in the day of its making.</li>
       <li>The maximum withdrawal amount of funds received using any of deposit bonuses is 1000 EUR in the equivalent of the account currency.</li>
-      <li>ArgoCasino.com reserves the right to raise the minimum amount of the deposit to receive a particular promotion bonus, in case the ratio of deposits to bonuses is more than the allowed one.</li>
+      <li>orobet365.com reserves the right to raise the minimum amount of the deposit to receive a particular promotion bonus, in case the ratio of deposits to bonuses is more than the allowed one.</li>
       <li>In order to withdraw winnings from a bonus received as a result of combining bonuses by different promotions, the maximum payout amount is set, if at least one of them was subject to this restriction. In case of combining bonuses for each of which there was a restriction, the smallest payout amount provided by the rules of one of the bonuses is applied.</li>
       <li>First, the betting is made from the real funds, and after that, the bonus funds are used. The bonus is wagered only when playing using the bonus credit.</li>
       <li>The terms for the bonus wagering are the following - the bonus needs to be wagered 40 times the initial bonus amount unless other information is indicated. Only bets on slots are considered for bonus wagering.</li>
       <li>When requesting withdrawal of funds before the wagering conditions are met, the bonus and all winnings from the bonus account will be canceled. ArgoСasino.com has the right to verify the session while paying out money and to cancel winnings and bonuses if fraud is detected.</li>
       <li>The wagering requirements need to be completed within 14 days, otherwise, the bonus and winnings will be removed.</li>
            <li>The winnings from a Bonus should be withdrawn within six months from the moment of receiving a bonus. After the expiration of this period, winnings from bonus funds will be annulated.</li>
-           <li>ArgoCasino.com reserves the right to void the bonus in case the player fails to comply with any of the provided Terms and Conditions.</li>
+           <li>orobet365.com reserves the right to void the bonus in case the player fails to comply with any of the provided Terms and Conditions.</li>
            <li>We reserve the right to close the customer’s account and void the bonus and/or winnings obtained by fraudulent behavior or abuse of the bonus offer.</li>
            <li>Using an unfair advantage or influence including the exploitation of bugs or errors in our software will be considered as fraudulent activity and the winnings will immediately become void.</li>
 
-           <li>In the event of any dispute, you agree that the decision of ArgoCasino.com is final and unconditional.</li>
+           <li>In the event of any dispute, you agree that the decision of orobet365.com is final and unconditional.</li>
 
       <li>If desired, the player can refuse to receive casino bonuses. To do this, he needs to report it to the support team via Live Chat.</li>
     </ol>
@@ -774,14 +774,14 @@ The bonus is a gift from casino. Bonus may be received without deposit or on dep
 
 				            </ul>
             <div class="owner_info">
-                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
                 2014 - 2020 &copy;
                 <span>
-                <a href="http://argocasino.com/">ArgoCasino.com</a>
+                <a href="http://orobet365.com/">orobet365.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->

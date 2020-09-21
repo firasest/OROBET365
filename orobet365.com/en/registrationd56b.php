@@ -13,7 +13,7 @@ include("includes/connect_db.php");
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="orobet365.com">
         <meta property="og:title" content="Registration">
         <meta property="og:description" content="">
         <meta property="og:url" content="registrationc07e.php?login/en">
@@ -162,7 +162,7 @@ include("includes/connect_db.php");
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">orobet365.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -285,7 +285,7 @@ include("includes/connect_db.php");
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -297,13 +297,13 @@ include("includes/connect_db.php");
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in ArgoCasino.com"
+                    <a data-title="Retro Slots Online in orobet365.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - ArgoCasino.com"
+                    <a data-title="Online Kasino - orobet365.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -315,7 +315,7 @@ include("includes/connect_db.php");
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - ArgoCasino.com"
+                    <a data-title="Brettspiele - orobet365.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -363,40 +363,60 @@ include("includes/connect_db.php");
 
                     <div class="register none">
                         <form  action="Controller/ajouter_client.php">
-                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            
-                            <div class="pull-left popup-registration__item">
-                                <input name="login" type="text" placeholder="Login" autocomplete="off"/>
+                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <div class="pull-left popup-registration__item">
                                 <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
+
+                           
 
                             <div class="pull-left popup-registration__item">
                                 <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
                             </div>
                             
+
+
                             <div class="pull-left popup-registration__item">
                                 <input name="prenom" type="text" placeholder="Prename" autocomplete="off"/>
                             </div>
-             
-                            <br/>            
+
+                           
+                            <br/>
+                            
 
                             <div class="pull-left popup-registration__item">
                                 <input name="email" type="email" placeholder="Email" autocomplete="off"/>
                             </div>
+
+
+                           
+
 
                             <div class="pull-left popup-registration__item">
                                 
 
                                 <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
                             </div>
-
                             <br/>
 
                             <div class="pull-left popup-registration__item">
                                 <input name="phone" value="" type="number" placeholder="Number" autocomplete="off"/>
 
                             </div>
-
                             <br/>
+
+                            
+
+                            
+
+                            
+
+                           
+
+                            
+
+                            
+
+                            
 
                             <button type="submit" id="register" class="reg-fix btn green_long big">
                                 <span>Join Now</span>
@@ -612,14 +632,14 @@ include("includes/connect_db.php");
 
 				            </ul>
             <div class="owner_info">
-                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
                 2014 - 2020 &copy;
                 <span>
-                <a href="http://argocasino.com/">ArgoCasino.com</a>
+                <a href="http://orobet365.com/">orobet365.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->

@@ -13,10 +13,10 @@ include("includes/connect_db.php");
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="orobet365.com">
         <meta property="og:title" content="Registration">
         <meta property="og:description" content="">
-        <meta property="og:url" content="../en.html">
+        <meta property="og:url" content="../en.php">
         <meta property="og:locale" content="en_EN">
         <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
@@ -27,8 +27,8 @@ include("includes/connect_db.php");
         <meta name="twitter:title" content="Registration">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="../en.html">
-        <meta name="twitter:domain" content="../en.html">
+        <meta name="twitter:url" content="../en.php">
+        <meta name="twitter:domain" content="../en.php">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
@@ -44,23 +44,23 @@ include("includes/connect_db.php");
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/registration.html"
+            <link rel="alternate" href="../ru/registration.php"
               hreflang="ru"/>
-            <link rel="alternate" href="registration.html"
+            <link rel="alternate" href="registration.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/registration.html"
+            <link rel="alternate" href="../sv/registration.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/registration.html"
+            <link rel="alternate" href="../pl/registration.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/registration.html"
+            <link rel="alternate" href="../de/registration.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/registration.html"
+            <link rel="alternate" href="../zh/registration.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/registration.html"
+            <link rel="alternate" href="../ro/registration.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/registration.html"
+            <link rel="alternate" href="../uk/registration.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/registration.html"
+            <link rel="alternate" href="../tr/registration.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
@@ -162,16 +162,16 @@ include("includes/connect_db.php");
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">orobet365.com</div>
     <div class="header-top">
         <div class="inside clearfix">
-            <a href="index.html">
+            <a href="index.php">
                 <div class="top_logo"></div>
             </a>
             
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.html" class="logo_link">
+        <a href="en.php" class="logo_link">
             <img src="../img/orobet365.png"  style="
             width: 130%;
             margin-top: 20%;
@@ -184,28 +184,28 @@ include("includes/connect_db.php");
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
-                               href="../en.html"
+                            <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
+                               href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - ArgoCasino.com"
-                               href="live-casino.html"
+                            <a data-title="Online Kasino - orobet365.com"
+                               href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="tv_games.html"
+                               href="tv_games.php"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="sport.html"
+                               href="sport.php"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - ArgoCasino.com"
-                               href="virtual-sport.html"
+                            <a data-title="Virtual Sport - orobet365.com"
+                               href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -230,7 +230,7 @@ include("includes/connect_db.php");
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="e-sport.html">
+                <a href="e-sport.php">
                     <img src="../img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
@@ -238,21 +238,21 @@ include("includes/connect_db.php");
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="bonuses.html">
+                               href="bonuses.php">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
 						                            <li class="header-top__nav__item">
                                 <a title="Tournaments"
-                                   href="tournament.html">
+                                   href="tournament.php">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="download.html">
+                                     href="download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -263,7 +263,7 @@ include("includes/connect_db.php");
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/registration.html"></a><a class="no_image" href="../ru/registration.html"><span>Русский</span></a></li><li class="pl"><a href="../pl/registration.html"></a><a class="no_image" href="../pl/registration.html"><span>Polski</span></a></li><li class="sv"><a href="../sv/registration.html"></a><a class="no_image" href="../sv/registration.html"><span>Svenska</span></a></li><li class="en active"><a href="registration.html"></a><a class="no_image" href="registration.html"><span>English</span></a></li><li class="de"><a href="../de/registration.html"></a><a class="no_image" href="../de/registration.html"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/registration.html"></a><a class="no_image" href="../ro/registration.html"><span>Română</span></a></li><li class="zh"><a href="../zh/registration.html"></a><a class="no_image" href="../zh/registration.html"><span>Chinese</span></a></li><li class="uk"><a href="../uk/registration.html"></a><a class="no_image" href="../uk/registration.html"><span>Українська</span></a></li><li class="tr"><a href="../tr/registration.html"></a><a class="no_image" href="../tr/registration.html"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/registration.php"></a><a class="no_image" href="../ru/registration.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/registration.php"></a><a class="no_image" href="../pl/registration.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/registration.php"></a><a class="no_image" href="../sv/registration.php"><span>Svenska</span></a></li><li class="en active"><a href="registration.php"></a><a class="no_image" href="registration.php"><span>English</span></a></li><li class="de"><a href="../de/registration.php"></a><a class="no_image" href="../de/registration.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/registration.php"></a><a class="no_image" href="../ro/registration.php"><span>Română</span></a></li><li class="zh"><a href="../zh/registration.php"></a><a class="no_image" href="../zh/registration.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/registration.php"></a><a class="no_image" href="../uk/registration.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/registration.php"></a><a class="no_image" href="../tr/registration.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -292,10 +292,10 @@ include("includes/connect_db.php");
                         </li>
 						                            <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
-                                   href="registrationd56b.html?login"><span>Login</span></a>
+                                   href="registrationd56b.php?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="registration.html"><span>Join Now</span></a>
+                                   href="registration.php"><span>Join Now</span></a>
                             </li>
 							                    </ul>
                 </nav>
@@ -313,28 +313,28 @@ include("includes/connect_db.php");
 <ul class="bxslider" id="header-slider">
     
         <li>
-                            <a href="sport.html">
+                            <a href="sport.php">
                     <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i0c626fa87e67b9394b57078805349adc.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="tournament/pragmatic_argo_tournament.html">
+                            <a href="tournament/pragmatic_argo_tournament.php">
                     <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i89e58c6a45351683e45c61fe1de2b27f.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="e-sport.html">
+                            <a href="e-sport.php">
                     <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i72ef8db86fa06fb5b28a4321199dffcf.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="tv_games.html">
+                            <a href="tv_games.php">
                     <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7bb48a46b769f74dcfabb6d7ce8db9fb.jpg');"></div>
                 </a>
                     </li>
@@ -381,7 +381,7 @@ include("includes/connect_db.php");
                                     <div class="header-slider-btn-plugin" style="top: 86px; z-index: 1000;">
                         <a
                                 class="btn green_long big popup-open-reg"
-                                href="registrationd56b.html?login"
+                                href="registrationd56b.php?login"
                         >
                             <span>Claim</span>
                         </a>
@@ -390,7 +390,7 @@ include("includes/connect_db.php");
             </ul>
 </div>
         <div class="logo">
-            <a href="index.html">
+            <a href="index.php">
                 <div class="logoimage"></div>
             </a>
         </div>
@@ -401,26 +401,26 @@ include("includes/connect_db.php");
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
-                       href="../en.html">
+                    <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
+                       href="../en.php">
                         Popular                    </a>
                 </li>
                 <li class="
                     ">
                     <a data-title="New Games"
-                       href="new.html">
+                       href="new.php">
                         New                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in ArgoCasino.com"
-                       href="slots-classic.html">
+                    <a data-title="Retro Slots Online in orobet365.com"
+                       href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - ArgoCasino.com"
-                       href="live-casino.html">
+                    <a data-title="Online Kasino - orobet365.com"
+                       href="live-casino.php">
                         Live Casino                    </a>
                 </li>
 <!--                <li class="-->
@@ -431,13 +431,13 @@ include("includes/connect_db.php");
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - ArgoCasino.com"
-                       href="table.html">
+                    <a data-title="Brettspiele - orobet365.com"
+                       href="table.php">
                         Table games                    </a>
                 <li class="
                     ">
                     <a data-title="Other"
-                       href="other.html">
+                       href="other.php">
                         Casual games                    </a>
                 </li>
             </ul>
@@ -662,7 +662,7 @@ include("includes/connect_db.php");
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="registration2074.html?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="registration2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -688,24 +688,24 @@ include("includes/connect_db.php");
 </script>
 </li>
         <li><a
-                href="about.html">About Us</a></li>
+                href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
         -->        <li>
             <a target="_blank" rel="nofollow" href="https://game-revenue.eu/en">Partners</a>
         </li>
         <li><a
-                href="privacy-policy.html">Privacy Policy</a>
+                href="privacy-policy.php">Privacy Policy</a>
         </li>
         <li><a
-                href="rules.html">Terms and Conditions</a>
+                href="rules.php">Terms and Conditions</a>
         </li>
         <li><a
-                href="responsible-gaming.html">Responsible Gaming</a>
+                href="responsible-gaming.php">Responsible Gaming</a>
         </li>
         <!--<li><a href="/<? /*= LANGUAGE_CODE; */ ?>/fair-play"></a></li>-->
         <li><a
-                href="faq.html">FAQ</a></li>
+                href="faq.php">FAQ</a></li>
             </ul>
 </nav>                <div class="footer_pay_systems">
 					<section class="payment-systems">
@@ -713,7 +713,7 @@ include("includes/connect_db.php");
 			                <li class="f_sc_webmoney"><a rel="nofollow" target="_blank" href="#"><i class="pay-webmoney">sc_webmoney</i></a></li>
 			                <li class="f_sc_ecopayz"><a rel="nofollow" target="_blank" href="https://www.ecopayz.com/en/"><i class="pay-ecopayz">sc_ecopayz</i></a></li>
 			                <li class="f_sc_visa"><a rel="nofollow" target="_blank" href="http://www.visa.com/globalgateway/gg_selectcountry.jsp"><i class="pay-visa">sc_visa</i></a></li>
-			                <li class="f_sc_master"><a rel="nofollow" target="_blank" href="https://www.mastercard.us/en-us.html"><i class="pay-master">sc_master</i></a></li>
+			                <li class="f_sc_master"><a rel="nofollow" target="_blank" href="https://www.mastercard.us/en-us.php"><i class="pay-master">sc_master</i></a></li>
 			                <li class="f_sc_skrill"><a rel="nofollow" target="_blank" href="https://www.skrill.com/en/"><i class="pay-skrill">sc_skrill</i></a></li>
 			                <li class="f_sc_electron"><a rel="nofollow" target="_blank" href="http://www.visa.com/globalgateway/gg_selectcountry.jsp"><i class="pay-electron">sc_electron</i></a></li>
 			                <li class="f_sc_paysafe"><a rel="nofollow" target="_blank" href="https://www.paysafecard.com/en-gb/country-selection/"><i class="pay-paysafe">sc_paysafe</i></a></li>
@@ -737,7 +737,7 @@ include("includes/connect_db.php");
                         <img src="../img/licence-logo-argo.png" alt="">
                     </li>
 					                <li class="inc_ssl">
-                    <a href="../en.html"><img width="125" height="50" src="../img/gameico_ssl.png" alt=""></a>
+                    <a href="../en.php"><img width="125" height="50" src="../img/gameico_ssl.png" alt=""></a>
                 </li>
             </ul>
 
@@ -749,14 +749,14 @@ include("includes/connect_db.php");
 
 				            </ul>
             <div class="owner_info">
-                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
                 2014 - 2020 &copy;
                 <span>
-                <a href="http://argocasino.com/">ArgoCasino.com</a>
+                <a href="http://orobet365.com/">orobet365.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->

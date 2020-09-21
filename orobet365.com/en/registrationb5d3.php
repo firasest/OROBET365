@@ -9,7 +9,7 @@
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="orobet365.com">
         <meta property="og:title" content="Registration">
         <meta property="og:description" content="">
         <meta property="og:url" content="registratione405.php?login&amp;forceMobile/en">
@@ -618,7 +618,7 @@
         <br>
         <button class="ui-btn ui-btn-raised clr-primary ui-mini" type="submit">Join Now</button>
         <hr>
-        <p>I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../ru/rules.php">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
+        <p>I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../ru/rules.php">Terms and Conditions</a> of orobet365.com. I consent to the processing of my personal data to use this service. </p>
     </form>
 
 <script>
@@ -684,10 +684,10 @@
 				            </ul>
         </div>
         <div class="copyright pull-left">
-            Gambling can be addictive. Play responsibly. 2014 - 2020            ArgoCasino.com All rights reserved        </div>
+            Gambling can be addictive. Play responsibly. 2014 - 2020            orobet365.com All rights reserved        </div>
         <p>
-            ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-            ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+            orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+            orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </p>
     </div>
     </div>

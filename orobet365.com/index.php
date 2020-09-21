@@ -12,7 +12,7 @@
         <meta property="og:site_name" content="argocasino.com">
         <meta property="og:title" content="Orobet365.com- Online Casino, Slots, Online Lottery">
         <meta property="og:description" content="">
-        <meta property="og:url" content="en.html">
+        <meta property="og:url" content="en.php">
         <meta property="og:locale" content="en_EN">
         <meta property="og:image" content="../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
@@ -23,8 +23,8 @@
         <meta name="twitter:title" content="Orobet365.com- Online Casino, Slots, Online Lottery">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="en.html">
-        <meta name="twitter:domain" content="en.html">
+        <meta name="twitter:url" content="en.php">
+        <meta name="twitter:domain" content="en.php">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
@@ -40,23 +40,23 @@
 
     <meta name="msapplication-config" content="img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="ru/popular.html"
+            <link rel="alternate" href="ru/popular.php"
               hreflang="ru"/>
-            <link rel="alternate" href="en/popular.html"
+            <link rel="alternate" href="en/popular.php"
               hreflang="en"/>
-            <link rel="alternate" href="sv/popular.html"
+            <link rel="alternate" href="sv/popular.php"
               hreflang="sv"/>
-            <link rel="alternate" href="pl/popular.html"
+            <link rel="alternate" href="pl/popular.php"
               hreflang="pl"/>
-            <link rel="alternate" href="de/popular.html"
+            <link rel="alternate" href="de/popular.php"
               hreflang="de"/>
-            <link rel="alternate" href="zh/popular.html"
+            <link rel="alternate" href="zh/popular.php"
               hreflang="zh"/>
-            <link rel="alternate" href="ro/popular.html"
+            <link rel="alternate" href="ro/popular.php"
               hreflang="ro"/>
-            <link rel="alternate" href="uk/popular.html"
+            <link rel="alternate" href="uk/popular.php"
               hreflang="uk"/>
-            <link rel="alternate" href="tr/popular.html"
+            <link rel="alternate" href="tr/popular.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
@@ -138,13 +138,13 @@
     <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
-            <a href="en/index.html">
+            <a href="en/index.php">
                 <div class="top_logo"></div>
             </a>
             
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.html" class="logo_link">
+        <a href="en.php" class="logo_link">
             <img src="img/orobet365.png"  style="
             width: 130%;
             margin-top: 20%;
@@ -157,27 +157,27 @@
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
                             <a data-title="Orobet365.com- Online Casino, Slots, Online Lottery"
-                               href="en.html"
+                               href="en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Online Kasino - ArgoCasino.com"
-                               href="en/live-casino.html"
+                               href="en/live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="en/tv_games.html"
+                               href="en/tv_games.php"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="en/sport.html"
+                               href="en/sport.php"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Virtual Sport - ArgoCasino.com"
-                               href="en/virtual-sport.html"
+                               href="en/virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -202,7 +202,7 @@
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="en/e-sport.html">
+                <a href="en/e-sport.php">
                     <img src="img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
@@ -210,21 +210,21 @@
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="en/bonuses.html">
+                               href="en/bonuses.php">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
 						                            <li class="header-top__nav__item">
                                 <a title="Tournaments"
-                                   href="en/tournament.html">
+                                   href="en/tournament.php">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="en/download.html">
+                                     href="en/download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -235,7 +235,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="ru.html"></a><a class="no_image" href="ru.html"><span>Русский</span></a></li><li class="pl"><a href="pl.html"></a><a class="no_image" href="pl.html"><span>Polski</span></a></li><li class="sv"><a href="sv.html"></a><a class="no_image" href="sv.html"><span>Svenska</span></a></li><li class="en active"><a href="en.html"></a><a class="no_image" href="en.html"><span>English</span></a></li><li class="de"><a href="de.html"></a><a class="no_image" href="de.html"><span>Deutsch</span></a></li><li class="ro"><a href="ro.html"></a><a class="no_image" href="ro.html"><span>Română</span></a></li><li class="zh"><a href="zh.html"></a><a class="no_image" href="zh.html"><span>Chinese</span></a></li><li class="uk"><a href="uk.html"></a><a class="no_image" href="uk.html"><span>Українська</span></a></li><li class="tr"><a href="tr.html"></a><a class="no_image" href="tr.html"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="ru.php"></a><a class="no_image" href="ru.php"><span>Русский</span></a></li><li class="pl"><a href="pl.php"></a><a class="no_image" href="pl.php"><span>Polski</span></a></li><li class="sv"><a href="sv.php"></a><a class="no_image" href="sv.php"><span>Svenska</span></a></li><li class="en active"><a href="en.php"></a><a class="no_image" href="en.php"><span>English</span></a></li><li class="de"><a href="de.php"></a><a class="no_image" href="de.php"><span>Deutsch</span></a></li><li class="ro"><a href="ro.php"></a><a class="no_image" href="ro.php"><span>Română</span></a></li><li class="zh"><a href="zh.php"></a><a class="no_image" href="zh.php"><span>Chinese</span></a></li><li class="uk"><a href="uk.php"></a><a class="no_image" href="uk.php"><span>Українська</span></a></li><li class="tr"><a href="tr.php"></a><a class="no_image" href="tr.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -285,28 +285,28 @@
 <ul class="bxslider" id="header-slider">
     
         <li>
-                            <a href="en/sport.html">
+                            <a href="en/sport.php">
                     <div class="slide_bg" style="background-image: url('../img.orobet365/cms-sliders/30/7231.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="en/tournament/pragmatic_argo_tournament.html">
+                            <a href="en/tournament/pragmatic_argo_tournament.php">
                     <div class="slide_bg" style="background-image: url('../img.orobet365/cms-sliders/30/2.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="en/e-sport.html">
+                            <a href="en/e-sport.php">
                     <div class="slide_bg" style="background-image: url('../img.orobet365/cms-sliders/30/1.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="en/tv_games.html">
+                            <a href="en/tv_games.php">
                     <div class="slide_bg" style="background-image: url('../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7bb48a46b769f74dcfabb6d7ce8db9fb.jpg');"></div>
                 </a>
                     </li>
@@ -353,7 +353,7 @@
                                     <div class="header-slider-btn-plugin" style="top: 86px; z-index: 1000;">
                         <a
                                 class="btn green_long big popup-open-reg"
-                                href="en/registrationd56b.html?login"
+                                href="en/registrationd56b.php?login"
                         >
                             <span>Claim</span>
                         </a>
@@ -362,7 +362,7 @@
             </ul>
 </div>
         <div class="logo">
-            <a href="en/index.html">
+            <a href="en/index.php">
                 <div class="logoimage"></div>
             </a>
         </div>
@@ -374,25 +374,25 @@
                 <li class="
                      active">
                     <a data-title="Orobet365.com- Online Casino, Slots, Online Lottery"
-                       href="en.html">
+                       href="en.php">
                         Popular                    </a>
                 </li>
                 <li class="
                     ">
                     <a data-title="New Games"
-                       href="en/new.html">
+                       href="en/new.php">
                         New                    </a>
                 </li>
                 <li class="
                     ">
                     <a data-title="Retro Slots Online in ArgoCasino.com"
-                       href="en/slots-classic.html">
+                       href="en/slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
                     <a data-title="Online Kasino - ArgoCasino.com"
-                       href="en/live-casino.html">
+                       href="en/live-casino.php">
                         Live Casino                    </a>
                 </li>
 <!--                <li class="-->
@@ -404,12 +404,12 @@
                 <li class="
                     ">
                     <a data-title="Brettspiele - ArgoCasino.com"
-                       href="en/table.html">
+                       href="en/table.php">
                         Table games                    </a>
                 <li class="
                     ">
                     <a data-title="Other"
-                       href="en/other.html">
+                       href="en/other.php">
                         Casual games                    </a>
                 </li>
             </ul>
@@ -657,7 +657,7 @@
 <div class="win-now">
     <ul class="win-now__list">
                     <li class="win-now-li">
-                <a href="en/demo/micro-knights-4669.html">
+                <a href="en/demo/micro-knights-4669.php">
                     <div class="win-now-left">
                         <div class="win-now-user">DDDDD*</div>
                         <div class="win-now-sum">6 CREDITS</div>
@@ -669,7 +669,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="en/demo/micro-knights-4669.html">
+                <a href="en/demo/micro-knights-4669.php">
                     <div class="win-now-left">
                         <div class="win-now-user">DDDDD*</div>
                         <div class="win-now-sum">12 CREDITS</div>
@@ -681,7 +681,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="en/demo/lake-s-five-2854.html">
+                <a href="en/demo/lake-s-five-2854.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ASKOP*</div>
                         <div class="win-now-sum">6270 CREDITS</div>
@@ -693,7 +693,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="en/demo/micro-knights-4669.html">
+                <a href="en/demo/micro-knights-4669.php">
                     <div class="win-now-left">
                         <div class="win-now-user">DDDDD*</div>
                         <div class="win-now-sum">4 CREDITS</div>
@@ -705,7 +705,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="en/demo/micro-knights-4669.html">
+                <a href="en/demo/micro-knights-4669.php">
                     <div class="win-now-left">
                         <div class="win-now-user">DDDDD*</div>
                         <div class="win-now-sum">12 CREDITS</div>
@@ -734,13 +734,13 @@
 									John Hunter and the ...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/john-hunter-and-the-book-of-tut-6341.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/john-hunter-and-the-book-of-tut-6341.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -759,13 +759,13 @@
 									Gonzo's Quest Megawa...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/gonzo-s-quest-megaways-6862.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/gonzo-s-quest-megaways-6862.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -784,13 +784,13 @@
 									Beat the Beast: Migh...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/beat-the-beast-mighty-sphinx-6274.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/beat-the-beast-mighty-sphinx-6274.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -809,13 +809,13 @@
 									Wolf Gold                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/wolf-gold-10.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/wolf-gold-10.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -834,13 +834,13 @@
 									Blood Lust                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/blood-lust-6275.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/blood-lust-6275.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -859,13 +859,13 @@
 									Dawn of Egypt                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/dawn-of-egypt-4648.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/dawn-of-egypt-4648.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -884,13 +884,13 @@
 									Drago - Jewels of Fo...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/drago-jewels-of-fortune-6468.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/drago-jewels-of-fortune-6468.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -909,13 +909,13 @@
 									Lil Devil                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/lil-devil-6513.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/lil-devil-6513.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -934,13 +934,13 @@
 									Vault of Anubis                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/vault-of-anubis-6905.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/vault-of-anubis-6905.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -959,13 +959,13 @@
 									Twisted Sister                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/twisted-sister-6373.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/twisted-sister-6373.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -984,13 +984,13 @@
 									Mysterious                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/mysterious-4649.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/mysterious-4649.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1009,13 +1009,13 @@
 									Legacy of Dead                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/legacy-of-dead-4523.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/legacy-of-dead-4523.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1034,13 +1034,13 @@
 									Street Fighter II: T...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/street-fighter-ii-the-world-warrior-slot-6360.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/street-fighter-ii-the-world-warrior-slot-6360.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1059,13 +1059,13 @@
 									Extra Chilli                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/extra-chilli-5320.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/extra-chilli-5320.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1084,13 +1084,13 @@
 									Gun Spinner                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/gun-spinner-6340.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/gun-spinner-6340.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1109,13 +1109,13 @@
 									Aztec Bonanza                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/aztec-bonanza-6012.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/aztec-bonanza-6012.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1134,13 +1134,13 @@
 									Bowled Over                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/bowled-over-5458.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/bowled-over-5458.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1159,13 +1159,13 @@
 									Beat the Beast: Krak...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/beat-the-beast-kraken-s-lair-4670.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/beat-the-beast-kraken-s-lair-4670.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1184,13 +1184,13 @@
 									Gorilla Gold Megaway...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/gorilla-gold-megaways-6234.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/gorilla-gold-megaways-6234.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1209,13 +1209,13 @@
 									Bonanza                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/bonanza-5309.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/bonanza-5309.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1234,13 +1234,13 @@
 									White Rabbit                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/white-rabbit-6178.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/white-rabbit-6178.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1259,13 +1259,13 @@
 									Divine Showdown                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/divine-showdown-4463.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/divine-showdown-4463.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1284,13 +1284,13 @@
 									Agent Jane Blonde                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/agent-jane-blonde-5044.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/agent-jane-blonde-5044.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1309,13 +1309,13 @@
 									Jurassic World                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/jurassic-world-5388.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/jurassic-world-5388.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1334,13 +1334,13 @@
 									Pirate Booty                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/pirate-booty-3808.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/pirate-booty-3808.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1359,13 +1359,13 @@
 									Scribes of Thebes                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/scribes-of-thebes-4611.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/scribes-of-thebes-4611.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1384,13 +1384,13 @@
 									Wild Cauldron                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/wild-cauldron-4671.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/wild-cauldron-4671.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1409,13 +1409,13 @@
 									Almighty Sparta Dice                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/almighty-sparta-dice-6500.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/almighty-sparta-dice-6500.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1434,13 +1434,13 @@
 									VIP Filthy Riches                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/vip-filthy-riches-3098.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/vip-filthy-riches-3098.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1459,13 +1459,13 @@
 									HOOKED                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/hooked-4625.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/hooked-4625.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1484,13 +1484,13 @@
 									Chicken Party                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/chicken-party-5706.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/chicken-party-5706.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1509,13 +1509,13 @@
 									Micro Knights                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/micro-knights-4669.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/micro-knights-4669.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1534,13 +1534,13 @@
 									Booming Circus                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/booming-circus-3927.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/booming-circus-3927.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1559,13 +1559,13 @@
 									Book of Oz                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/book-of-oz-5452.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/book-of-oz-5452.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1584,13 +1584,13 @@
 									Book of Atem                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/book-of-atem-5455.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/book-of-atem-5455.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1609,13 +1609,13 @@
 									Agent Jane Blonde Re...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/agent-jane-blonde-returns-5050.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/agent-jane-blonde-returns-5050.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1634,13 +1634,13 @@
 									Who wants to be a Mi...                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/who-wants-to-be-a-millionaire-5316.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/who-wants-to-be-a-millionaire-5316.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1659,13 +1659,13 @@
 									Immortal Romance                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/immortal-romance-5307.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/immortal-romance-5307.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1684,13 +1684,13 @@
 									Snail Race                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/snail-race-4359.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/snail-race-4359.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1709,13 +1709,13 @@
 									Book Of Merlin                                </li>
                                 <li>
 									                                        <a class="btn big green popup-open"
-                                           href="en/registrationd56b.html?login">
+                                           href="en/registrationd56b.php?login">
                                             <span>Play</span>
                                         </a>
 										                                </li>
 								                                    <li class="btn_demo_box">
-                                        <a class="btn_demo" data="en.html" target="_parent"
-                                           href="en/demo/book-of-merlin-4906.html">
+                                        <a class="btn_demo" data="en.php" target="_parent"
+                                           href="en/demo/book-of-merlin-4906.php">
                                             <span>Demo</span>
                                         </a>
                                     </li>
@@ -1727,7 +1727,7 @@
 </section>
 	<div class="pager">
 		<ul class="pager__list horizontal">
-							<li class="pager__item"><a class="btn blue" href="en/popular/page2.html"><span style="padding: 0 50px;">load more</span></a></li>
+							<li class="pager__item"><a class="btn blue" href="en/popular/page2.php"><span style="padding: 0 50px;">load more</span></a></li>
 					</ul>
     </div>
      <script> var gamesajax = true;</script>
@@ -1829,7 +1829,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="en2074.html?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="en2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -1855,24 +1855,24 @@
 </script>
 </li>
         <li><a
-                href="en/about.html">About Us</a></li>
+                href="en/about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
         -->        <li>
             <a target="_blank" rel="nofollow" href="https://game-revenue.eu/en">Partners</a>
         </li>
         <li><a
-                href="en/privacy-policy.html">Privacy Policy</a>
+                href="en/privacy-policy.php">Privacy Policy</a>
         </li>
         <li><a
-                href="en/rules.html">Terms and Conditions</a>
+                href="en/rules.php">Terms and Conditions</a>
         </li>
         <li><a
-                href="en/responsible-gaming.html">Responsible Gaming</a>
+                href="en/responsible-gaming.php">Responsible Gaming</a>
         </li>
         <!--<li><a href="/<? /*= LANGUAGE_CODE; */ ?>/fair-play"></a></li>-->
         <li><a
-                href="en/faq.html">FAQ</a></li>
+                href="en/faq.php">FAQ</a></li>
             </ul>
 </nav>                <div class="footer_pay_systems">
 	<!--				<section class="payment-systems">
@@ -1880,7 +1880,7 @@
 			                <li class="f_sc_webmoney"><a rel="nofollow" target="_blank" href="#"><i class="pay-webmoney">sc_webmoney</i></a></li>
 			                <li class="f_sc_ecopayz"><a rel="nofollow" target="_blank" href="https://www.ecopayz.com/en/"><i class="pay-ecopayz">sc_ecopayz</i></a></li>
 			                <li class="f_sc_visa"><a rel="nofollow" target="_blank" href="http://www.visa.com/globalgateway/gg_selectcountry.jsp"><i class="pay-visa">sc_visa</i></a></li>
-			                <li class="f_sc_master"><a rel="nofollow" target="_blank" href="https://www.mastercard.us/en-us.html"><i class="pay-master">sc_master</i></a></li>
+			                <li class="f_sc_master"><a rel="nofollow" target="_blank" href="https://www.mastercard.us/en-us.php"><i class="pay-master">sc_master</i></a></li>
 			                <li class="f_sc_skrill"><a rel="nofollow" target="_blank" href="https://www.skrill.com/en/"><i class="pay-skrill">sc_skrill</i></a></li>
 			                <li class="f_sc_electron"><a rel="nofollow" target="_blank" href="http://www.visa.com/globalgateway/gg_selectcountry.jsp"><i class="pay-electron">sc_electron</i></a></li>
 			                <li class="f_sc_paysafe"><a rel="nofollow" target="_blank" href="https://www.paysafecard.com/en-gb/country-selection/"><i class="pay-paysafe">sc_paysafe</i></a></li>
@@ -1904,7 +1904,7 @@
                         <img src="img/licence-logo-argo.png" alt="">
                     </li>
 					                <li class="inc_ssl">
-                    <a href="en.html"><img width="125" height="50" src="img/gameico_ssl.png" alt=""></a>
+                    <a href="en.php"><img width="125" height="50" src="img/gameico_ssl.png" alt=""></a>
                 </li>
             </ul>
 

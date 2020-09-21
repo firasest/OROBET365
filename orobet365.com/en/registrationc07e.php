@@ -9,7 +9,7 @@
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="orobet365.com">
         <meta property="og:title" content="Registration">
         <meta property="og:description" content="">
         <meta property="og:url" content="registration74e9.php?login/en/en">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">orobet365.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - ArgoCasino.com"
+                            <a data-title="Online Kasino - orobet365.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - ArgoCasino.com"
+                            <a data-title="Virtual Sport - orobet365.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in ArgoCasino.com"
+                    <a data-title="Retro Slots Online in orobet365.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - ArgoCasino.com"
+                    <a data-title="Online Kasino - orobet365.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - ArgoCasino.com"
+                    <a data-title="Brettspiele - orobet365.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -573,7 +573,7 @@
                                     <input name="notifications" checked="checked"
                                            class="checkbox styled checkbox-normal"
                                            type="checkbox" autocomplete="off"/>
-                                    I would like to receive exclusive bonuses, special promotions and gifts from ArgoCasino.com                                </div>
+                                    I would like to receive exclusive bonuses, special promotions and gifts from orobet365.com                                </div>
                                 <!--                                -->                                <br/>
                                 <div class="check-label">
                                     <input name="autobonus" checked="checked" class="checkbox styled checkbox-normal"
@@ -591,7 +591,7 @@
                                     <input name="accept" checked="checked" class="checkbox styled checkbox-normal"
                                            type="checkbox"
                                            autocomplete="off"/>
-                                    <p style="margin-top: -10px" class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../ru/rules.php">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
+                                    <p style="margin-top: -10px" class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../ru/rules.php">Terms and Conditions</a> of orobet365.com. I consent to the processing of my personal data to use this service. </p>
                                 </div>
                             </div>
 
@@ -818,14 +818,14 @@
 
 				            </ul>
             <div class="owner_info">
-                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
                 2014 - 2020 &copy;
                 <span>
-                <a href="http://argocasino.com/">ArgoCasino.com</a>
+                <a href="http://orobet365.com/">orobet365.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->

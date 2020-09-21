@@ -4,13 +4,13 @@
 <!-- Mirrored from 6.argocasino50.com/en/tournament?forceMobile by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:44:42 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>Turnieren - ArgoCasino.com</title>
+                    <title>Turnieren - orobet365.com</title>
         <meta name="keywords" content="Online Slot,slot machines ">
         <meta name="description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
-        <meta property="og:title" content="Turnieren - ArgoCasino.com">
+        <meta property="og:site_name" content="orobet365.com">
+        <meta property="og:title" content="Turnieren - orobet365.com">
         <meta property="og:description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
         <meta property="og:url" content="tournament40fd.php?forceMobile/en">
         <meta property="og:locale" content="en_EN">
@@ -20,7 +20,7 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Turnieren - ArgoCasino.com">
+        <meta name="twitter:title" content="Turnieren - orobet365.com">
         <meta name="twitter:description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta name="twitter:url" content="tournament40fd.php?forceMobile/en">
@@ -571,7 +571,7 @@
 			        </div>
 	</div></div><div data-role="header" data-position="fixed" class="header">
     <a href="#leftpanel" data-role="button" role="button" class="ui-btn-left wow fadeIn ui-btn waves-effect waves-button"><i class="zmdi zmdi-menu zmdi-hc-lg"></i></a>
-    <h1><a title="Turnieren - ArgoCasino.com" href="../en.php"><img src="../img/logo_mobile.png" /></a></h1>
+    <h1><a title="Turnieren - orobet365.com" href="../en.php"><img src="../img/logo_mobile.png" /></a></h1>
     <a href="#popup-login" data-rel="popup" data-transition="flip" data-position-to="window" data-role="button" role="button" class="ui-btn ui-mini clr-warning ui-btn-raised ui-btn-inline ui-btn-right wow fadeIn waves-effect waves-button">
            Sign in</a></div>    <div role="main" class="ui-content" data-inset="false">
         <link rel="stylesheet" href="../css/jquery.bxslider.css"/>
@@ -737,7 +737,7 @@
                 <div class="bonusterms"><table class="tournament__table"><tbody><tr class="tournament__table-terms"><td colspan="2">
   <h2 class="ps">TERMS AND CONDITIONS</h2>
 
-  <p class="text2" style="text-align:justify;"><strong>1.</strong> The tournament is eligible only for players registered at ArgoCasino.com.</p>
+  <p class="text2" style="text-align:justify;"><strong>1.</strong> The tournament is eligible only for players registered at orobet365.com.</p>
   <p class="text2" style="text-align:justify;"><strong>2.</strong> The minimum amount of bets should be 15 EUR.</p>
   <p class="text2" style="text-align:justify;"><strong>3.</strong> The minimum amount for tournament participation is 10 EUR.</p>
   <p class="text2" style="text-align:justify;"><strong>4.</strong> The tournament shall be considered valid whether minimum 20 players played it.</p>
@@ -776,9 +776,9 @@
   </div>
   <p class="text2" style="text-align:justify;"><strong>9.</strong> The Prize is credited in 24 hours after the tournament has ended.</p>
   <p class="text2" style="text-align:justify;"><strong>9.1.</strong> When the winner is determined the counting of bets is made and this procedure takes place during GMT+3 which is the time of the Server.</p>
-  <p class="text2" style="text-align:justify;"><strong>10.</strong> The Prize of the Tournament cannot be combined with any other offer or promotion available of ArgoCasino.com.</p>
+  <p class="text2" style="text-align:justify;"><strong>10.</strong> The Prize of the Tournament cannot be combined with any other offer or promotion available of orobet365.com.</p>
   <p class="text2" style="text-align:justify;"><strong>11.</strong> Only one Prize in the Tournament can be claimed per account. All bonus offers are limited to one per person, household address, email address, telephone number, same shared computer and payment account number (e.g. debit or credit card, Qiwi Visa, etc).</p>
-  <p class="text2" style="text-align:justify;"><strong>12.</strong> ArgoCasino.com bonuses are offered for entertainment purposes only. In case bonus or deposit funds are not used for the sole purpose of gaming, ArgoСasino.com reserves the right to blacklist the players, void all winnings and refund the original deposit to the player.</p>
+  <p class="text2" style="text-align:justify;"><strong>12.</strong> orobet365.com bonuses are offered for entertainment purposes only. In case bonus or deposit funds are not used for the sole purpose of gaming, ArgoСasino.com reserves the right to blacklist the players, void all winnings and refund the original deposit to the player.</p>
   <p class="text2" style="text-align:justify;"><strong>13.</strong> Any winning obtained in an unfair manner will be considered as fraudulent activity and the winnings will immediately become void.</p>
   <p class="text2" style="text-align:justify;"><strong>14.</strong> Bonus can be removed per customer’s request. In order to cancel it, you may contact us via Live Chat. Any bonus credited by ArgoСasino.com may not be used along with other active promotions.</p>
   <p class="text2" style="text-align:justify;"><strong>15.</strong> Any winnings received while the Bonus is active may only be withdrawn once the Wagering Requirements have been met. In case the customer tries to withdraw the funds before he has met the Wagering Requirements, bonus, and all winnings will be void.</p>
@@ -788,12 +788,12 @@
   <p class="text2" style="text-align:justify;"><strong>17. </strong>If a player tries to withdraw funds from his Cash Balance before he has met the Wagering Requirements he will forfeit all Bonuses and all winnings. All cash-ins and cash-outs are subject to audit before being processed. In case of suspicious or fraudulent activity, the Company reserves the right to cancel any winnings and bonuses.</p>
   <p class="text2" style="text-align:justify;"><strong>18. </strong>Bonus promotions have no cut-off date, however, ArgoСasino.com reserves the right to modify the rules or cancel this promotion at its sole discretion. This is in the interest of fair play considering that any wager in our games can return a sizable winning.</p>
   <p class="text2" style="text-align:justify;"><strong>19. </strong>The wagering requirements need to be completed within 14 days, otherwise, the bonus and winnings will be removed.</p>
-  <p class="text2" style="text-align:justify;"><strong>20. </strong>If a player wins a big amount in ArgoCasino.com, he should allow Casino Management to make it public in comments on our site, forums for promotional purposes.</p>
+  <p class="text2" style="text-align:justify;"><strong>20. </strong>If a player wins a big amount in orobet365.com, he should allow Casino Management to make it public in comments on our site, forums for promotional purposes.</p>
   <p class="text2" style="text-align:justify;"><strong>21. </strong>The player’s personal information will not be provided to any third party however, ArgoСasino.com reserves the right to disclose the player's Casino Username in Casino press for publicizing the Promotion or contest results only.</p>
   <p class="text2" style="text-align:justify;"><strong>22. </strong>In the event of any dispute, you agree that the decision of ArgoСasino.com is final and unconditional.</p>
   <p class="text2" style="text-align:justify;"><strong>23. </strong>Argo Casino reserves the right to void the bonus in case the player fails to comply with any of the provided Terms and Conditions.</p>
   <p class="text2" style="text-align:justify;"><strong>24. </strong>We reserve the right to close the customer’s account and void the bonus and/or winnings obtained by fraudulent behavior or abuse of the bonus offer.</p>
-  <p class="text2" style="text-align:justify;"><strong>25. </strong>General <a href="rules.php">Terms and Conditions</a> for ArgoCasino.com apply for this bonus.</p>
+  <p class="text2" style="text-align:justify;"><strong>25. </strong>General <a href="rules.php">Terms and Conditions</a> for orobet365.com apply for this bonus.</p>
   <p class="text2" style="text-align:justify;"><strong>26. </strong>Customers located in or citizens of the United States of America are not permitted to open accounts or make any deposits. The Company reserves the right to change the list of jurisdictions, from time to time, with or without prior notice. You agree that you are not allowed to open an account, nor attempt to use Your Account if you are based in any of the specified jurisdiction.</p>
 </td>
 </tr></tbody></table></div>
@@ -903,10 +903,10 @@ Please open any tournament game for details.
 				            </ul>
         </div>
         <div class="copyright pull-left">
-            Gambling can be addictive. Play responsibly. 2014 - 2020            ArgoCasino.com All rights reserved        </div>
+            Gambling can be addictive. Play responsibly. 2014 - 2020            orobet365.com All rights reserved        </div>
         <p>
-            ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-            ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+            orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+            orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </p>
     </div>
     </div>

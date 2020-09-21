@@ -9,7 +9,7 @@
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="orobet365.com">
         <meta property="og:title" content="Responsible Gaming">
         <meta property="og:description" content="">
         <meta property="og:url" content="../en.php">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">orobet365.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - ArgoCasino.com"
+                            <a data-title="Online Kasino - orobet365.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - ArgoCasino.com"
+                            <a data-title="Virtual Sport - orobet365.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="orobet365.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in ArgoCasino.com"
+                    <a data-title="Retro Slots Online in orobet365.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - ArgoCasino.com"
+                    <a data-title="Online Kasino - orobet365.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - ArgoCasino.com"
+                    <a data-title="Brettspiele - orobet365.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -457,7 +457,7 @@
                                 <section class="middle responsible-page cms-css">
   <div class="container">
     <h2>RESPONSIBLE GAMBLING</h2>
-    <p>ArgoCasino.com is committed to sustaining responsible gaming as a policy of customer care and social responsibility. We want you to enjoy your online gambling experience, and at the same time to understand the potential risks of gambling.</p>
+    <p>orobet365.com is committed to sustaining responsible gaming as a policy of customer care and social responsibility. We want you to enjoy your online gambling experience, and at the same time to understand the potential risks of gambling.</p>
     <h3>MAINTAINING CONTROL</h3>
     <p>Gambling should be treated as a fun pastime, and not as a means to generate income. Although the majority of the players can treat gambling as recreation and spend only what they can afford to risk, for some it can be more difficult.</p>
     <p>In order to maintain control of your gambling habits, please consider the following rules:</p>
@@ -501,7 +501,7 @@
       CyberPatrol <a href="http://www.cyberpatrol.com/">www.cyberpatrol.com</a>
     </p>
     <h3>NEED TO TAKE A BREAK? SELF-EXCLUSION OPTION.</h3>
-    <p>We recognize that whilst most players gamble for entertainment, gambling can be harmful to a certain group of people that is why ArgoCasino.com makes all necessary efforts to create a responsible gaming environment. If you are concerned about your gambling behavior, you may either request an indefinite self-exclusion or for a specified length of time if you would like to take a break. ArgoCasino.com is committed to offering our players enjoyable and safe gaming experience. If you choose one of the above-mentioned options, your gaming account with ArgoCasino.com will be self-excluded for the chosen period. We will also make all the reasonable steps to ensure you do not receive any promotional material during this time. Nevertheless, if you use Social Media channels, we strongly recommend you to make sure you don’t receive any casino news or updates. We also recommend that you do this for any other operator you may be registered with. To ensure the best gaming experience, players also may request the option of adjusting certain deposit limits at any time. In order to set your deposit limits or to request a self-exclusion, please contact our Customer care team via email.</p>
+    <p>We recognize that whilst most players gamble for entertainment, gambling can be harmful to a certain group of people that is why orobet365.com makes all necessary efforts to create a responsible gaming environment. If you are concerned about your gambling behavior, you may either request an indefinite self-exclusion or for a specified length of time if you would like to take a break. orobet365.com is committed to offering our players enjoyable and safe gaming experience. If you choose one of the above-mentioned options, your gaming account with orobet365.com will be self-excluded for the chosen period. We will also make all the reasonable steps to ensure you do not receive any promotional material during this time. Nevertheless, if you use Social Media channels, we strongly recommend you to make sure you don’t receive any casino news or updates. We also recommend that you do this for any other operator you may be registered with. To ensure the best gaming experience, players also may request the option of adjusting certain deposit limits at any time. In order to set your deposit limits or to request a self-exclusion, please contact our Customer care team via email.</p>
   </div>
 </section>                            </div>
                         </section>
@@ -606,14 +606,14 @@
 
 				            </ul>
             <div class="owner_info">
-                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
                 2014 - 2020 &copy;
                 <span>
-                <a href="http://argocasino.com/">ArgoCasino.com</a>
+                <a href="http://orobet365.com/">orobet365.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->

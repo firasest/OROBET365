@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#">
 
-<!-- Mirrored from 6.argocasino50.com/en/sport?forceMobile by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:43:47 GMT -->
+<!-- Mirrored from 6.orobet365.com50.com/en/sport?forceMobile by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:43:47 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-            <title>Sport betting sportsbook ArgoCasino</title>
+            <title>Sport betting sportsbook orobet365.com</title>
         <meta name="keywords" content="">
         <meta name="description" content="">
-        <meta property="og:title" content="Sport betting sportsbook ArgoCasino">
-        <meta property="og:description" content="Sport betting sportsbook ArgoCasino">
+        <meta property="og:title" content="Sport betting sportsbook orobet365.com">
+        <meta property="og:description" content="Sport betting sportsbook orobet365.com">
         <meta property="og:url" content="sport2074.php?forceMobile">
         <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/zigzag777/img/logo_zigzag_big.png">
         <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
@@ -520,18 +520,18 @@
     <a href="#" data-role="button" role="button" class="open_chat nobg ui-btn"><i class="zmdi zmdi-comment-outline zmdi-hc-2x"></i></a>
     	
     <div class="panel-inner-small-bottom hideright">
-									                <a href="https://www.facebook.com/ARGOCasino.en" data-rel="close" data-role="button" role="button" class="nobg wow fadeIn ui-btn waves-effect waves-button"><i class="zmdi zmdi-facebook"></i></a>
+									                <a href="https://www.facebook.com/orobet365.com.en" data-rel="close" data-role="button" role="button" class="nobg wow fadeIn ui-btn waves-effect waves-button"><i class="zmdi zmdi-facebook"></i></a>
 			        </div>
 	</div></div><div data-role="header" data-position="fixed" class="header">
     <a href="#leftpanel" data-role="button" role="button" class="ui-btn-left wow fadeIn ui-btn waves-effect waves-button"><i class="zmdi zmdi-menu zmdi-hc-lg"></i></a>
-    <h1><a title="Sport betting sportsbook ArgoCasino" href="../en.php"><img src="../img/logo_mobile.png" /></a></h1>
+    <h1><a title="Sport betting sportsbook orobet365.com" href="../en.php"><img src="../img/logo_mobile.png" /></a></h1>
     <a href="#popup-login" data-rel="popup" data-transition="flip" data-position-to="window" data-role="button" role="button" class="ui-btn ui-mini clr-warning ui-btn-raised ui-btn-inline ui-btn-right wow fadeIn waves-effect waves-button">
            Sign in</a></div>    <div role="main" class="ui-content" data-inset="false">
                 <div class="sport">
             <div id="sport_div_iframe"></div>
                         <script>
                 var params = {
-                    server: 'https://sport.argocasino50.com/',
+                    server: 'https://sport.orobet365.com50.com/',
                     containerId: 'sport_div_iframe',
                     token: '-',
                     defaultLanguage: 'en',
@@ -599,10 +599,10 @@
 				            </ul>
         </div>
         <div class="copyright pull-left">
-            Gambling can be addictive. Play responsibly. 2014 - 2020            ArgoCasino.com All rights reserved        </div>
+            Gambling can be addictive. Play responsibly. 2014 - 2020            orobet365.com All rights reserved        </div>
         <p>
-            ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-            ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+            orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+            orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </p>
     </div>
     </div>
@@ -742,5 +742,5 @@
 
     </script></body>
 
-<!-- Mirrored from 6.argocasino50.com/en/sport?forceMobile by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:43:49 GMT -->
+<!-- Mirrored from 6.orobet365.com50.com/en/sport?forceMobile by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:43:49 GMT -->
 </html>

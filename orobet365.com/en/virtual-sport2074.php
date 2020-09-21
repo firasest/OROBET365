@@ -4,13 +4,13 @@
 <!-- Mirrored from 6.argocasino50.com/en/virtual-sport?forceMobile by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:44:12 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-			        <title>Virtual Sport - ArgoCasino.com</title>
+			        <title>Virtual Sport - orobet365.com</title>
         <meta name="keywords" content="Online Slot,slot machines ">
         <meta name="description" content="AVirtual Sport ArgoCacino">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
-        <meta property="og:title" content="Virtual Sport - ArgoCasino.com">
+        <meta property="og:site_name" content="orobet365.com">
+        <meta property="og:title" content="Virtual Sport - orobet365.com">
         <meta property="og:description" content="AVirtual Sport ArgoCacino">
         <meta property="og:url"
               content="virtual-sport40fd.php?forceMobile/en">
@@ -22,7 +22,7 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="Virtual Sport - ArgoCasino.com">
+        <meta name="twitter:title" content="Virtual Sport - orobet365.com">
         <meta name="twitter:description" content="AVirtual Sport ArgoCacino">
         <meta name="twitter:image:src"
               content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
@@ -584,7 +584,7 @@
 			        </div>
 	</div></div><div data-role="header" data-position="fixed" class="header">
     <a href="#leftpanel" data-role="button" role="button" class="ui-btn-left wow fadeIn ui-btn waves-effect waves-button"><i class="zmdi zmdi-menu zmdi-hc-lg"></i></a>
-    <h1><a title="Virtual Sport - ArgoCasino.com" href="../en.php"><img src="../img/logo_mobile.png" /></a></h1>
+    <h1><a title="Virtual Sport - orobet365.com" href="../en.php"><img src="../img/logo_mobile.png" /></a></h1>
     <a href="#popup-login" data-rel="popup" data-transition="flip" data-position-to="window" data-role="button" role="button" class="ui-btn ui-mini clr-warning ui-btn-raised ui-btn-inline ui-btn-right wow fadeIn waves-effect waves-button">
            Sign in</a></div>    <div role="main" class="ui-content virtualsportlist" data-inset="false">
 			    <div class="notifyapp tl ">
@@ -1069,10 +1069,10 @@
 				            </ul>
         </div>
         <div class="copyright pull-left">
-            Gambling can be addictive. Play responsibly. 2014 - 2020            ArgoCasino.com All rights reserved        </div>
+            Gambling can be addictive. Play responsibly. 2014 - 2020            orobet365.com All rights reserved        </div>
         <p>
-            ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-            ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+            orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+            orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </p>
     </div>
     </div>
