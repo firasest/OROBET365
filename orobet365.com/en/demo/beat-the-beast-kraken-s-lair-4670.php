@@ -11,7 +11,7 @@
         <meta property="og:title" content="Play now Beat the Beast: Kraken's Lair - Thunderkick Online Slot in ArgoCasino.com">
         <meta property="og:description" content="Play now Beat the Beast: Kraken's Lair - Thunderkick Online Slot in ArgoCasino.com">
         <meta property="og:url"
-              content="beat-the-beast-kraken-s-lair-4670.html">
+              content="beat-the-beast-kraken-s-lair-4670.php">
         <meta property="og:image" content="../../../d32wwkuryjkg7f.cloudfront.net/img/15e565328162ab.jpg">
 	    <base >
     <meta charset="UTF-8">
@@ -21,31 +21,31 @@
     <meta name="theme-color" content="#091a2a">
 
 	        <link rel="alternate"
-              href="../../ru/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../ru/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="ru"/>
 	        <link rel="alternate"
-              href="beat-the-beast-kraken-s-lair-4670.html"
+              href="beat-the-beast-kraken-s-lair-4670.php"
               hreflang="en"/>
 	        <link rel="alternate"
-              href="../../sv/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../sv/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="sv"/>
 	        <link rel="alternate"
-              href="../../pl/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../pl/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="pl"/>
 	        <link rel="alternate"
-              href="../../de/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../de/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="de"/>
 	        <link rel="alternate"
-              href="../../zh/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../zh/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="zh"/>
 	        <link rel="alternate"
-              href="../../ro/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../ro/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="ro"/>
 	        <link rel="alternate"
-              href="../../uk/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../uk/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="uk"/>
 	        <link rel="alternate"
-              href="../../tr/demo/beat-the-beast-kraken-s-lair-4670.html"
+              href="../../tr/demo/beat-the-beast-kraken-s-lair-4670.php"
               hreflang="tr"/>
 	
     <link rel="apple-touch-icon" sizes="180x180" href="../../img/favicons/apple-touch-icon.png">
@@ -154,13 +154,13 @@
 
 
     <div class="inside clearfix">
-        <a href="../index.html">
+        <a href="../index.php">
             <div class="top_logo"></div>
         </a>
 		
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.html" class="logo_link">
+        <a href="en.php" class="logo_link">
             <img src="../../img/orobet365.png"  style="
             width: 130%;
             margin-top: 20%;
@@ -174,27 +174,27 @@
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
                             <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
-                               href="../../en.html"
+                               href="../../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Online Kasino - ArgoCasino.com"
-                               href="../live-casino.html"
+                               href="../live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="../tv_games.html"
+                               href="../tv_games.php"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="../sport.html"
+                               href="../sport.php"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Virtual Sport - ArgoCasino.com"
-                               href="../virtual-sport.html"
+                               href="../virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -219,7 +219,7 @@
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="../e-sport.html">
+                <a href="../e-sport.php">
                     <img src="../../img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
@@ -227,21 +227,21 @@
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="../bonuses.html">
+                               href="../bonuses.php">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
 						                            <li class="header-top__nav__item">
                                 <a title="Tournaments"
-                                   href="../tournament.html">
+                                   href="../tournament.php">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="../download.html">
+                                     href="../download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -252,7 +252,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../../ru/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../ru/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Русский</span></a></li><li class="pl"><a href="../../pl/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../pl/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Polski</span></a></li><li class="sv"><a href="../../sv/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../sv/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Svenska</span></a></li><li class="en active"><a href="beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="beat-the-beast-kraken-s-lair-4670.html"><span>English</span></a></li><li class="de"><a href="../../de/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../de/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../ro/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Română</span></a></li><li class="zh"><a href="../../zh/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../zh/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../uk/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Українська</span></a></li><li class="tr"><a href="../../tr/demo/beat-the-beast-kraken-s-lair-4670.html"></a><a class="no_image" href="../../tr/demo/beat-the-beast-kraken-s-lair-4670.html"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../../ru/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../ru/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Русский</span></a></li><li class="pl"><a href="../../pl/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../pl/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Polski</span></a></li><li class="sv"><a href="../../sv/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../sv/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Svenska</span></a></li><li class="en active"><a href="beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="beat-the-beast-kraken-s-lair-4670.php"><span>English</span></a></li><li class="de"><a href="../../de/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../de/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../ro/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Română</span></a></li><li class="zh"><a href="../../zh/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../zh/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../uk/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Українська</span></a></li><li class="tr"><a href="../../tr/demo/beat-the-beast-kraken-s-lair-4670.php"></a><a class="no_image" href="../../tr/demo/beat-the-beast-kraken-s-lair-4670.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -281,10 +281,10 @@
                         </li>
 						                            <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
-                                   href="../registrationd56b.html?login"><span>Login</span></a>
+                                   href="../registrationd56b.php?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="../registration.html"><span>Join Now</span></a>
+                                   href="../registration.php"><span>Join Now</span></a>
                             </li>
 							                    </ul>
                 </nav>
@@ -492,7 +492,7 @@
                             <img style="margin-top: 5px;float: left" src="../../img/ArgoCasino_play.png">
                             <h2 class="ig_h1_demo">
 								You are playing in demo mode. Playing for real money is much more interesting !                            </h2>
-                            <a class="ig_denghi" href="../registrationd56b.html">
+                            <a class="ig_denghi" href="../registrationd56b.php">
 								play for money                            </a>
                         </div>
                     </div>
@@ -506,7 +506,7 @@
                                     allowfullscreen
                                     width="1280"
                                     height="720" scrolling="no"
-                                    src="https://client.qtlauncher.com/client/game-launcher.html#/?gameSession=8d6d21cf-3015-44c7-a5bd-0f0a3d6faf2c">
+                                    src="https://client.qtlauncher.com/client/game-launcher.php#/?gameSession=8d6d21cf-3015-44c7-a5bd-0f0a3d6faf2c">
                             </iframe>
 							                        <div class="flex-game-table__sidebar-right" id="sidebar-right">
                             <span class="open_btn_deposit">
@@ -520,7 +520,7 @@
 <div class="win-now">
     <ul class="win-now__list">
                     <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="lake-s-five-2854.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ASKOP*</div>
                         <div class="win-now-sum">125 CREDITS</div>
@@ -532,7 +532,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="lake-s-five-2854.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ASKOP*</div>
                         <div class="win-now-sum">120 CREDITS</div>
@@ -544,7 +544,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="lake-s-five-2854.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ASKOP*</div>
                         <div class="win-now-sum">60 CREDITS</div>
@@ -556,7 +556,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="skulls-up-4612.html">
+                <a href="skulls-up-4612.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ALEX1*</div>
                         <div class="win-now-sum">5 CREDITS</div>
@@ -568,7 +568,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="gonzo-s-quest-megaways-6862.html">
+                <a href="gonzo-s-quest-megaways-6862.php">
                     <div class="win-now-left">
                         <div class="win-now-user">SVETA*</div>
                         <div class="win-now-sum">1.8 CREDITS</div>
@@ -691,7 +691,7 @@
                                 <li itemprop="itemListElement" itemscope
                                     itemtype="http://schema.org/ListItem"
                                     style="float: left;margin-right: 3px">
-                                    <a itemprop="item" href="../../index.html">
+                                    <a itemprop="item" href="../../index.php">
                             <span itemprop="name" style="text-transform: capitalize">
                                 Home                            </span>
                                     </a>
@@ -700,7 +700,7 @@
                                 <li itemprop="itemListElement" itemscope
                                     itemtype="http://schema.org/ListItem" style="float: left;margin-right: 3px">
                                     /<a itemprop="item"
-                                        href="../popular.html">
+                                        href="../popular.php">
                             <span itemprop="name" style="text-transform: capitalize">
                                 popular                            </span>
                                     </a>
@@ -893,7 +893,7 @@
                                                         <li class="popup-registration__item" style="display: none">
                                 <label class="check-label">
                                     <input name="accept" checked="checked" class="checkbox styled checkbox-normal" type="checkbox" autocomplete="off"/>
-                                    Я ознакомлен(а) с <a target="_blank" href="../rules.html">Правилами и условиями и Политикой
+                                    Я ознакомлен(а) с <a target="_blank" href="../rules.php">Правилами и условиями и Политикой
                                         конфиденциальности</a>
                                 </label>
                             </li>
@@ -926,7 +926,7 @@
                             </li>
 
                             <li class="popup-registration__item z_p">
-                                <p class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../rules.html">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
+                                <p class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../rules.php">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
                             </li>
                         </ul>
                     </form>
