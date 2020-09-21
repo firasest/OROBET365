@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/responsible-gaming by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:57 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+                    <title>Responsible Gaming</title>
         <meta name="keywords" content="Online Slot,slot machines ">
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="Responsible Gaming">
         <meta property="og:description" content="">
         <meta property="og:url" content="../en.php">
         <meta property="og:locale" content="en_EN">
@@ -20,7 +20,7 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
+        <meta name="twitter:title" content="Responsible Gaming">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta name="twitter:url" content="../en.php">
@@ -32,7 +32,7 @@
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/responsible-gaming">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,23 +40,23 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+            <link rel="alternate" href="../ru/responsible-gaming.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+            <link rel="alternate" href="responsible-gaming.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+            <link rel="alternate" href="../sv/responsible-gaming.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+            <link rel="alternate" href="../pl/responsible-gaming.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+            <link rel="alternate" href="../de/responsible-gaming.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+            <link rel="alternate" href="../zh/responsible-gaming.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+            <link rel="alternate" href="../ro/responsible-gaming.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+            <link rel="alternate" href="../uk/responsible-gaming.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+            <link rel="alternate" href="../tr/responsible-gaming.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -259,7 +259,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/responsible-gaming.php"></a><a class="no_image" href="../ru/responsible-gaming.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/responsible-gaming.php"></a><a class="no_image" href="../pl/responsible-gaming.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/responsible-gaming.php"></a><a class="no_image" href="../sv/responsible-gaming.php"><span>Svenska</span></a></li><li class="en active"><a href="responsible-gaming.php"></a><a class="no_image" href="responsible-gaming.php"><span>English</span></a></li><li class="de"><a href="../de/responsible-gaming.php"></a><a class="no_image" href="../de/responsible-gaming.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/responsible-gaming.php"></a><a class="no_image" href="../ro/responsible-gaming.php"><span>Română</span></a></li><li class="zh"><a href="../zh/responsible-gaming.php"></a><a class="no_image" href="../zh/responsible-gaming.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/responsible-gaming.php"></a><a class="no_image" href="../uk/responsible-gaming.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/responsible-gaming.php"></a><a class="no_image" href="../tr/responsible-gaming.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
+                    <a data-title="Online Kasino - ArgoCasino.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
+                    <a data-title="Brettspiele - ArgoCasino.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -452,22 +452,58 @@
         <div class="inside">
                             <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
                     <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
+                        <section class="middle responsible-gaming" style="z-index: 1">
                             <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
+                                <section class="middle responsible-page cms-css">
+  <div class="container">
+    <h2>RESPONSIBLE GAMBLING</h2>
+    <p>ArgoCasino.com is committed to sustaining responsible gaming as a policy of customer care and social responsibility. We want you to enjoy your online gambling experience, and at the same time to understand the potential risks of gambling.</p>
+    <h3>MAINTAINING CONTROL</h3>
+    <p>Gambling should be treated as a fun pastime, and not as a means to generate income. Although the majority of the players can treat gambling as recreation and spend only what they can afford to risk, for some it can be more difficult.</p>
+    <p>In order to maintain control of your gambling habits, please consider the following rules:</p>
+    <ul>
+      <li>If you choose to gamble – do it for entertainment purposes only</li>
+      <li>Avoid chasing losses - there will always be another opportunity</li>
+      <li>Set a deposit limit that can cover the losses – decide what you can afford to lose and how much you want to spend</li>
+      <li>Keep track of the time and monitor the amount of money you spend</li>
+      <li>In case you need a break from gambling, please contact our customer support</li>
+      <li>In case you need additional information regarding gambling, please contact one of the organizations provided below.</li>
+    </ul>
+    <h3>DO YOU HAVE A PROBLEM?</h3>
+    <p>The following questions will help you, in case you are concerned that gambling has had a negative impact on your life or life of your relatives.</p>
+    <ul>
+      <li>Does gambling prevent you from attending work or college?</li>
+      <li>Do you gamble to escape boredom or to spend your time?</li>
+      <li>Do you gamble alone for long periods of time?</li>
+      <li>Have you ever been criticized for your gambling?</li>
+      <li>Do you prefer gambling instead of spending your time with your family, friends?</li>
+      <li>Have you ever lied to cover up the amount of money or time you spend gambling?</li>
+      <li>Have you ever lied, stolen or borrowed money in order to maintain betting habits?</li>
+      <li>Are you reluctant to spend "gambling money" on anything else?</li>
+      <li>Do you gamble until you lose all your money?</li>
+      <li>After losing, do you feel that you have to try and win back the losses as soon as possible?</li>
+      <li>Do you feel lost and desperate when you spend all the money from your balance?</li>
+      <li>Do any arguments, frustrations or disappointments make you want to gamble?</li>
+      <li>Does gambling make you depressed or even suicidal?</li>
+    </ul>
+    <p>In case most of your answers were positive, there is a big probability that you are experiencing difficulties with your gambling. In case you need a piece of advice or support on this issue, please contact one of the organizations detailed below under Gambling Counselling Organisations.</p>
+    <h3>GAMBLING COUNSELLING ORGANISATIONS</h3>
+    <ul>
+      <li>GamCare, the leading authority providing counseling, advice and practical help in addressing the social impact of gambling in the UK, can be visited at <a href="http://www.gamcare.org.uk/">www.gamcare.org.uk</a>. ts confidential helpline is 0845 6000 133.</li>
+      <li>Gamblers Anonymous is a fellowship of men and women who have joined together to do something about their own gambling problem and help other compulsive gamblers do the same. There are regional fellowships around the world. The Gamblers Anonymous international service site is at <a href="http://www.gamblersanonymous.org.uk/">www.gamblersanonymous.org.uk</a>.</li>
+      <li>Gambling Therapy provides support and counseling for those who were affected by gambling. Members of the Gambling Therapy Team operate from locations both within the UK and internationally. You may contact them here: <a href="http://www.gamblingtherapy.org/">www.gamblingtherapy.org</a></li>
+    </ul>
+    <h3>UNDERAGE PLAYERS</h3>
+    <p>It is illegal for someone who is under 18 years of age to gamble. Due to this fact, Argo Casino takes its responsibilities to carry out age verification on all customers. Customer accounts may be suspended and funds withheld until satisfactory proof of age is provided</p>
+    <h3>FILTERING SYSTEMS</h3>
+    <p>Thanks to filtering systems, parents can regulate access to the internet. They can use filters in order to prevent their children from accessing gambling websites. If you share your computer with friends or members of your family who are under the legal age to register or bet with our site, you may use filtering solutions such as
+      Net Nanny™ <a href="http://www.netnanny.com/">www.netnanny.com</a>
+      CyberPatrol <a href="http://www.cyberpatrol.com/">www.cyberpatrol.com</a>
+    </p>
+    <h3>NEED TO TAKE A BREAK? SELF-EXCLUSION OPTION.</h3>
+    <p>We recognize that whilst most players gamble for entertainment, gambling can be harmful to a certain group of people that is why ArgoCasino.com makes all necessary efforts to create a responsible gaming environment. If you are concerned about your gambling behavior, you may either request an indefinite self-exclusion or for a specified length of time if you would like to take a break. ArgoCasino.com is committed to offering our players enjoyable and safe gaming experience. If you choose one of the above-mentioned options, your gaming account with ArgoCasino.com will be self-excluded for the chosen period. We will also make all the reasonable steps to ensure you do not receive any promotional material during this time. Nevertheless, if you use Social Media channels, we strongly recommend you to make sure you don’t receive any casino news or updates. We also recommend that you do this for any other operator you may be registered with. To ensure the best gaming experience, players also may request the option of adjusting certain deposit limits at any time. In order to set your deposit limits or to request a self-exclusion, please contact our Customer care team via email.</p>
+  </div>
+</section>                            </div>
                         </section>
                     </div>
                 </div>
@@ -483,7 +519,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="responsible-gaming2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +544,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -521,7 +557,7 @@
         <li><a
                 href="rules.php">Terms and Conditions</a>
         </li>
-        <li><a
+        <li class="active"><a
                 href="responsible-gaming.php">Responsible Gaming</a>
         </li>
         <!--<li><a href="/<? /*= LANGUAGE_CODE; */ ?>/fair-play"></a></li>-->
@@ -570,14 +606,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +846,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -917,5 +953,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/responsible-gaming by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:58 GMT -->
 </html>

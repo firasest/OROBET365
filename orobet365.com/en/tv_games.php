@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/tv_games by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:26:22 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+                    <title>TV Games</title>
         <meta name="keywords" content="Online Slot,slot machines ">
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="TV Games">
         <meta property="og:description" content="">
         <meta property="og:url" content="../en.php">
         <meta property="og:locale" content="en_EN">
@@ -20,7 +20,7 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
+        <meta name="twitter:title" content="TV Games">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta name="twitter:url" content="../en.php">
@@ -32,7 +32,7 @@
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/tv_games">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,23 +40,23 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+            <link rel="alternate" href="../ru/tv_games.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+            <link rel="alternate" href="tv_games.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+            <link rel="alternate" href="../sv/tv_games.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+            <link rel="alternate" href="../pl/tv_games.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+            <link rel="alternate" href="../de/tv_games.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+            <link rel="alternate" href="../zh/tv_games.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+            <link rel="alternate" href="../ro/tv_games.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+            <link rel="alternate" href="../uk/tv_games.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+            <link rel="alternate" href="../tr/tv_games.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -259,7 +259,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/tv_games.php"></a><a class="no_image" href="../ru/tv_games.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/tv_games.php"></a><a class="no_image" href="../pl/tv_games.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/tv_games.php"></a><a class="no_image" href="../sv/tv_games.php"><span>Svenska</span></a></li><li class="en active"><a href="tv_games.php"></a><a class="no_image" href="tv_games.php"><span>English</span></a></li><li class="de"><a href="../de/tv_games.php"></a><a class="no_image" href="../de/tv_games.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/tv_games.php"></a><a class="no_image" href="../ro/tv_games.php"><span>Română</span></a></li><li class="zh"><a href="../zh/tv_games.php"></a><a class="no_image" href="../zh/tv_games.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/tv_games.php"></a><a class="no_image" href="../uk/tv_games.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/tv_games.php"></a><a class="no_image" href="../tr/tv_games.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
+                    <a data-title="Online Kasino - ArgoCasino.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
+                    <a data-title="Brettspiele - ArgoCasino.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -450,27 +450,499 @@
     <div class="main" id="main">
 
         <div class="inside">
-                            <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
-                    <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
-                            <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
-                        </section>
+                            <div class="our-games">
+                    
+<section class="our-games tv_games" id="our-games">
+	﻿<style>
+    .provider_bord{
+        width: calc(100% - 56px)!important;
+    }
+</style>
+<div style="padding:0px; margin-top:-5px;margin-bottom: 20px; ">
+<link rel="stylesheet" href="../css/slider/css/style3860.css?v=1">
+    <div id="jssor_1" style="position: relative; margin: 0 auto; top: 0; height: 50px;">
+<!--    <div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 910px; height: 50px;">-->
+        <!-- Loading Screen -->
+                <div class="provider_bord"  data-u="slides" style="cursor: default; position: relative; top: 0px; left: 26px; width: 1057px; height: 50px; overflow: hidden;">
+                        <div class="provider enabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="enabled" href="javascript:void;" data-provider="betgames_tv" data-alias="Betgames TV">
+                    <img data-u="image" src="../img/slider/img/BetGames_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="red_tiger" data-alias="Red Tiger">
+                    <img data-u="image" src="../img/slider/img/RedTiger_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="playngo" data-alias="PlaynGO">
+                    <img data-u="image" src="../img/slider/img/PlaynGo_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="netent" data-alias="NetEnt">
+                    <img data-u="image" src="../img/slider/img/Netent_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="microgaming,microgame,devpartners,quickspin_mg,jpm_interactive_mg,next_gen_mg,big_time_gaming_mg,games_warehouse_mg,leander_mg,wagermill_mg,push_gaming_mg" data-alias="Microgaming">
+                    <img data-u="image" src="../img/slider/img/Microgaming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="yggdrasil" data-alias="Yggdrasil">
+                    <img data-u="image" src="../img/slider/img/Yggdrasil_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="evolutiongaming" data-alias="Evolution Gaming">
+                    <img data-u="image" src="../img/slider/img/EvolutionGaming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="amatic" data-alias="Amanet">
+                    <img data-u="image" src="../img/slider/img/Amanet_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="elk_studios" data-alias="Elk Studios">
+                    <img data-u="image" src="../img/slider/img/Elk_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="igrosoft" data-alias="Igrosoft">
+                    <img data-u="image" src="../img/slider/img/Igrosoft_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="quickfire,quickfire" data-alias="Quickfire">
+                    <img data-u="image" src="../img/slider/img/Quickfire_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="egt" data-alias="Egt">
+                    <img data-u="image" src="../img/slider/img/Egt_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="pragmatic,topgame,pragmatic_play" data-alias="Pragmatic Play">
+                    <img data-u="image" src="../img/slider/img/Pragmaticplay_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="habanero" data-alias="Habanero">
+                    <img data-u="image" src="../img/slider/img/Habanero_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="quickspin" data-alias="Quickspin">
+                    <img data-u="image" src="../img/slider/img/QuickSpin_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="thunderkick" data-alias="Thunderkick">
+                    <img data-u="image" src="../img/slider/img/Thunderkick_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="blueprint_gaming" data-alias="Blueprint">
+                    <img data-u="image" src="../img/slider/img/Blueprint_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="playson" data-alias="Playson">
+                    <img data-u="image" src="../img/slider/img/playson_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="spinomenal" data-alias="Spinomenal">
+                    <img data-u="image" src="../img/slider/img/Spinomenal_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="ezugi" data-alias="Ezugi">
+                    <img data-u="image" src="../img/slider/img/Ezugi_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="booming_games" data-alias="Booming Games">
+                    <img data-u="image" src="../img/slider/img/Booming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="iron_dog_studios" data-alias="Iron Dog Studios">
+                    <img data-u="image" src="../img/slider/img/IronDog_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="betsoft_games" data-alias="Betsoft">
+                    <img data-u="image" src="../img/slider/img/Betsoft_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="ainsworth" data-alias="Ainsworth">
+                    <img data-u="image" src="../img/slider/img/Ainsworth_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="big_time_gaming" data-alias="Big Time Gaming">
+                    <img data-u="image" src="../img/slider/img/big_time_gaming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="realistic-games" data-alias="Realistic Games">
+                    <img data-u="image" src="../img/slider/img/Realistic_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="lightning_box,lightning_box_addamedia,lightning_box_baddamedia" data-alias="Lightning Box">
+                    <img data-u="image" src="../img/slider/img/LightningBox_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="casino_technology" data-alias="Casino Technology">
+                    <img data-u="image" src="../img/slider/img/CasinoTechnology_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="endorphina" data-alias="Endorphina">
+                    <img data-u="image" src="../img/slider/img/Endorphina_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="gamevy" data-alias="Gamevy">
+                    <img data-u="image" src="../img/slider/img/gamevy_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="games-lab" data-alias="Games Lab">
+                    <img data-u="image" src="../img/slider/img/GamesLab_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="boomerang" data-alias="Boomerang">
+                    <img data-u="image" src="../img/slider/img/Boomerang_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="gamefish-global" data-alias="Gamefish">
+                    <img data-u="image" src="../img/slider/img/Gamefish_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="chance-interactive" data-alias="ChanceInteractive">
+                    <img data-u="image" src="../img/slider/img/ChanceInteractive_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="splitrock-gaming" data-alias="Splitrock">
+                    <img data-u="image" src="../img/slider/img/Splitrock_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="kalamba_games" data-alias="Kalamba Games">
+                    <img data-u="image" src="../img/slider/img/KalambaGames_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="1x2_g_a,1x2_g_b,1x2_g_c" data-alias="1x2 Gaming">
+                    <img data-u="image" src="../img/slider/img/1x2gaming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="booongo" data-alias="Booongo">
+                    <img data-u="image" src="../img/slider/img/Booongo_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="august_gaming" data-alias="AugustGaming">
+                    <img data-u="image" src="../img/slider/img/AugustGaming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="red_rake_gaming" data-alias="RedRakeGaming">
+                    <img data-u="image" src="../img/slider/img/RedRakeGaming_ico.png" />
+                </a>
+            </div>
+                        <div class="provider disabled" style="background-color: #231f18;height: 50px;border: 1px solid #282319;">
+                <a class="disabled" href="javascript:void;" data-provider="nolimit_city" data-alias="NolimitCity">
+                    <img data-u="image" src="../img/slider/img/NolimitCity_ico.png" />
+                </a>
+            </div>
                     </div>
-                </div>
+        <!-- Arrow Navigator -->
+        <span data-u="arrowleft" class="jssora03l" style="top:14px;left:8px;width:13px;height:50px;" data-autocenter="2"></span>
+        <span data-u="arrowright" class="jssora03r" style="top:14px;right:8px;width:13px;height:50px;" data-autocenter="2"></span>
+    </div>
+    <!-- #endregion Jssor Slider End -->
+</div>
+    <div class="winwin">
+		
+<div class="win-now">
+    <ul class="win-now__list">
+                    <li class="win-now-li">
+                <a href="demo/micro-knights-4669.php">
+                    <div class="win-now-left">
+                        <div class="win-now-user">DDDDD*</div>
+                        <div class="win-now-sum">12 CREDITS</div>
+                        <div class="win-now_game">Micro Knights</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="../../d32wwkuryjkg7f.cloudfront.net/img/15e564074529fe.jpg"/>
+                    </div>
+                </a>
+            </li>
+                        <li class="win-now-li">
+                <a href="demo/lake-s-five-2854.php">
+                    <div class="win-now-left">
+                        <div class="win-now-user">ASKOP*</div>
+                        <div class="win-now-sum">6270 CREDITS</div>
+                        <div class="win-now_game">Lake's Five</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                    </div>
+                </a>
+            </li>
+                        <li class="win-now-li">
+                <a href="demo/micro-knights-4669.php">
+                    <div class="win-now-left">
+                        <div class="win-now-user">DDDDD*</div>
+                        <div class="win-now-sum">4 CREDITS</div>
+                        <div class="win-now_game">Micro Knights</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="../../d32wwkuryjkg7f.cloudfront.net/img/15e564074529fe.jpg"/>
+                    </div>
+                </a>
+            </li>
+                        <li class="win-now-li">
+                <a href="demo/micro-knights-4669.php">
+                    <div class="win-now-left">
+                        <div class="win-now-user">DDDDD*</div>
+                        <div class="win-now-sum">12 CREDITS</div>
+                        <div class="win-now_game">Micro Knights</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="../../d32wwkuryjkg7f.cloudfront.net/img/15e564074529fe.jpg"/>
+                    </div>
+                </a>
+            </li>
+                        <li class="win-now-li">
+                <a href="demo/lake-s-five-2854.php">
+                    <div class="win-now-left">
+                        <div class="win-now-user">ASKOP*</div>
+                        <div class="win-now-sum">201 CREDITS</div>
+                        <div class="win-now_game">Lake's Five</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                    </div>
+                </a>
+            </li>
+                </ul>
+</div>
+    </div>
+    <ul class="our-games__list clearfix">
+
+		                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748c242d063.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Speedy 7                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748c4853f5c.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Lucky 7                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748c62ebdc6.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Lucky 6                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748c80a2815.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Lucky 5                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748c9097da8.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Dice Duel                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748cabd70d0.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Bet On Poker                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748ce006a2b.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									6+ Poker                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748be12b868.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									War Of Bets                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e748cc4b3e67.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Baccarat                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item   xx2">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e6b520773e2d.jpg" alt="betgames_tv">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betgames_tv.png" />                        <!-- betgames_tv-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Wheel Of Fortune                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                            </ul>
+                        </div>
+                    </div>
+                </li>
+				    </ul>
+</section>
+	<div class="pager">
+		<ul class="pager__list horizontal">
+					</ul>
+	</div>
+                    <script>var gamesajax = true;</script>
+                                                        </div>
                         </div>
     </div>
 </div>
@@ -483,7 +955,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="tv_games2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +980,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -570,14 +1042,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +1282,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -917,5 +1389,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/tv_games by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:26:26 GMT -->
 </html>

@@ -11,7 +11,7 @@
         <meta property="og:title" content="Play now American Roulette - Betsoft Games Online Slot in ArgoCasino.com">
         <meta property="og:description" content="Play now American Roulette - Betsoft Games Online Slot in ArgoCasino.com">
         <meta property="og:url"
-              content="american-roulette-1972.html">
+              content="american-roulette-1972.php">
         <meta property="og:image" content="../../../d32wwkuryjkg7f.cloudfront.net/img/1599571b70bb2c.jpg">
 	    <base >
     <meta charset="UTF-8">
@@ -21,31 +21,31 @@
     <meta name="theme-color" content="#091a2a">
 
 	        <link rel="alternate"
-              href="../../ru/demo/american-roulette-1972.html"
+              href="../../ru/demo/american-roulette-1972.php"
               hreflang="ru"/>
 	        <link rel="alternate"
-              href="american-roulette-1972.html"
+              href="american-roulette-1972.php"
               hreflang="en"/>
 	        <link rel="alternate"
-              href="../../sv/demo/american-roulette-1972.html"
+              href="../../sv/demo/american-roulette-1972.php"
               hreflang="sv"/>
 	        <link rel="alternate"
-              href="../../pl/demo/american-roulette-1972.html"
+              href="../../pl/demo/american-roulette-1972.php"
               hreflang="pl"/>
 	        <link rel="alternate"
-              href="../../de/demo/american-roulette-1972.html"
+              href="../../de/demo/american-roulette-1972.php"
               hreflang="de"/>
 	        <link rel="alternate"
-              href="../../zh/demo/american-roulette-1972.html"
+              href="../../zh/demo/american-roulette-1972.php"
               hreflang="zh"/>
 	        <link rel="alternate"
-              href="../../ro/demo/american-roulette-1972.html"
+              href="../../ro/demo/american-roulette-1972.php"
               hreflang="ro"/>
 	        <link rel="alternate"
-              href="../../uk/demo/american-roulette-1972.html"
+              href="../../uk/demo/american-roulette-1972.php"
               hreflang="uk"/>
 	        <link rel="alternate"
-              href="../../tr/demo/american-roulette-1972.html"
+              href="../../tr/demo/american-roulette-1972.php"
               hreflang="tr"/>
 	
     <link rel="apple-touch-icon" sizes="180x180" href="../../img/favicons/apple-touch-icon.png">
@@ -154,13 +154,13 @@
 
 
     <div class="inside clearfix">
-        <a href="../index.html">
+        <a href="../index.php">
             <div class="top_logo"></div>
         </a>
 		
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.html" class="logo_link">
+        <a href="en.php" class="logo_link">
             <img src="../../img/orobet365.png"  style="
             width: 130%;
             margin-top: 20%;
@@ -174,27 +174,27 @@
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
                             <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
-                               href="../../en.html"
+                               href="../../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Online Kasino - ArgoCasino.com"
-                               href="../live-casino.html"
+                               href="../live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="../tv_games.html"
+                               href="../tv_games.php"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="../sport.html"
+                               href="../sport.php"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Virtual Sport - ArgoCasino.com"
-                               href="../virtual-sport.html"
+                               href="../virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -219,7 +219,7 @@
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="../e-sport.html">
+                <a href="../e-sport.php">
                     <img src="../../img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
@@ -227,21 +227,21 @@
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="../bonuses.html">
+                               href="../bonuses.php">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
 						                            <li class="header-top__nav__item">
                                 <a title="Tournaments"
-                                   href="../tournament.html">
+                                   href="../tournament.php">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="../download.html">
+                                     href="../download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -252,7 +252,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../../ru/demo/american-roulette-1972.html"></a><a class="no_image" href="../../ru/demo/american-roulette-1972.html"><span>Русский</span></a></li><li class="pl"><a href="../../pl/demo/american-roulette-1972.html"></a><a class="no_image" href="../../pl/demo/american-roulette-1972.html"><span>Polski</span></a></li><li class="sv"><a href="../../sv/demo/american-roulette-1972.html"></a><a class="no_image" href="../../sv/demo/american-roulette-1972.html"><span>Svenska</span></a></li><li class="en active"><a href="american-roulette-1972.html"></a><a class="no_image" href="american-roulette-1972.html"><span>English</span></a></li><li class="de"><a href="../../de/demo/american-roulette-1972.html"></a><a class="no_image" href="../../de/demo/american-roulette-1972.html"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/demo/american-roulette-1972.html"></a><a class="no_image" href="../../ro/demo/american-roulette-1972.html"><span>Română</span></a></li><li class="zh"><a href="../../zh/demo/american-roulette-1972.html"></a><a class="no_image" href="../../zh/demo/american-roulette-1972.html"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/demo/american-roulette-1972.html"></a><a class="no_image" href="../../uk/demo/american-roulette-1972.html"><span>Українська</span></a></li><li class="tr"><a href="../../tr/demo/american-roulette-1972.html"></a><a class="no_image" href="../../tr/demo/american-roulette-1972.html"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../../ru/demo/american-roulette-1972.php"></a><a class="no_image" href="../../ru/demo/american-roulette-1972.php"><span>Русский</span></a></li><li class="pl"><a href="../../pl/demo/american-roulette-1972.php"></a><a class="no_image" href="../../pl/demo/american-roulette-1972.php"><span>Polski</span></a></li><li class="sv"><a href="../../sv/demo/american-roulette-1972.php"></a><a class="no_image" href="../../sv/demo/american-roulette-1972.php"><span>Svenska</span></a></li><li class="en active"><a href="american-roulette-1972.php"></a><a class="no_image" href="american-roulette-1972.php"><span>English</span></a></li><li class="de"><a href="../../de/demo/american-roulette-1972.php"></a><a class="no_image" href="../../de/demo/american-roulette-1972.php"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/demo/american-roulette-1972.php"></a><a class="no_image" href="../../ro/demo/american-roulette-1972.php"><span>Română</span></a></li><li class="zh"><a href="../../zh/demo/american-roulette-1972.php"></a><a class="no_image" href="../../zh/demo/american-roulette-1972.php"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/demo/american-roulette-1972.php"></a><a class="no_image" href="../../uk/demo/american-roulette-1972.php"><span>Українська</span></a></li><li class="tr"><a href="../../tr/demo/american-roulette-1972.php"></a><a class="no_image" href="../../tr/demo/american-roulette-1972.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -281,10 +281,10 @@
                         </li>
 						                            <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
-                                   href="../registrationd56b.html?login"><span>Login</span></a>
+                                   href="../registrationd56b.php?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="../registration.html"><span>Join Now</span></a>
+                                   href="../registration.php"><span>Join Now</span></a>
                             </li>
 							                    </ul>
                 </nav>
@@ -531,7 +531,7 @@
 <div class="win-now">
     <ul class="win-now__list">
                     <li class="win-now-li">
-                <a href="crystal-queen-2932.html">
+                <a href="crystal-queen-2932.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ALEX1*</div>
                         <div class="win-now-sum">8 CREDITS</div>
@@ -543,7 +543,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="lake-s-five-2854.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ASKOP*</div>
                         <div class="win-now-sum">50 CREDITS</div>
@@ -555,7 +555,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="crystal-queen-2932.html">
+                <a href="crystal-queen-2932.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ALEX1*</div>
                         <div class="win-now-sum">2 CREDITS</div>
@@ -567,7 +567,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="lake-s-five-2854.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ASKOP*</div>
                         <div class="win-now-sum">380 CREDITS</div>
@@ -579,7 +579,7 @@
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="crystal-queen-2932.html">
+                <a href="crystal-queen-2932.php">
                     <div class="win-now-left">
                         <div class="win-now-user">ALEX1*</div>
                         <div class="win-now-sum">11 CREDITS</div>
@@ -702,7 +702,7 @@
                                 <li itemprop="itemListElement" itemscope
                                     itemtype="http://schema.org/ListItem"
                                     style="float: left;margin-right: 3px">
-                                    <a itemprop="item" href="../../index.html">
+                                    <a itemprop="item" href="../../index.php">
                             <span itemprop="name" style="text-transform: capitalize">
                                 Home                            </span>
                                     </a>
@@ -904,7 +904,7 @@
                                                         <li class="popup-registration__item" style="display: none">
                                 <label class="check-label">
                                     <input name="accept" checked="checked" class="checkbox styled checkbox-normal" type="checkbox" autocomplete="off"/>
-                                    Я ознакомлен(а) с <a target="_blank" href="../../ru/rules.html">Правилами и условиями и Политикой
+                                    Я ознакомлен(а) с <a target="_blank" href="../../ru/rules.php">Правилами и условиями и Политикой
                                         конфиденциальности</a>
                                 </label>
                             </li>
@@ -937,7 +937,7 @@
                             </li>
 
                             <li class="popup-registration__item z_p">
-                                <p class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../../ru/rules.html">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
+                                <p class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../../ru/rules.php">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
                             </li>
                         </ul>
                     </form>

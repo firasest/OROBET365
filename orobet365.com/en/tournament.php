@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/tournament by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:10 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+                    <title>Turnieren - ArgoCasino.com</title>
         <meta name="keywords" content="Online Slot,slot machines ">
-        <meta name="description" content="">
+        <meta name="description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
-        <meta property="og:description" content="">
-        <meta property="og:url" content="../en.php">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="Turnieren - ArgoCasino.com">
+        <meta property="og:description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
+        <meta property="og:url" content="tournament/en.php">
         <meta property="og:locale" content="en_EN">
         <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
@@ -20,11 +20,11 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
-        <meta name="twitter:description" content="">
+        <meta name="twitter:title" content="Turnieren - ArgoCasino.com">
+        <meta name="twitter:description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="../en.php">
-        <meta name="twitter:domain" content="../en.php">
+        <meta name="twitter:url" content="tournament/en.php">
+        <meta name="twitter:domain" content="tournament/en.php">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
@@ -32,7 +32,7 @@
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/tournament">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,23 +40,23 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+            <link rel="alternate" href="../ru/tournament.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+            <link rel="alternate" href="tournament.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+            <link rel="alternate" href="../sv/tournament.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+            <link rel="alternate" href="../pl/tournament.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+            <link rel="alternate" href="../de/tournament.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+            <link rel="alternate" href="../zh/tournament.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+            <link rel="alternate" href="../ro/tournament.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+            <link rel="alternate" href="../uk/tournament.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+            <link rel="alternate" href="../tr/tournament.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -239,7 +239,7 @@
                                 <span>Promotions</span>
                             </a>
                         </li>
-						                            <li class="header-top__nav__item">
+						                            <li class="header-top__nav__item active">
                                 <a title="Tournaments"
                                    href="tournament.php">
                                     <i class="icon-tournament"></i>
@@ -259,7 +259,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/tournament.php"></a><a class="no_image" href="../ru/tournament.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/tournament.php"></a><a class="no_image" href="../pl/tournament.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/tournament.php"></a><a class="no_image" href="../sv/tournament.php"><span>Svenska</span></a></li><li class="en active"><a href="tournament.php"></a><a class="no_image" href="tournament.php"><span>English</span></a></li><li class="de"><a href="../de/tournament.php"></a><a class="no_image" href="../de/tournament.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/tournament.php"></a><a class="no_image" href="../ro/tournament.php"><span>Română</span></a></li><li class="zh"><a href="../zh/tournament.php"></a><a class="no_image" href="../zh/tournament.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/tournament.php"></a><a class="no_image" href="../uk/tournament.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/tournament.php"></a><a class="no_image" href="../tr/tournament.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
+                    <a data-title="Online Kasino - ArgoCasino.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
+                    <a data-title="Brettspiele - ArgoCasino.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -450,27 +450,96 @@
     <div class="main" id="main">
 
         <div class="inside">
-                            <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
-                    <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
-                            <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
-                        </section>
+                            <section class="middle tournament" style="z-index: 1">
+                    <div class="container">
+                        
+
+	<div class="main-content">
+    <section style="display: none" class="middle tournament-page">
+        <div class="container">
+            <h1 class="tournament_title">Tournaments</h1>
+
+            <table class="tournament_table">
+                <tbody>
+
+                                    
+                    <tr  id="active" name="Fairy Tales Week" class="tournament_tr_bordered tournament-item " >
+
+                        <td width="420">
+
+                                                            <img  alt="" class="tournament_active" src="../img/active_tournament_en.png" />                            
+                            <a  href="tournament/tournament_slot_of_the_week.php" style="height: 0px"><img  alt="" class="tournament_img_back" src="../../s3-eu-west-1.amazonaws.com/cms-tournaments/t82e4abe91a9f3573aeff71ccd313228e.jpg" /></a>
+                        </td>
+
+                        <td content="left" style="padding-left: 40px">
+
+                            <a href="tournament/tournament_slot_of_the_week.php">
+                                <h1 class="tournament_title_h1">«Fairy Tales Week»</h1>
+                            </a>
+
+                            <h2>
+                                The tournament is available between:                                 2020-08-31 – 2020-09-06                                <br>
+	                                                            prize pool:                                <span class="prize_pool">5000L.P.</span>
+                                                            </h2>
+
+                            <p class="active_tournament_description">
+                                ArgoCasino invites all real slot games fans to enjoy Slot of the Week tournament! Play at any time convenient for you during the week and take the chance to win up to 5000 loyalty points! New week - new slot!                             </p>
+                            <a class="btn tournament_reg big pull-left popup-open green_button" href="tournament/tournament_slot_of_the_week.php">
+                                <span>More</span>
+                            </a>
+                        </td>
+
+                    </tr>
+
+                    <tr style="height: 20px"></tr>
+                                    
+                    <tr  id="active" name="Daily drops and Wins" class="tournament_tr_bordered tournament-item " >
+
+                        <td width="420">
+
+                                                            <img  alt="" class="tournament_active" src="../img/active_tournament_en.png" />                            
+                            <a  href="tournament/pragmatic_argo_tournament.php" style="height: 0px"><img  alt="" class="tournament_img_back" src="../../s3-eu-west-1.amazonaws.com/cms-tournaments/ta2e8668cf6234f4e38900b617aeca1fa.jpg" /></a>
+                        </td>
+
+                        <td content="left" style="padding-left: 40px">
+
+                            <a href="tournament/pragmatic_argo_tournament.php">
+                                <h1 class="tournament_title_h1">«Daily drops and Wins»</h1>
+                            </a>
+
+                            <h2>
+                                The tournament is available between:                                 2020-07-02 – 2021-02-01                                <br>
+	                                                        </h2>
+
+                            <p class="active_tournament_description">
+                                JOIN the greatest Network Promotion series from 2nd of July 2020 until 10th of February 2021 from Pragmatic Play and win a share of the gigantic €2,000,000 in cash prizes!                            </p>
+                            <a class="btn tournament_reg big pull-left popup-open green_button" href="tournament/pragmatic_argo_tournament.php">
+                                <span>More</span>
+                            </a>
+                        </td>
+
+                    </tr>
+
+                    <tr style="height: 20px"></tr>
+                
+                </tbody>
+            </table>
+        </div>
+    </section>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("table.tournament__table tr").each(function () {
+            if ($(this).attr('id') == "active") {
+                $(this).prependTo('tbody');
+            }
+        });
+    });
+</script>
+
                     </div>
-                </div>
+                </section>
                         </div>
     </div>
 </div>
@@ -483,7 +552,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="tournament2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +577,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -570,14 +639,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +879,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -917,5 +986,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/tournament by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:13 GMT -->
 </html>

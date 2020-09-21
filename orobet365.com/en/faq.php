@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/faq by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:58 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+                    <title>FAQ</title>
         <meta name="keywords" content="Online Slot,slot machines ">
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="FAQ">
         <meta property="og:description" content="">
         <meta property="og:url" content="../en.php">
         <meta property="og:locale" content="en_EN">
@@ -20,7 +20,7 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
+        <meta name="twitter:title" content="FAQ">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta name="twitter:url" content="../en.php">
@@ -32,7 +32,7 @@
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/faq">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,23 +40,23 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+            <link rel="alternate" href="../ru/faq.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+            <link rel="alternate" href="faq.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+            <link rel="alternate" href="../sv/faq.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+            <link rel="alternate" href="../pl/faq.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+            <link rel="alternate" href="../de/faq.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+            <link rel="alternate" href="../zh/faq.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+            <link rel="alternate" href="../ro/faq.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+            <link rel="alternate" href="../uk/faq.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+            <link rel="alternate" href="../tr/faq.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -259,7 +259,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/faq.php"></a><a class="no_image" href="../ru/faq.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/faq.php"></a><a class="no_image" href="../pl/faq.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/faq.php"></a><a class="no_image" href="../sv/faq.php"><span>Svenska</span></a></li><li class="en active"><a href="faq.php"></a><a class="no_image" href="faq.php"><span>English</span></a></li><li class="de"><a href="../de/faq.php"></a><a class="no_image" href="../de/faq.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/faq.php"></a><a class="no_image" href="../ro/faq.php"><span>Română</span></a></li><li class="zh"><a href="../zh/faq.php"></a><a class="no_image" href="../zh/faq.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/faq.php"></a><a class="no_image" href="../uk/faq.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/faq.php"></a><a class="no_image" href="../tr/faq.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
+                    <a data-title="Online Kasino - ArgoCasino.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
+                    <a data-title="Brettspiele - ArgoCasino.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -452,22 +452,140 @@
         <div class="inside">
                             <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
                     <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
+                        <section class="middle faq" style="z-index: 1">
                             <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
+                                <section class="middle faq-page cms-css">
+  <div class="container">
+    <div class="faq">
+      <div class="faq_box">
+        <div class="faq_left_box"><img src="../img/woman_faq.png" alt="Help"/></div>
+        <div class="faq_right_box">
+          <div class="title h1 up">CONTACT US</div>
+          <div class="title">Our main purpose is to be helpful for our customers.</div>
+          <ol class="hidden">
+            <li>It is very important for us to assist you with the fastest and most accurate responses of your questions.</li>
+            <li>
+              <div class="title">Have any questions? Do you want to contact us? It is very simple!</div></li>
+            <li>
+              <div class="title">All you have to do is to click here:</div></li>
+            <li><a class="open_chat btn" href="../indexaa8a.php?chat">LIVE HELP</a></li>
+            <li>
+              <div class="title">A highly trained customer support team is on hand to help you 24/7</div>
+              You will receive a solution of your issue in maximum <strong>5 minutes</strong>.</li>
+            <li>Our support can assist you: <b>via email:</b> <a href="mailto:support@argocasino.com">support@argocasino.com</a><b>or at phone number:</b><span style="color: #0096ff; font-weight: bold; font-size: 25px;"> +372 53 20 25 75</span></li>
+          </ol>
+          <div class="title it">Players' queries and comments are welcomed at <a href="../en.php">Argocasino.com</a>.</div>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="title up">ArgoCasino F.A.Q.</div>
+      <div class="accordion" data-collapse="accordion">
+        <h3>How can I play?</h3>
+        <div>
+          In our casino, you may play for real money or use the demo version. Before you choose your favorite slots in which you would like to play for real money, we invite you to try all of them using the demo version. Moreover, you may try demo version without being registered. All you have to do is to click on the Demo button and enjoy our slots! In order to play for real money, first, you need to register and to make your first deposit.
+        </div>
+        <h3>How Do I register?</h3>
+        <div>
+          Follow these easy steps to register:
+          <ul>
+            <li>Click on Register button on the top of the screen</li>
+            <li>Enter your email or click on one of the social network buttons which will allow you to register automatically.</li>
+            <li>Tick the box to accept the Terms & Conditions of Argocasino.com</li>
+            <li>Then click the Registration button.</li>
+          </ul>
+          Done! Welcome to Argocasino.com!
+        </div>
+        <h3>How can I confirm my E-mail address after registration?</h3>
+        <div>
+          Your registration at Argocasino.com is not complete until you have confirmed the e-mail address that you entered in the registration form. We will send a validation e-mail to the e-mail address you entered as soon as you have filled in the form. To confirm your address, simply click on the link that you can see in the message. Sometimes this email may go into the spam folder. In order to prevent it, please add ouк email <a href="mailto:support@argocasino.com">support@argocasino.com</a> in your contact list.
+        </div>
+        <h3>I have not received confirmation email. What should I do?</h3>
+        <div>
+          In this case, there is necessary to check whether you have entered the correct email address. If the email is correct but you still have not received the
+              confirmation from us, please contact us via live chat for more information. 
+        </div>
+        <h3>How Do I log out?</h3>
+        <div>
+          In order to log out, please click on the Log Out button on the top of the screen. To prevent any unauthorized use of your account, please make sure that you have been successfully logged out.
+        </div>
+        <h3>I HAVE DECIDED TO DEACTIVATE MY ACCOUNT. HOW CAN I DO IT?</h3>
+        <div>
+          In order to deactivate your account, there is necessary to contact customer support via Live Chat or send us an email to  <a href="mailto:support@argocasino.com">support@argocasino.com</a>
+        </div>
+        <h3>Which currencies do you accept?</h3>
+        <div>
+          ArgoCasino.com accepts EUR, RUB, SEK, PLN
+        </div>
+        <h3>WHICH PAYMENT METHODS ARE ACCEPTED?</h3>
+        <div>
+          In order to check all the payment method available for you, please check them as follows: Visa, MasterCard, Visa Electron, Neteller, Skrill, Paysafecard.
+        </div>
+        <h3>HOW DO I FUND MY ACCOUNT?</h3>
+        <div>
+          In order to make a deposit, please find My Account section, click on Deposit and choose the payment method. Once you click on the payment method, please enter the amount and the further details requested, and then click on Confirm. The amount will be automatically credited to your account. In case the transaction has been completed but the funds are not displayed on your Balance, please do not hesitate to contact our support.
+        </div>
+        <h3>HOW DO I WITHDRAW FUNDS?</h3>
+        <div>
+          To process a withdrawal from your account you need to select My Account and click on Withdraw. Choose the payment method and complete the required details. Then, please enter the amount you would like to withdraw and click on Confirm.
+        </div>
+        <h3>WHAT DO I DO IF I FORGET MY PASSWORD?</h3>
+        <div>
+          If you forget your password, please request for registration details recovery. In order to do it, please follow the steps:
+          <ul>
+            <li>Click on Forgotten Password button</li>
+            <li>Enter your email and click on Submit</li>
+            <li>Click on the link and enter your new password twice</li>
+            <li>Click on Save to confirm</li>
+          </ul>
+        </div>
+        <h3>TODAY I HAVE REQUESTED WITHDRAWAL HOWEVER IT IS STILL AWAITING. WHAT SEEMS TO BE THE PROBLEM?</h3>
+        <div>
+          All withdrawal requests are processed within 24 business hours. The maximum amount that can be withdrawn is 1,500 EUR per day and 9,000 EUR per month.
+        </div>
+        <h3>HOW CAN I WITHDRAW MY DEPOSIT?</h3>
+        <div>
+          Withdrawal may be requested whether the initial deposit has been wagered at least 1 time. To process a withdrawal from your account you need to select My Account and click on Withdraw.
+        </div>
+        <h3>WHAT SHOULD I DO IF I AM UNABLE TO PLAY?</h3>
+        <div>
+          In case the games are not loading, please refresh the page and then try again. If the issue persists, please follow the instructions below:
+          <ul>
+            <li>Clean the cookies on your computer;</li>
+            <li>Try additional browser (Google Chrome, Opera, Mozilla Firefox, Safari,)</li>
+            <li>Install the latest version of <a href="http://get.adobe.com/ru/flashplayer/">Adobe FlashPlayer</a></li>
+          </ul>
+        </div>
+        <h3>WHAT ARE COOKIES AND HOW TO CLEAR THEM?</h3>
+        <div>
+          Cookies are small pieces of data which are stored by a website through your browser, to enable an improved experience whilst using or browsing a particular website or to remember your preferences or navigation history/activity (such as pages you have visited within a particular site, language preferences or typical activity) at a particular site cookies.
+        </div>
+        <h3>HOW CAN I INSTALL THE LATEST VERSION OF FLASH PLAYER?</h3>
+        <div>
+          «Adobe Flash Player» is a software platform that runs video, animation, and games inside of Web pages.
+          <ul>
+            <li>In order to install it, please click «Adobe Flash Player» link  <a href="http://get.adobe.com/ru/flashplayer">Adobe FlashPlayer</a>.</li>
+            <li>Then Click "Download now" button. Save the file when prompted.</li>
+            <li>A progress bar will show you the status of the installation. When it is complete, click the "Finish" button.</li>
+          </ul>
+        </div>
+        <h3>IS YOUR CASINO LICENSED?</h3>
+        <div>
+          Argocasino.com is licensed in Curacao and the license № 8048/JAZ2015-008 is held by JocSystem N.V. a limited liability company incorporated under the laws of Curacao, bearing company number 124835 and having its registered address at E-Commerce Park, Vredenberg, Curacao.
+        </div>
+        <h3>I HAVE NOT FOUND THE ANSWER TO MY QUESTION. WHAT SHOULD I DO?</h3>
+        <div>
+          Please do not hesitate to contact us via Live Chat. As well you may send us an email to the following departments:
+          <ul>
+            <li>Customer Support: <a href="mailto:support@argocasino.com">support@argocasino.com</a></li>
+            <li>Complain/reclamation: <a href="mailto:info@argocasino.com">info@argocasino.com</a></li>
+            <li>Financial department <a href="mailto:kyc@argocasino.com">kyc@argocasino.com</a></li>
+            <li>Marketing department: <a href="mailto:advertising@argocasino.com">advertising@argocasino.com</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>                            </div>
                         </section>
                     </div>
                 </div>
@@ -483,7 +601,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="faq2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +626,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -525,7 +643,7 @@
                 href="responsible-gaming.php">Responsible Gaming</a>
         </li>
         <!--<li><a href="/<? /*= LANGUAGE_CODE; */ ?>/fair-play"></a></li>-->
-        <li><a
+        <li class="active"><a
                 href="faq.php">FAQ</a></li>
             </ul>
 </nav>                <div class="footer_pay_systems">
@@ -570,14 +688,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +928,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -917,5 +1035,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/faq by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:42:03 GMT -->
 </html>

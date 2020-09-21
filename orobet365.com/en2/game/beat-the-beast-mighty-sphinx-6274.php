@@ -2,17 +2,17 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en">
 
-<!-- Mirrored from 6.argocasino50.com/en/demo/artemis-vs-medusa-6917 by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:47:44 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/demo/beat-the-beast-mighty-sphinx-6274 by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:34:26 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-	        <title>Play now Artemis vs Medusa - Quickspin Online Slot in ArgoCasino.com</title>
-        <meta name="keywords" content="Online Slot, Artemis vs Medusa, slot machines, Quickspin">
-        <meta name="description" content="Play now Artemis vs Medusa - Quickspin Online Slot in ArgoCasino.com">
-        <meta property="og:title" content="Play now Artemis vs Medusa - Quickspin Online Slot in ArgoCasino.com">
-        <meta property="og:description" content="Play now Artemis vs Medusa - Quickspin Online Slot in ArgoCasino.com">
+	        <title>Play now Beat the Beast: Mighty Sphinx - Thunderkick Online Slot in ArgoCasino.com</title>
+        <meta name="keywords" content="Online Slot, Beat the Beast: Mighty Sphinx, slot machines, Thunderkick">
+        <meta name="description" content="Play now Beat the Beast: Mighty Sphinx - Thunderkick Online Slot in ArgoCasino.com">
+        <meta property="og:title" content="Play now Beat the Beast: Mighty Sphinx - Thunderkick Online Slot in ArgoCasino.com">
+        <meta property="og:description" content="Play now Beat the Beast: Mighty Sphinx - Thunderkick Online Slot in ArgoCasino.com">
         <meta property="og:url"
-              content="artemis-vs-medusa-6917.php">
-        <meta property="og:image" content="../../../d32wwkuryjkg7f.cloudfront.net/img/15f3fe14c61e05.jpg">
+              content="beat-the-beast-mighty-sphinx-6274.html">
+        <meta property="og:image" content="../../../d32wwkuryjkg7f.cloudfront.net/img/15e97022908bd7.jpg">
 	    <base >
     <meta charset="UTF-8">
     <link rel="manifest" href="../../manifest.json">
@@ -21,31 +21,31 @@
     <meta name="theme-color" content="#091a2a">
 
 	        <link rel="alternate"
-              href="../../ru/demo/artemis-vs-medusa-6917.php"
+              href="../../ru/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="ru"/>
 	        <link rel="alternate"
-              href="artemis-vs-medusa-6917.php"
+              href="beat-the-beast-mighty-sphinx-6274.html"
               hreflang="en"/>
 	        <link rel="alternate"
-              href="../../sv/demo/artemis-vs-medusa-6917.php"
+              href="../../sv/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="sv"/>
 	        <link rel="alternate"
-              href="../../pl/demo/artemis-vs-medusa-6917.php"
+              href="../../pl/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="pl"/>
 	        <link rel="alternate"
-              href="../../de/demo/artemis-vs-medusa-6917.php"
+              href="../../de/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="de"/>
 	        <link rel="alternate"
-              href="../../zh/demo/artemis-vs-medusa-6917.php"
+              href="../../zh/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="zh"/>
 	        <link rel="alternate"
-              href="../../ro/demo/artemis-vs-medusa-6917.php"
+              href="../../ro/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="ro"/>
 	        <link rel="alternate"
-              href="../../uk/demo/artemis-vs-medusa-6917.php"
+              href="../../uk/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="uk"/>
 	        <link rel="alternate"
-              href="../../tr/demo/artemis-vs-medusa-6917.php"
+              href="../../tr/demo/beat-the-beast-mighty-sphinx-6274.html"
               hreflang="tr"/>
 	
     <link rel="apple-touch-icon" sizes="180x180" href="../../img/favicons/apple-touch-icon.png">
@@ -89,7 +89,7 @@
     <script type="text/javascript" src="../../js/socket.io-1.4.5.js"></script>
     <script src="../../../www.google.com/recaptcha/api6ff1.js?render=6LcKQaUUAAAAAHSfknW2-4vYEgEAMXDkk8c4eP-N"></script>
 </head>
-<body class="demo" style="background: #0f141a url(../../../d32wwkuryjkg7f.cloudfront.net/bg/15f3fe14c8e581.jpg) no-repeat 50% 0; background-attachment: fixed; background-size: cover;">
+<body class="demo" style="background: #0f141a url(../../../d32wwkuryjkg7f.cloudfront.net/bg/15e97022939ff5.jpg) no-repeat 50% 0; background-attachment: fixed; background-size: cover;">
 
 
 
@@ -154,13 +154,13 @@
 
 
     <div class="inside clearfix">
-        <a href="../index.php">
+        <a href="../index.html">
             <div class="top_logo"></div>
         </a>
 		
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.php" class="logo_link">
+        <a href="en.html" class="logo_link">
             <img src="../../img/orobet365.png"  style="
             width: 130%;
             margin-top: 20%;
@@ -174,27 +174,27 @@
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
                             <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
-                               href="../../en.php"
+                               href="../../en.html"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Online Kasino - ArgoCasino.com"
-                               href="../live-casino.php"
+                               href="../live-casino.html"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="../tv_games.php"
+                               href="../tv_games.html"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="../sport.php"
+                               href="../sport.html"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Virtual Sport - ArgoCasino.com"
-                               href="../virtual-sport.php"
+                               href="../virtual-sport.html"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -219,7 +219,7 @@
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="../e-sport.php">
+                <a href="../e-sport.html">
                     <img src="../../img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
@@ -227,21 +227,21 @@
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="../bonuses.php">
+                               href="../bonuses.html">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
 						                            <li class="header-top__nav__item">
                                 <a title="Tournaments"
-                                   href="../tournament.php">
+                                   href="../tournament.html">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="../download.php">
+                                     href="../download.html">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -252,7 +252,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../../ru/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../ru/demo/artemis-vs-medusa-6917.php"><span>Русский</span></a></li><li class="pl"><a href="../../pl/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../pl/demo/artemis-vs-medusa-6917.php"><span>Polski</span></a></li><li class="sv"><a href="../../sv/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../sv/demo/artemis-vs-medusa-6917.php"><span>Svenska</span></a></li><li class="en active"><a href="artemis-vs-medusa-6917.php"></a><a class="no_image" href="artemis-vs-medusa-6917.php"><span>English</span></a></li><li class="de"><a href="../../de/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../de/demo/artemis-vs-medusa-6917.php"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../ro/demo/artemis-vs-medusa-6917.php"><span>Română</span></a></li><li class="zh"><a href="../../zh/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../zh/demo/artemis-vs-medusa-6917.php"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../uk/demo/artemis-vs-medusa-6917.php"><span>Українська</span></a></li><li class="tr"><a href="../../tr/demo/artemis-vs-medusa-6917.php"></a><a class="no_image" href="../../tr/demo/artemis-vs-medusa-6917.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../../ru/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../ru/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Русский</span></a></li><li class="pl"><a href="../../pl/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../pl/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Polski</span></a></li><li class="sv"><a href="../../sv/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../sv/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Svenska</span></a></li><li class="en active"><a href="beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="beat-the-beast-mighty-sphinx-6274.html"><span>English</span></a></li><li class="de"><a href="../../de/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../de/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../ro/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Română</span></a></li><li class="zh"><a href="../../zh/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../zh/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../uk/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Українська</span></a></li><li class="tr"><a href="../../tr/demo/beat-the-beast-mighty-sphinx-6274.html"></a><a class="no_image" href="../../tr/demo/beat-the-beast-mighty-sphinx-6274.html"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -281,10 +281,10 @@
                         </li>
 						                            <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
-                                   href="../registrationd56b.php?login"><span>Login</span></a>
+                                   href="../registrationd56b.html?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="../registration.php"><span>Join Now</span></a>
+                                   href="../registration.html"><span>Join Now</span></a>
                             </li>
 							                    </ul>
                 </nav>
@@ -480,107 +480,133 @@
     }
 </style>
 
-<section
-        class="game_page "
-        style="visibility: hidden; min-width: 1200px">
+<section class="game_page " style="visibility: hidden; min-width: 1200px">
     <div class="flex-game-table">
         <div class="flex-game-table__box">
             <div class="loading"></div>
-			                <div class="clearfix">
-                    <div class=" ig_green_banner">
-                        <div style="margin: 0 auto;width: 935px">
-                            <img style="margin-top: 5px;float: left" src="../../img/ArgoCasino_play.png">
-                            <h2 class="ig_h1_demo">
-								You are playing in demo mode. Playing for real money is much more interesting !                            </h2>
-                            <a class="ig_denghi" href="../registrationd56b.php">
-								play for money                            </a>
-                        </div>
-                    </div>
-                </div>
-			            <div class="flex-game-table__box__container ">
+            <div class="flex-game-table__box__container ">
                 <div class="loader"></div>
                 <div class="flex-game-table__game">
 
                     <div class="game-box__container">
-						                            <iframe id="game_frame"
-                                    allowfullscreen
-                                    width="1280"
-                                    height="720" scrolling="no"
-                                    src="https://client.qtlauncher.com/client/game-launcher.php#/?gameSession=29ce6214-e04c-4d0a-9e8f-d2ee7457d9a6">
-                            </iframe>
-							                        <div class="flex-game-table__sidebar-right" id="sidebar-right">
+                        <iframe id="game_frame" allowfullscreen width="1200" height="800" scrolling="no"
+                            src="https://mollinar.pragmaticplay.net/gs2c/playGame.do?key=token%3D7c2f7c3e-f670-4635-ad1f-5392f1c1e6b8%26symbol%3Dvs25wolfgold%26technology%3DH5%26platform%3DWEB%26language%3Den%26cashierUrl%3Dhttps%253A%252F%252F6.argocasino50.com%252Fen%252Faccount%252Fdeposit%26lobbyUrl%3Dhttps%253A%252F%252F6.argocasino50.com%252Fen%26operatorGameHistoryUrl%3Dhttps%253A%252F%252F6.argocasino50.com%252Fen%252Faccount%252Fhistory%26secureLogin%3Dmol_zigzag777sw&stylename=mol_zigzag777sw">
+                        </iframe>
+                        <div class="flex-game-table__sidebar-right" id="sidebar-right">
                             <span class="open_btn_deposit">
                             </span>
                             <div class="sidebar__box">
-								                                <div class="deposit_box">
+                                <div class="deposit_box">
                                     <p>INSTANT DEPOSIT</p>
-									                                </div>
+                                    <form class="ajax-deposit-form-new" method="post" action="/ajax/newdep">
+                                        <input type="hidden" name="paymethod" value="sc_visa">
+                                        <div class="user-deposit-payment_mode__tab cloud-gray show_tab">
+                                            <ul class="dep_amount">
+                                                <li data-amount="10">10<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                                <li data-amount="25">25<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                                <li data-amount="50">50<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                                <li data-amount="100">1<b
+                                                        style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                </li>
+                                            </ul>
+                                            <ul class="ps__list horizontal">
+                                                <li class="pull-left_ text_pool_right">
+                                                    <input type="text" autofocus="" name="amount" style="width: 160px"
+                                                        class="profile__input-text" value=""
+                                                        placeholder="INSTANT DEPOSIT">
+                                                    <input id="sc_visa" style="" type="text" name="code"
+                                                        class="profile__input-text promo_code" placeholder="">
+                                                </li>
+                                                <li class="pull-right_ action">
+
+                                                    <button onclick="ga('send','event','Web','Deposit'); return true;"
+                                                        class="btn green_dep small" type="submit">
+                                                        <span class="withdraw_cancel">Deposit</span>
+                                                    </button>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </form>
+                                </div>
                                 <div class="winwin">
-									
-<div class="win-now">
-    <ul class="win-now__list">
-                    <li class="win-now-li">
-                <a href="crystal-queen-2932.php">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ALEX1*</div>
-                        <div class="win-now-sum">4 CREDITS</div>
-                        <div class="win-now_game">Crystal Queen</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bb4b68211b1e.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.php">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">36 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.php">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">70 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.php">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">60 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.php">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">70 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                </ul>
-</div>
+
+                                    <div class="win-now">
+                                        <ul class="win-now__list">
+                                            <li class="win-now-li">
+                                                <a href="/en/game/playboy-5326">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">RETRA*</div>
+                                                        <div class="win-now-sum">1000 CREDITS</div>
+                                                        <div class="win-now_game">Playboy</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15e593c4d09c0b.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/mustang-gold-3122">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">BANZA*</div>
+                                                        <div class="win-now-sum">247.5 CREDITS</div>
+                                                        <div class="win-now_game">Mustang Gold</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15c4033df9026a.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/game-of-thrones-ways-5568">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">TENIS*</div>
+                                                        <div class="win-now-sum">3 CREDITS</div>
+                                                        <div class="win-now_game">Game of Thrones 243 Ways</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15e59fc87e86a2.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/john-hunter-and-the-tomb-of-the-scarab-queen-4196">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">PERSE*</div>
+                                                        <div class="win-now-sum">5 CREDITS</div>
+                                                        <div class="win-now_game">John Hunter and the Tomb of the Scarab
+                                                            Queen</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15d8c78c0d1f1c.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                            <li class="win-now-li">
+                                                <a href="/en/game/john-hunter-and-the-tomb-of-the-scarab-queen-4196">
+                                                    <div class="win-now-left">
+                                                        <div class="win-now-user">PERSE*</div>
+                                                        <div class="win-now-sum">5 CREDITS</div>
+                                                        <div class="win-now_game">John Hunter and the Tomb of the Scarab
+                                                            Queen</div>
+                                                    </div>
+                                                    <div class="win-now-img">
+                                                        <img class="win_img"
+                                                            src="https://d32wwkuryjkg7f.cloudfront.net/img/15d8c78c0d1f1c.jpg" />
+                                                    </div>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -590,134 +616,7 @@
 
             </div>
 
-			                <div itemscope
-                     itemtype="http://schema.org/WebApplication"
-                     class='pl_back'
-                     style='margin-bottom: 40px !important;border: 1px solid #5b563d;margin-top: 25px !important;'>
-                    <link itemprop="applicationCategory" href="https://schema.org/BrowserApplication"/>
-                    <meta itemprop="name" content="Artemis vs Medusa">
-                    <meta itemprop="applicationSubCategory" content="new">
-                    <meta itemprop="applicationSuite" content="Quickspin">
-                    <meta itemprop="operatingSystem" content="Any">
-                    <meta itemprop="thumbnailUrl" content="../../../d32wwkuryjkg7f.cloudfront.net/img/15f3fe14c61e05.jpg">
-                    <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                        <meta itemprop="price" content="10.00">
-                        <meta itemprop="priceCurrency" content="RUB, EUR, PLN, SEK" />
-                    </div>
-					                        <div itemprop="aggregateRating"
-                             itemscope
-                             itemtype="http://schema.org/AggregateRating"
-                             class="rating_box">
-
-                            <div>
-
-								
-                                <span>
-                                <ol class="floating-box">
-                                    <li>
-                                        <a href="javascript:void('#star1')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star2')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star3')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                </ol>
-                            </span>
-                                <span>
-                                <b style="float: right;
-                                        font-size: 16px;
-                                        color: #ffba00;
-                                        margin-top: 9px;
-                                        margin-left: 140px;
-                                        text-transform: uppercase;
-                                        font-weight: initial;">
-                                    GAME RATING 5                                    <img style=" width: 13px;background-color: #e8ba00;"
-                                         src="../../img/argo_rating_star_contur1.png"/>
-                                </b>
-                            </span>
-                                <meta itemprop="ratingValue"
-                                      content="5">
-                                <meta itemprop="ratingCount"
-                                      content="5">
-                                <meta itemprop="worstRating" content="0">
-                                <meta itemprop="bestRating" content="5">
-                            </div>
-                        </div>
-                        <style>
-
-                            .floating-box {
-                                list-style-type: none;
-                                margin: 0;
-                                padding: 0;
-                                position: absolute;
-                            }
-
-                            .floating-box li {
-                                float: left;
-                            }
-
-                            .floating-box li img {
-                                /*position: absolute;*/
-                                z-index: 246 !important;
-                                height: 30px !important;
-                                width: auto !important;
-                                margin-right: 2px;
-                            }
-
-                            .floating-box li a:hover img {
-                                background-color: #e8ba00;
-                            }
-                        </style>
-                        <div class="breadcrumbs_g">
-							                            <ol itemscope itemtype="http://schema.org/BreadcrumbList"  >
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem"
-                                    style="float: left;margin-right: 3px">
-                                    <a itemprop="item" href="../../index.php">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                Home                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="1"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" style="float: left;margin-right: 3px">
-                                    /<a itemprop="item"
-                                        href="../new.php">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                new                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="2"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" class="overflow ellipsis">
-                                    /<a itemprop="item">
-                                        <span itemprop="name">Artemis vs Medusa</span>
-                                    </a>
-                                    <meta itemprop="position" content="3"/>
-                                </li>
-                            </ol>
-                        </div>
-
-										<h1 style='text-align: center;color: #ffba00'>To play in  Artemis vs Medusa at ArgoCasino </h1>                     <p itemprop="description" style='text-align: justify'>The newest slot machine  Artemis vs Medusa from the best provider Quickspin  and ArgoCasino. Modern graphics and high quality sound will capture your attention. This is one of the best online slots from the provider Quickspin . The Slot Machine Artemis vs Medusa - is one of the most popular games from this category. This slot will help you re-open the world of the online slot machines and try your luck. The easy rules of Artemis vs Medusa are clear enough even to newbies.  </p>                     <h2 style='text-align: center;color: #ffba00'>Slot machine Artemis vs Medusa: on real money or free demo version</h2>                     <p itemprop="description" style='text-align: justify;'>Slot machine  Artemis vs Medusa allows you to play online without registration and absolutely for free. The game- play in the online casino can bring essential winnings, as well as, loses. That is why, before starting to play real money on the Artemis vs Medusa slot machine make sure you totally got familiar with the game-play in demo version. Anyone can play on Artemis vs Medusa. You can play the demo version absolutely for free, or you can register and play on real money. Slot Artemis vs Medusa, would rather be preferred by players of profitable classic games. But  even those who prefer the modern online (offline) slot machines, should not pass by this wonderful game.  </p>                </div>
-			        </div>
+        </div>
         <!--.flex-game-table -->
 </section>
 <!--<div id="loader-spinner"><i class="fa fa-spinner faa-spin animated"></i></div>-->
@@ -893,7 +792,7 @@
                                                         <li class="popup-registration__item" style="display: none">
                                 <label class="check-label">
                                     <input name="accept" checked="checked" class="checkbox styled checkbox-normal" type="checkbox" autocomplete="off"/>
-                                    Я ознакомлен(а) с <a target="_blank" href="../../ru/rules.php">Правилами и условиями и Политикой
+                                    Я ознакомлен(а) с <a target="_blank" href="../rules.html">Правилами и условиями и Политикой
                                         конфиденциальности</a>
                                 </label>
                             </li>
@@ -926,7 +825,7 @@
                             </li>
 
                             <li class="popup-registration__item z_p">
-                                <p class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../../ru/rules.php">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
+                                <p class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../rules.html">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
                             </li>
                         </ul>
                     </form>
@@ -957,7 +856,7 @@
 <!--	  -->		<div class="social_title">using Facebook/Google+</div>
 		<div class="social_box">
     <ul>
-                <li><a href="https://oauth.jocsystems.com:30443/facebook/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJzdiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvc3ZcL2RlbW9cL2xpbC1kZXZpbC02NTEzIiwibGFuZyI6InN2In19" class="btn gray social_login facebook"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/google/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJzdiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZGVcL2RlbW9cL2RpdmluZS1zaG93ZG93bi00NDYzIiwibGFuZyI6InJ1In19" class="btn gray social_login google"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/mailru/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2dvcmlsbGEtZ29sZC1tZWdhd2F5cy02MjM0IiwibGFuZyI6ImVuIn19" class="btn gray social_login mailru"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/odnoklassniki/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJzdiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZGVcL2RlbW9cL2Jvb2stb2YtbWVybGluLTQ5MDYiLCJsYW5nIjoiemgifX0" class="btn gray social_login odnoklassniki"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/vkontakte/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2Rhd24tb2YtZWd5cHQtNDY0OCIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login vkontakte"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/yandex/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJ6aCIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL3B5cmFtaWQta2luZy02NDM5IiwibGFuZyI6ImVuIn19" class="btn gray social_login yandex"><div></div></a></li>    </ul>
+                <li><a href="https://oauth.jocsystems.com:30443/facebook/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2dvbnpvLXMtcXVlc3QtbWVnYXdheXMtNjg2MiIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login facebook"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/google/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2JlYXQtdGhlLWJlYXN0LW1pZ2h0eS1zcGhpbngtNjI3NCIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login google"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/mailru/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2JlYXQtdGhlLWJlYXN0LW1pZ2h0eS1zcGhpbngtNjI3NCIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login mailru"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/odnoklassniki/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2JlYXQtdGhlLWJlYXN0LW1pZ2h0eS1zcGhpbngtNjI3NCIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login odnoklassniki"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/vkontakte/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2JlYXQtdGhlLWJlYXN0LW1pZ2h0eS1zcGhpbngtNjI3NCIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login vkontakte"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/yandex/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2JlYXQtdGhlLWJlYXN0LW1pZ2h0eS1zcGhpbngtNjI3NCIsImxhbmciOiJlbiJ9fQ" class="btn gray social_login yandex"><div></div></a></li>    </ul>
 </div>		<div class="separator">
 		  <div class="t">OR</div>
 		</div>
@@ -1104,5 +1003,5 @@
 </script>
 </body>
 
-<!-- Mirrored from 6.argocasino50.com/en/demo/artemis-vs-medusa-6917 by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:47:46 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/demo/beat-the-beast-mighty-sphinx-6274 by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:34:33 GMT -->
 </html>

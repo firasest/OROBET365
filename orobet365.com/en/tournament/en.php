@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/tournament/en by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:44:32 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+                    <title>Turnieren - ArgoCasino.com</title>
         <meta name="keywords" content="Online Slot,slot machines ">
-        <meta name="description" content="">
+        <meta name="description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
-        <meta property="og:description" content="">
-        <meta property="og:url" content="../en.php">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="Turnieren - ArgoCasino.com">
+        <meta property="og:description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
+        <meta property="og:url" content="../../en.php">
         <meta property="og:locale" content="en_EN">
-        <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
+        <meta property="og:image" content="../../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
         <meta property="og:image:height" content="504">
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="../en.php">
-        <meta name="twitter:domain" content="../en.php">
+        <meta name="twitter:title" content="Turnieren - ArgoCasino.com">
+        <meta name="twitter:description" content="ArgoCasino lädt alle Fans von Slots die Teil in einem Turnier "Slot der Woche" zu nehmen!">
+        <meta name="twitter:image:src" content="../../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
+        <meta name="twitter:url" content="../../en.php">
+        <meta name="twitter:domain" content="../../en.php">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
@@ -32,60 +32,60 @@
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
-    <link rel="manifest" href="../manifest.json">
+          href="https://m.6.argocasino50.com/en/tournament/en">
+    <link rel="manifest" href="../../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
     <meta name="msvalidate.01" content="C35AFD00C6C96F1FEEC16ACA18FC733F"/>
 
-    <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
+    <meta name="msapplication-config" content="../../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+            <link rel="alternate" href="../../ru/tournament.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+            <link rel="alternate" href="../tournament.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+            <link rel="alternate" href="../../sv/tournament.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+            <link rel="alternate" href="../../pl/tournament.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+            <link rel="alternate" href="../../de/tournament.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+            <link rel="alternate" href="../../zh/tournament.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+            <link rel="alternate" href="../../ro/tournament.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+            <link rel="alternate" href="../../uk/tournament.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+            <link rel="alternate" href="../../tr/tournament.php"
               hreflang="tr"/>
-        <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="../img/favicons/favicon-16x16.png" sizes="16x16">
-    <link rel="mask-icon" href="../img/favicons/safari-pinned-tab.svg" color="#17150f">
-    <link rel="shortcut icon" href="../img/favicons/favicon.ico">
+        <link rel="apple-touch-icon" sizes="180x180" href="../../img/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" href="../../img/favicons/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../../img/favicons/favicon-16x16.png" sizes="16x16">
+    <link rel="mask-icon" href="../../img/favicons/safari-pinned-tab.svg" color="#17150f">
+    <link rel="shortcut icon" href="../../img/favicons/favicon.ico">
 
 
-    <link href="../images/iphone5.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphone6.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphoneplus.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonex.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonexr.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonexsmax.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/ipad.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro1.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro3.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro2.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/iphone5.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/iphone6.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/iphoneplus.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+    <link href="../../images/iphonex.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+    <link href="../../images/iphonexr.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/iphonexsmax.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+    <link href="../../images/ipad.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/ipadpro1.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/ipadpro3.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+    <link href="../../images/ipadpro2.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
 
     <link rel="stylesheet"
-          href="../../cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
-    <link rel="stylesheet" href="../css/notyaaa4.css?v=eAiTahee5iei4ggx"/>
-    <link rel="stylesheet" href="../css/styleaaa4.css?v=eAiTahee5iei4ggx" type="text/css"/>
-    <link rel="stylesheet" href="../css/cms-cssaaa4.css?v=eAiTahee5iei4ggx" type="text/css"/>
+          href="../../../cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="../../css/notyaaa4.css?v=eAiTahee5iei4ggx"/>
+    <link rel="stylesheet" href="../../css/styleaaa4.css?v=eAiTahee5iei4ggx" type="text/css"/>
+    <link rel="stylesheet" href="../../css/cms-cssaaa4.css?v=eAiTahee5iei4ggx" type="text/css"/>
     <!-- Proof | Real-time conversion signals -->
     <!--        <script id=proof-script>!function(){function b(){var a=(new Date).getTime(),b=document.createElement('script');b.type='text/javascript',b.async=!0,b.src='https://cdn.getmoreproof.com/embed/latest/proof.js?'+a;var c=document.getElementsByTagName('script')[0];c.parentNode.insertBefore(b,c)}var a=window;a.attachEvent?a.attachEvent('onload',b):a.addEventListener('load',b,!1),window.proof_config={acc:'uMPCDX8rK9f13RaVBBxEzYTNbU73', v:'1.1'}}()</script>-->
     <!-- End Proof -->
     <!--        <script type="text/javascript" src="https://3e100851-d592-4fa7-a983-5a57f0ec5015.snippet.antillephone.com/apg-seal.js"></script>-->
-    <script src="../../cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+    <script src="../../../cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 <script>
     var OneSignal = OneSignal || [];
     OneSignal.push(["init", {
@@ -110,10 +110,10 @@
             }
         }*/
 </script>
-    <script type="text/javascript" src="../js/jquery/jquery-2.2.2.min.js"></script>
-    <script type="text/javascript" src="../js/main-topaaa4.js?v=eAiTahee5iei4ggx"></script>
-    <script type="text/javascript" src="../js/socket.io-1.4.5.js"></script>
-    <script src="../../www.google.com/recaptcha/api6ff1.js?render=6LcKQaUUAAAAAHSfknW2-4vYEgEAMXDkk8c4eP-N"></script>
+    <script type="text/javascript" src="../../js/jquery/jquery-2.2.2.min.js"></script>
+    <script type="text/javascript" src="../../js/main-topaaa4.js?v=eAiTahee5iei4ggx"></script>
+    <script type="text/javascript" src="../../js/socket.io-1.4.5.js"></script>
+    <script src="../../../www.google.com/recaptcha/api6ff1.js?render=6LcKQaUUAAAAAHSfknW2-4vYEgEAMXDkk8c4eP-N"></script>
     <style>
         .breadcrumbs {
             margin-top: -1%;
@@ -158,50 +158,45 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
-            <a href="index.php">
+            <a href="../index.php">
                 <div class="top_logo"></div>
             </a>
             
 <div class="header-top">
     <div class="inside clearfix">
-        <a href="en.php" class="logo_link">
-            <img src="../img/orobet365.png"  style="
-            width: 130%;
-            margin-top: 20%;
-            margin-left: -12%;
-        ">
-        </a>
+        <a href="../../en.php" class="logo_link">
+            <div class="top_logo"></div>
         </a>
         <div class="navbar">
             <div class="navbar_top_line">
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
-                               href="../en.php"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                               href="../../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
-                               href="live-casino.php"
+                            <a data-title="Online Kasino - ArgoCasino.com"
+                               href="../live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="tv_games.php"
+                               href="../tv_games.php"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="sport.php"
+                               href="../sport.php"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
-                               href="virtual-sport.php"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
+                               href="../virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -226,29 +221,29 @@
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="e-sport.php">
-                    <img src="../img/logo_ESports.svg" alt="">
+                <a href="../e-sport.php">
+                    <img src="../../img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
                 <nav class="header-top__nav pull-left main_top_bar">
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="bonuses.php">
+                               href="../bonuses.php">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
-						                            <li class="header-top__nav__item">
+						                            <li class="header-top__nav__item active">
                                 <a title="Tournaments"
-                                   href="tournament.php">
+                                   href="../tournament.php">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="download.php">
+                                     href="../download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -259,7 +254,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../../ru/tournament/en.php"></a><a class="no_image" href="../../ru/tournament/en.php"><span>Русский</span></a></li><li class="pl"><a href="../../pl/tournament/en.php"></a><a class="no_image" href="../../pl/tournament/en.php"><span>Polski</span></a></li><li class="sv"><a href="../../sv/tournament/en.php"></a><a class="no_image" href="../../sv/tournament/en.php"><span>Svenska</span></a></li><li class="en active"><a href="en.php"></a><a class="no_image" href="en.php"><span>English</span></a></li><li class="de"><a href="../../de/tournament/en.php"></a><a class="no_image" href="../../de/tournament/en.php"><span>Deutsch</span></a></li><li class="ro"><a href="../../ro/tournament/en.php"></a><a class="no_image" href="../../ro/tournament/en.php"><span>Română</span></a></li><li class="zh"><a href="../../zh/tournament/en.php"></a><a class="no_image" href="../../zh/tournament/en.php"><span>Chinese</span></a></li><li class="uk"><a href="../../uk/tournament/en.php"></a><a class="no_image" href="../../uk/tournament/en.php"><span>Українська</span></a></li><li class="tr"><a href="../../tr/tournament/en.php"></a><a class="no_image" href="../../tr/tournament/en.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -288,10 +283,10 @@
                         </li>
 						                            <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
-                                   href="registrationd56b.php?login"><span>Login</span></a>
+                                   href="../registrationd56b.php?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="registration.php"><span>Join Now</span></a>
+                                   href="../registration.php"><span>Join Now</span></a>
                             </li>
 							                    </ul>
                 </nav>
@@ -309,60 +304,60 @@
 <ul class="bxslider" id="header-slider">
     
         <li>
-                            <a href="sport.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i0c626fa87e67b9394b57078805349adc.jpg');"></div>
+                            <a href="../sport.php">
+                    <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i0c626fa87e67b9394b57078805349adc.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="tournament/pragmatic_argo_tournament.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i89e58c6a45351683e45c61fe1de2b27f.jpg');"></div>
+                            <a href="pragmatic_argo_tournament.php">
+                    <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i89e58c6a45351683e45c61fe1de2b27f.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="e-sport.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i72ef8db86fa06fb5b28a4321199dffcf.jpg');"></div>
+                            <a href="../e-sport.php">
+                    <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i72ef8db86fa06fb5b28a4321199dffcf.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <a href="tv_games.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7bb48a46b769f74dcfabb6d7ce8db9fb.jpg');"></div>
+                            <a href="../tv_games.php">
+                    <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7bb48a46b769f74dcfabb6d7ce8db9fb.jpg');"></div>
                 </a>
                     </li>
 
     
         <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i6942864d1a39c0681cf945704638913a.jpg');"></div>
+                            <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i6942864d1a39c0681cf945704638913a.jpg');"></div>
                     </li>
 
     
         <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i12d48902a47f9c129780ef572345ff17.jpg');"></div>
+                            <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i12d48902a47f9c129780ef572345ff17.jpg');"></div>
                     </li>
 
     
         <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i38b3eff8baf56627478ec76a704e9b52.jpg');"></div>
+                            <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i38b3eff8baf56627478ec76a704e9b52.jpg');"></div>
                     </li>
 
     
         <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/if899139df5e1059396431415e770c6dd.jpg');"></div>
+                            <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/if899139df5e1059396431415e770c6dd.jpg');"></div>
                     </li>
 
     
         <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/if4b9ec30ad9f68f89b29639786cb62ef.jpg');"></div>
+                            <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/if4b9ec30ad9f68f89b29639786cb62ef.jpg');"></div>
                     </li>
 
     
         <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i54229abfcfa5649e7003b83dd4755294.jpg');"></div>
+                            <div class="slide_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i54229abfcfa5649e7003b83dd4755294.jpg');"></div>
                     </li>
 
     </ul>
@@ -372,12 +367,12 @@
 
         
             <li>
-                <div class="slide__promotions_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7dd60838e4b82627d183c289f9c23676.png');"></div>
+                <div class="slide__promotions_bg" style="background-image: url('../../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7dd60838e4b82627d183c289f9c23676.png');"></div>
 
                                     <div class="header-slider-btn-plugin" style="top: 86px; z-index: 1000;">
                         <a
                                 class="btn green_long big popup-open-reg"
-                                href="registrationd56b.php?login"
+                                href="../registrationd56b.php?login"
                         >
                             <span>Claim</span>
                         </a>
@@ -386,7 +381,7 @@
             </ul>
 </div>
         <div class="logo">
-            <a href="index.php">
+            <a href="../index.php">
                 <div class="logoimage"></div>
             </a>
         </div>
@@ -397,26 +392,26 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
-                       href="../en.php">
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                       href="../../en.php">
                         Popular                    </a>
                 </li>
                 <li class="
                     ">
                     <a data-title="New Games"
-                       href="new.php">
+                       href="../new.php">
                         New                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
-                       href="slots-classic.php">
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
+                       href="../slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
-                       href="live-casino.php">
+                    <a data-title="Online Kasino - ArgoCasino.com"
+                       href="../live-casino.php">
                         Live Casino                    </a>
                 </li>
 <!--                <li class="-->
@@ -427,13 +422,13 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
-                       href="table.php">
+                    <a data-title="Brettspiele - ArgoCasino.com"
+                       href="../table.php">
                         Table games                    </a>
                 <li class="
                     ">
                     <a data-title="Other"
-                       href="other.php">
+                       href="../other.php">
                         Casual games                    </a>
                 </li>
             </ul>
@@ -450,27 +445,29 @@
     <div class="main" id="main">
 
         <div class="inside">
-                            <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
-                    <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
-                            <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
-                        </section>
+                            <section class="middle tournament" style="z-index: 1">
+                    <div class="container">
+                        
+
+    <script>
+        $(function () {
+            window.REDIRECT = '/' + LANG;
+            window.error("Page not found");
+        })
+    </script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("table.tournament__table tr").each(function () {
+            if ($(this).attr('id') == "active") {
+                $(this).prependTo('tbody');
+            }
+        });
+    });
+</script>
+
                     </div>
-                </div>
+                </section>
                         </div>
     </div>
 </div>
@@ -483,7 +480,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="en2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,25 +505,25 @@
     });
 </script>
 </li>
-        <li class="active"><a
-                href="about.php">About Us</a></li>
+        <li><a
+                href="../about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
         -->        <li>
             <a target="_blank" rel="nofollow" href="https://game-revenue.eu/en">Partners</a>
         </li>
         <li><a
-                href="privacy-policy.php">Privacy Policy</a>
+                href="../privacy-policy.php">Privacy Policy</a>
         </li>
         <li><a
-                href="rules.php">Terms and Conditions</a>
+                href="../rules.php">Terms and Conditions</a>
         </li>
         <li><a
-                href="responsible-gaming.php">Responsible Gaming</a>
+                href="../responsible-gaming.php">Responsible Gaming</a>
         </li>
         <!--<li><a href="/<? /*= LANGUAGE_CODE; */ ?>/fair-play"></a></li>-->
         <li><a
-                href="faq.php">FAQ</a></li>
+                href="../faq.php">FAQ</a></li>
             </ul>
 </nav>                <div class="footer_pay_systems">
 					<section class="payment-systems">
@@ -555,10 +552,10 @@
             <ul class="footer-right__list horizontal">
 
 				                    <li class="inc_ssl">
-                        <img src="../img/licence-logo-argo.png" alt="">
+                        <img src="../../img/licence-logo-argo.png" alt="">
                     </li>
 					                <li class="inc_ssl">
-                    <a href="../en.php"><img width="125" height="50" src="../img/gameico_ssl.png" alt=""></a>
+                    <a href="../../en.php"><img width="125" height="50" src="../../img/gameico_ssl.png" alt=""></a>
                 </li>
             </ul>
 
@@ -570,14 +567,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -627,7 +624,7 @@
   <div class="popup_title">
 	<h2>Please note!</h2>
   </div>
-  <img class="popup_icon" src="../img/error_icon.png"/>
+  <img class="popup_icon" src="../../img/error_icon.png"/>
   <div class="popup__box">
 	<div class="content">
 	  <div class="text-content">
@@ -641,7 +638,7 @@
   <div class="popup_title">
 	<h2>You have been successfully registered!</h2>
   </div>
-  <img class="popup_icon" src="../img/welcome_icon.png"/>
+  <img class="popup_icon" src="../../img/welcome_icon.png"/>
   <div class="popup__box">
 	<div class="content">
 	  <div class="text-content">
@@ -655,7 +652,7 @@
   <div class="popup_title">
 	<h2>Congratulations</h2>
   </div>
-  <img class="popup_icon" src="../img/info_icon.png"/>
+  <img class="popup_icon" src="../../img/info_icon.png"/>
   <div class="popup__box">
 	<div class="content">
 	  <div class="text-content">
@@ -669,7 +666,7 @@
   <div class="popup_title">
 	<h2>Completed</h2>
   </div>
-  <img class="popup_icon" src="../img/success_icon.png"/>
+  <img class="popup_icon" src="../../img/success_icon.png"/>
   <div class="popup__box">
 	<div class="content">
 	  <div class="text-content">
@@ -749,38 +746,38 @@
         <a class="hiden popup-open-error" id="loginError" href="#popup-login-error"></a>
     </div>
 <!--<div id="loader-spinner"><i class="fa fa-spinner faa-spin animated"></i></div>-->
-<link rel="stylesheet" href="../css/jquery-ui-timepicker-addon.min.css" type="text/css"/>
-<script type="text/javascript" src="../js/socketsaaa4.js?v=eAiTahee5iei4ggx"></script>
+<link rel="stylesheet" href="../../css/jquery-ui-timepicker-addon.min.css" type="text/css"/>
+<script type="text/javascript" src="../../js/socketsaaa4.js?v=eAiTahee5iei4ggx"></script>
 
-<script type="text/javascript" src="dassets/translated434?v=229038ae1ccd3438dfd84d404933723c"></script>
+<script type="text/javascript" src="../dassets/translated434?v=229038ae1ccd3438dfd84d404933723c"></script>
 
-<script src="../js/jquery/jquery.validate.min.js"></script>
-<script src="../js/jquery/jquery.placeholder.min.js"></script>
-<script src="../js/jquery/jquery.bxslider.min.js"></script>
-<script src="../js/jquery/jquery.formstyler.min2.js"></script>
+<script src="../../js/jquery/jquery.validate.min.js"></script>
+<script src="../../js/jquery/jquery.placeholder.min.js"></script>
+<script src="../../js/jquery/jquery.bxslider.min.js"></script>
+<script src="../../js/jquery/jquery.formstyler.min2.js"></script>
 
-<script src="../js/jquery/jquery.fancybox.pack.js"></script>
-<script src="../js/jquery/jquery.flexslider.js"></script>
-<script src="../js/jquery/jquery-ui.js"></script>
-<script src="../js/jquery/jquery.loadmask.js"></script>
-<script src="../js/slick/slick.js"></script>
-<script src="../js/main-bottomaaa4.js?v=eAiTahee5iei4ggx"></script>
-<script src="../js/jquery/jquery.soft2betaaa4.js?v=eAiTahee5iei4ggx"></script>
-<script src="../js/fingerprint2.min.js"></script>
-<script src="../js/jquery/jquery.flipclock.min.js"></script>
+<script src="../../js/jquery/jquery.fancybox.pack.js"></script>
+<script src="../../js/jquery/jquery.flexslider.js"></script>
+<script src="../../js/jquery/jquery-ui.js"></script>
+<script src="../../js/jquery/jquery.loadmask.js"></script>
+<script src="../../js/slick/slick.js"></script>
+<script src="../../js/main-bottomaaa4.js?v=eAiTahee5iei4ggx"></script>
+<script src="../../js/jquery/jquery.soft2betaaa4.js?v=eAiTahee5iei4ggx"></script>
+<script src="../../js/fingerprint2.min.js"></script>
+<script src="../../js/jquery/jquery.flipclock.min.js"></script>
 <!--<script src="/js/jquery/jquery.flipTimer.js"></script>-->
-<script src="../js/ec/js/swfobject-2.2.min.js"></script>
-<script src="../js/ec/js/evercookie.js"></script>
-<script src="../js/jquery/jquery.autocomplete.min.js"></script>
-<script src="../js/jquery/intlTelInput.js"></script>
-<script src="../js/slider/js/jssor.slider-22.0.6.mini.js"></script>
-<script src="../js/jquery-qrcode.js"></script>
-<script src="../js/noty.min.js"></script>
+<script src="../../js/ec/js/swfobject-2.2.min.js"></script>
+<script src="../../js/ec/js/evercookie.js"></script>
+<script src="../../js/jquery/jquery.autocomplete.min.js"></script>
+<script src="../../js/jquery/intlTelInput.js"></script>
+<script src="../../js/slider/js/jssor.slider-22.0.6.mini.js"></script>
+<script src="../../js/jquery-qrcode.js"></script>
+<script src="../../js/noty.min.js"></script>
 
-<script type="text/javascript" src="../js/datetimepicker/jquery-ui-timepicker-addon.min.js"></script>
-<script type="text/javascript" src="../js/datetimepicker/jquery-ui-sliderAccess.js"></script>
-<script type="text/javascript" src="../js/datetimepicker/i18n/jquery-ui-timepicker-addon-i18n.js"></script>
-<script type="text/javascript" src="dassets/gamesjsond434?v=229038ae1ccd3438dfd84d404933723c"></script>
+<script type="text/javascript" src="../../js/datetimepicker/jquery-ui-timepicker-addon.min.js"></script>
+<script type="text/javascript" src="../../js/datetimepicker/jquery-ui-sliderAccess.js"></script>
+<script type="text/javascript" src="../../js/datetimepicker/i18n/jquery-ui-timepicker-addon-i18n.js"></script>
+<script type="text/javascript" src="../dassets/gamesjsond434?v=229038ae1ccd3438dfd84d404933723c"></script>
 <script>
     $(function() {
         var sockets = new Sockets();
@@ -810,7 +807,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -838,7 +835,7 @@
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','../../www.google-analytics.com/analytics.js','ga');
+    })(window,document,'script','../../../www.google-analytics.com/analytics.js','ga');
 
     ga('create', 'UA-91130616-2', 'auto');
     ga('send', 'pageview');
@@ -849,23 +846,23 @@
     <h3>Download casino APP for</h3>
     <ul>
         <li class="dlbtn windows">
-            <a href="../dl/ArgoCasino.exe">
-                <img src="../img/ico_windows_r.png" alt="windows"/>
+            <a href="../../dl/ArgoCasino.exe">
+                <img src="../../img/ico_windows_r.png" alt="windows"/>
             </a>
         </li>
         <li class="dlbtn macos">
-            <a href="../dl/ArgoCasino.dmg">
-                <img src="../img/ico_apple_r.png" alt="macos"/>
+            <a href="../../dl/ArgoCasino.dmg">
+                <img src="../../img/ico_apple_r.png" alt="macos"/>
             </a>
         </li>
         <li class="dlbtn android">
-            <a href="../dl/ArgoCasino.apk">
-                <img src="../img/ico_android_r.png" alt="android"/>
+            <a href="../../dl/ArgoCasino.apk">
+                <img src="../../img/ico_android_r.png" alt="android"/>
             </a>
         </li>
         <li class="dlbtn linux">
-            <a href="../dl/ArgoCasino.deb">
-                <img src="../img/ico_linux_r.png" alt="linux"/>
+            <a href="../../dl/ArgoCasino.deb">
+                <img src="../../img/ico_linux_r.png" alt="linux"/>
             </a>
         </li>
     </ul>
@@ -874,7 +871,7 @@
         <ul>
         <li class="telegram">
             <a href="https://t.me/ArgoCasinoBot" target="_blank">
-                <img src="../img/ico_telegram_r.png" alt="telegram"/>
+                <img src="../../img/ico_telegram_r.png" alt="telegram"/>
             </a>
         </li>
     </ul>
@@ -917,5 +914,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/tournament/en by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:44:41 GMT -->
 </html>

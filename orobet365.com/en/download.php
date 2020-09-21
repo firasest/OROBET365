@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/download by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:13 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+                    <title>Download ArgoCasino</title>
         <meta name="keywords" content="Online Slot,slot machines ">
-        <meta name="description" content="">
+        <meta name="description" content="Download ArgoCasino application Windows MacOs Linux">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
-        <meta property="og:description" content="">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="Download ArgoCasino">
+        <meta property="og:description" content="Download ArgoCasino application Windows MacOs Linux">
         <meta property="og:url" content="../en.php">
         <meta property="og:locale" content="en_EN">
         <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
@@ -20,8 +20,8 @@
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
-        <meta name="twitter:description" content="">
+        <meta name="twitter:title" content="Download ArgoCasino">
+        <meta name="twitter:description" content="Download ArgoCasino application Windows MacOs Linux">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta name="twitter:url" content="../en.php">
         <meta name="twitter:domain" content="../en.php">
@@ -32,7 +32,7 @@
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/download">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,23 +40,23 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+            <link rel="alternate" href="../ru/download.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+            <link rel="alternate" href="download.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+            <link rel="alternate" href="../sv/download.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+            <link rel="alternate" href="../pl/download.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+            <link rel="alternate" href="../de/download.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+            <link rel="alternate" href="../zh/download.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+            <link rel="alternate" href="../ro/download.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+            <link rel="alternate" href="../uk/download.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+            <link rel="alternate" href="../tr/download.php"
               hreflang="tr"/>
         <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
@@ -158,7 +158,7 @@
 <div class="loadmask"></div>
 <div class="wrapper">
     <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +180,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +200,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -247,7 +247,7 @@
                                 </a>
                             </li>
 						
-						                            <li class="header-top__nav__item"><a title="Download"
+						                            <li class="header-top__nav__item active"><a title="Download"
                                      href="download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
@@ -259,7 +259,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/download.php"></a><a class="no_image" href="../ru/download.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/download.php"></a><a class="no_image" href="../pl/download.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/download.php"></a><a class="no_image" href="../sv/download.php"><span>Svenska</span></a></li><li class="en active"><a href="download.php"></a><a class="no_image" href="download.php"><span>English</span></a></li><li class="de"><a href="../de/download.php"></a><a class="no_image" href="../de/download.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/download.php"></a><a class="no_image" href="../ro/download.php"><span>Română</span></a></li><li class="zh"><a href="../zh/download.php"></a><a class="no_image" href="../zh/download.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/download.php"></a><a class="no_image" href="../uk/download.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/download.php"></a><a class="no_image" href="../tr/download.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -397,7 +397,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +409,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
+                    <a data-title="Online Kasino - ArgoCasino.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +427,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
+                    <a data-title="Brettspiele - ArgoCasino.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -450,27 +450,419 @@
     <div class="main" id="main">
 
         <div class="inside">
-                            <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
-                    <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
-                            <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
-                        </section>
+                            <section class="middle download" style="z-index: 1">
+                    <div class="container">
+                        <div class="main-content">
+    <section class="middle download_page">
+
+        <div class="container">
+            <div class="download_page">
+
+                
+                <section class="middle mobile-page">
+                    <div class="container">
+                        <div class="mobile download_page">
+                            <div class="text-center">
+                                <div class="title_download">Download ArgoCasino to your device and </div>
+                                <div class="title_2_download">Play without Obstacles! </div>
+
+                                <div class="row download_platform">
+                                    <div class="col-download_page-2-box">
+                                        <div class="col-download_page-2 br1">
+                                            <div class="top_box yellow">For your PC</div>
+                                            <i class="ico_desktop"></i>
+                                            <div class="clearfix">
+                                                <div class="img_box pull-left">
+                                                    <img src="../img/desktop/img_desktop.jpg" alt="Desktop App">
+                                                </div>
+                                                <div class="download_box pull-left">
+                                                    <div class="ac_download windows"></div>
+                                                    <div class="download_button dlbtn windows"">
+                                                        <a href="../dl/ArgoCasino.exe" title="ArgoCasino windows APP" class="btn download">
+                                                            <span>Download</span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="clearfix bottom_box desktop">
+                                                <div class="pull_left">
+                                                    <ul>
+                                                        <li class="dlbtn macos"><a href="../dl/ArgoCasino.dmg"><i class="ico_download_mac"></i></a></li>
+                                                        <li class="dlbtn linux"><a href="../dl/ArgoCasino.deb"><i class="ico_download_linux"></i></a></li>
+                                                        <li class="dlbtn windows"><a href="../dl/ArgoCasino.exe"><i class="ico_download_win"></i></a></li>
+                                                    </ul>
+                                                </div>
+                                                <div class="pull_right">
+                                                    <ul>
+                                                        <li><i class="ico_ssl"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-download_page-2-box">
+                                        <div class="col-download_page-2 br1">
+                                            <div class="top_box green">For Smartphone or Tablet</div>
+                                            <i class="ico_mobile"></i>
+                                            <div class="clearfix">
+                                                <div class="img_box pull-left">
+                                                    <img src="../img/desktop/img_mobile.jpg" alt="Desktop App">
+                                                </div>
+                                                <div class="download_box pull-left">
+                                                    <div class="ac_download" data-url="https://argocasino.com/dl/ArgoCasino.apk">
+                                                        <img src="https://chart.googleapis.com/chart?chs=220x220&amp;cht=qr&amp;chl=https://argocasino.com/dl/ArgoCasino.apk" alt="">
+                                                    </div>
+                                                    <form id="download_app_phone" class="download_app_phone" method="post">
+                                                        <div class="pull-left phone_download">
+                                                            <input type="hidden" name="csrf" value="32d9ca89fffa1fdc25e88e3f81ef8505">                                                            <input name="url" type="hidden" value="/dl/ArgoCasino.apk">
+                                                            <input name="phone" type="text" placeholder="Phone Number" autocomplete="off">
+                                                        </div>
+                                                        <div class="download_button">
+                                                            <button class="btn download"><span>Get link</span></button>
+                                                        </div>
+                                                    </form>
+                                                </div>
+                                            </div>
+                                            <div class="clearfix bottom_box desktop">
+                                                <div class="pull_left">
+                                                    <ul style="position: absolute;">
+                                                        <li>
+                                                            <i class="ico_download_android"></i>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                                <div class="pull_right">
+                                                    <ul>
+                                                        <li><i class="ico_ssl"></i></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="row download_roles">
+                                    <div class="col-download_page-1-box">
+                                        <div class="col-download_page-1 no_padding">
+                                            <div class="col-download_page-2-box no_padding">
+                                                <img src="../img/desktop/img_roulette.jpg" alt="Desktop App">
+                                            </div>
+                                            <div class="col-download_page-2-box no-br1">
+                                                <ul class="col-download-li">
+                                                    <li><i class="pr pr1"></i>Protection against blocking and problems with casino access</li>
+                                                    <li><i class="pr pr2"></i>Gameplay stability</li>
+                                                    <li><i class="pr pr3"></i>Games download speed</li>
+                                                    <li><i class="pr pr4"></i>Maximum protection of the personal information</li>
+                                                    <li><i class="pr pr5"></i>Even more bonuses for the download version</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                </section>
+
+                <style>
+
+                    .phone_download input{
+                        height: 40px;
+                        width: 240px;
+                        border: 1px solid #009900;
+                        background-color: #231f18;
+                        font-size: 16px;
+                        font-family: 'Roboto';
+                        font-weight: bold;
+                        padding-left: 20px;
+                        box-sizing: border-box;
+                        color: #a09b8a;
+
+                    }
+
+                    .download_page {
+                        width: 100%;
+                        max-width: 1180px;
+                    }
+
+                    .download_page img {
+                        width: 100%;
+                        /*max-width: 1180px;*/
+                    }
+
+                    .download_platform img {
+                        width: 100%;
+                        float: left;
+                    }
+
+                    .top_box {
+                        font-family: 'Roboto Condensed';
+                        font-size: 20px;
+                        color: #181610;
+                        height: 40px;
+                        box-sizing: border-box;
+                        padding: 10px;
+                    }
+
+                    .top_box.green {
+                        background: #009900;
+                    }
+
+                    .top_box.yellow {
+                        background: #ffba00;
+                    }
+
+                    .col-download_page-2 {
+                        position: relative;
+                        width: 100%;
+                        float: left;
+                        margin: 0 auto !important;
+                        /*padding: 10px;*/
+                        box-sizing: border-box;
+                    }
+
+                    .col-download_page-2.br1 {
+                        background-color: #181610;
+                        border: 1px solid #282319;
+                    }
+
+                    .col-download_page-2-box {
+                        width: 50%;
+                        float: left;
+                        padding: 10px;
+                        box-sizing: border-box;
+                    }
+
+                    .no_padding {
+                        padding: 0 !important;
+                    }
+
+                    .col-download_page-1 {
+                        width: 100%;
+                        float: left;
+                        background-color: #181610;
+                        border: 1px solid #282319;
+                        margin: 0 auto !important;
+                        padding: 10px;
+                        box-sizing: border-box;
+                    }
+
+                    .col-download_page-1-box {
+                        width: 100%;
+                        float: left;
+                        padding: 10px;
+                        box-sizing: border-box;
+                    }
+
+                    .title_download {
+                        color: #ffba00;
+                        font-size: 22px;
+                        padding-bottom: 10px;
+                    }
+
+                    .title_2_download {
+                        color: #ffffff;
+                        font-size: 34px;
+                        text-transform: uppercase;
+                    }
+
+                    .col-download-li {
+                        width: 100%;
+                        padding-top: 10px;
+                    }
+
+                    .col-download-li li {
+                        position: relative;
+                        width: 100%;
+                        padding: 24px 0 24px 50px;
+                        border-bottom: 1px solid #282319;
+                        height: 80px;
+                        box-sizing: border-box;
+                        font-size: 16px;
+                        line-height: 32px;
+                        text-align: left;
+                        color: #fff0be;
+                    }
+
+                    .col-download-li li:first-child {
+                        border-top: 1px solid #282319;
+                    }
+
+                    .download_roles .col-download_page-1 {
+                        padding-right: 0;
+                    }
+
+                    .download_roles .col-download_page-2-box.no-br1 {
+                        padding-right: 0;
+                    }
+
+                    .download_platform .bottom_box ul li {
+                        float: left;
+                        margin-left: 10px;
+                    }
+
+                    .download_platform .bottom_box ul {
+                        margin-left: 70px;
+                        margin-top: -15px;
+                        padding-bottom: 20px;
+                        height: 50px;
+                    }
+
+                    .download_platform .bottom_box .pull_left ul {
+                        float: left;
+                    }
+
+                    .download_platform .bottom_box .pull_right ul {
+                        float: right;
+                    }
+
+                    .ac_download {
+                        margin: 0 auto;
+                        width: 140px;
+                        height: 146px;
+                        position: relative;
+                    }
+
+                    .download_box {
+                        width: 240px;
+                        position: absolute;
+                        right: 10px;
+                        top: 100px;
+                    }
+
+                    .download_button {
+                        margin-top: 10px;
+                        position: relative;
+                        float: left;
+                        width: 240px;
+                    }
+
+                    .download_button button.btn.download, .download_button a.btn.download {
+                        position: absolute;
+                        margin: 0 !important;
+                        left: 0;
+                    }
+
+                    .ac_download.windows {
+                        background-image: url(../img/desktop/ico_windows.png);
+                    }
+
+                    .ac_download.macos {
+                        background-image: url(../img/desktop/ico_apple.png);
+                    }
+
+                    .ac_download.linux {
+                        background-image: url(../img/desktop/ico_linux.png);
+                    }
+
+                    i.ico_ssl {
+                        background-image: url(../img/desktop/icons.png);
+                        width: 160px;
+                        height: 42px;
+                        background-position: 0 0;
+                        background-repeat: no-repeat;
+                        display: block;
+                        padding-top: 10px;
+                    }
+
+                    i.ico_mapp {
+                        background-image: url(../img/desktop/icons.png);
+                        width: 360px;
+                        height: 42px;
+                        background-position: -170px 0;
+                        background-repeat: no-repeat;
+                        display: block;
+                        padding-top: 10px;
+                    }
+
+                    i.ico_download_mac {
+                        background-image: url(../img/desktop/ico_apple.png);
+                        width: 45px;
+                        height: 50px;
+                        background-size: 45px 50px;
+                        display: block;
+                    }
+
+                    i.ico_download_win {
+                        background-image: url(../img/desktop/ico_windows.png);
+                        width: 45px;
+                        height: 50px;
+                        background-size: 45px 50px;
+                        display: block;
+                    }
+
+                    i.ico_download_linux {
+                        background-image: url(../img/desktop/ico_linux.png);
+                        width: 45px;
+                        height: 50px;
+                        background-size: 45px 50px;
+                        display: block;
+                    }
+
+                    i.ico_download_android {
+                        background-image: url(../img/desktop/ico_android.png);
+                        width: 127px;
+                        height: 132px;
+                        background-size: 127px 132px;
+                        display: block;
+                        margin-top: -85px;
+                    }
+
+                    i.ico_mobile {
+                        background-image: url(../img/desktop/mobile.png);
+                        width: 17px;
+                        height: 34px;
+                        display: block;
+                        position: absolute;
+                        top: 50px;
+                        left: 20px;
+                    }
+
+                    i.ico_desktop {
+                        background-image: url(../img/desktop/desktop.png);
+                        width: 48px;
+                        height: 42px;
+                        display: block;
+                        position: absolute;
+                        top: 50px;
+                        left: 10px;
+                    }
+
+                    i.pr {
+                        width: 65px;
+                        height: 70px;
+                        display: block;
+                        background-size: 65px 70px;
+                        position: absolute;
+                        top: 5px;
+                        left: -35px;
+                    }
+
+                    i.pr1 {
+                        background-image: url(../img/desktop/ico_bann.png);
+                    }
+
+                    i.pr2 {
+                        background-image: url(../img/desktop/ico_stability.png);
+                    }
+
+                    i.pr3 {
+                        background-image: url(../img/desktop/ico_speed.png);
+                    }
+
+                    i.pr4 {
+                        background-image: url(../img/desktop/ico_protect.png);
+                    }
+
+                    i.pr5 {
+                        background-image: url(../img/desktop/ico_gift.png);
+                    }
+                </style>
+            </div>
+        </div>
+    </section>
+</div>
+                    </div>
+                </section>
                         </div>
     </div>
 </div>
@@ -483,7 +875,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="download2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +900,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -570,14 +962,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +1202,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -917,5 +1309,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/download by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:34 GMT -->
 </html>

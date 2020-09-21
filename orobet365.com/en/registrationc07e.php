@@ -1,11 +1,7 @@
-<?php
-
-include("includes/connect_db.php");
- ?>
 <!DOCTYPE html>
 <html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/registration?login by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:49 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/registration?login/en by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:46:28 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
                     <title>Registration</title>
@@ -16,7 +12,7 @@ include("includes/connect_db.php");
         <meta property="og:site_name" content="argocasino.com">
         <meta property="og:title" content="Registration">
         <meta property="og:description" content="">
-        <meta property="og:url" content="registrationc07e.php?login/en">
+        <meta property="og:url" content="registration74e9.php?login/en/en">
         <meta property="og:locale" content="en_EN">
         <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
@@ -27,8 +23,8 @@ include("includes/connect_db.php");
         <meta name="twitter:title" content="Registration">
         <meta name="twitter:description" content="">
         <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="registrationc07e.php?login/en">
-        <meta name="twitter:domain" content="registrationc07e.php?login/en">
+        <meta name="twitter:url" content="registration74e9.php?login/en/en">
+        <meta name="twitter:domain" content="registration74e9.php?login/en/en">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
@@ -36,7 +32,7 @@ include("includes/connect_db.php");
         <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/registration?login">
+          href="https://m.6.argocasino50.com/en/registration?login/en">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -179,13 +175,129 @@ include("includes/connect_db.php");
         ">
         </a>
         </a>
-        
-        <!-- Header -->
-        <?php
-        include("includes/menu.php");
-        ?>
-        <!-- end Header -->
+        <div class="navbar">
+            <div class="navbar_top_line">
+                <nav class="casino_options_nav">
+                    <ul class="casino_options_list">
+                        <li class="casino_options_li">
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                               href="../en.php"
+                               class="casino_options_link">Casino</a>
+                        </li>
+                        <li class="casino_options_li">
+                            <a data-title="Online Kasino - ArgoCasino.com"
+                               href="live-casino.php"
+                               class="casino_options_link">Live Casino</a>
+                        </li>
+                        <li class="casino_options_li">
+                            <a data-title="TV Games"
+                               href="tv_games.php"
+                               class="casino_options_link">TV games</a>
+                        </li>
+                        <li class="casino_options_li">
+                            <a data-title="Sport betting sportsbook ArgoCasino"
+                               href="sport.php"
+                               class="casino_options_link">Sport</a>
+                        </li>
+                        <li class="casino_options_li">
+                            <a data-title="Virtual Sport - ArgoCasino.com"
+                               href="virtual-sport.php"
+                               class="casino_options_link">Virtual Sport</a>
+<!--                            <ul class="casino_options_sub_menu">-->
+<!--                                <li class="casino_options_sub_menu_li">-->
+<!--                                    <a href="/--><?//= LANGUAGE_CODE . '/' . ( User::isOnline() ? 'game' : 'demo' ) . '/football-league-3392' ?><!--"-->
+<!--                                       class="casino_options_sub_menu_game_link">-->
+<!--                                        Kiron-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                                <li class="casino_options_sub_menu_li">-->
+<!--                                    <a href="/--><?//= LANGUAGE_CODE . '/' . ( User::isOnline() ? 'game' : 'demo' ) . '/virtual-basketball-league-3391' ?><!--"-->
+<!--                                       class="casino_options_sub_menu_game_link">-->
+<!--                                        BetRadar-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+                        </li>
+<!--                        <li class="casino_options_li">-->
+<!--                            <a href=""-->
+<!--                               class="casino_options_link">--><!--</a>-->
+<!--                        </li>-->
+                    </ul>
+                    <!-- /.casino_options_list -->
+                </nav>
 
+                <a href="e-sport.php">
+                    <img src="../img/logo_ESports.svg" alt="">
+                </a>
+                <!-- /.casino_options_nav -->
+                <nav class="header-top__nav pull-left main_top_bar">
+                    <ul class="header-top__nav__list pull-left horizontal left_top_menu">
+                        <li class="header-top__nav__item">
+                            <a title="Promotions"
+                               href="bonuses.php">
+                                <i class="icon-promo"></i>
+                                <span>Promotions</span>
+                            </a>
+                        </li>
+						                            <li class="header-top__nav__item">
+                                <a title="Tournaments"
+                                   href="tournament.php">
+                                    <i class="icon-tournament"></i>
+                                    <span>Tournaments</span>
+                                </a>
+                            </li>
+						
+						                            <li class="header-top__nav__item"><a title="Download"
+                                     href="download.php">
+                                    <i class="icon-download"></i>
+                                    <span>Download</span>
+                                </a>
+                            </li>
+												                            <li class="lang_box">
+                                <div class="lang-switcher">
+									                                    <div class="lang_switch_active">EN</div>
+                                    <ul class="hidden_switcher">
+
+
+										<li class="ru"><a href="../ru/registrationc07e.php?login/en"></a><a class="no_image" href="../ru/registrationc07e.php?login/en"><span>Русский</span></a></li><li class="pl"><a href="../pl/registrationc07e.php?login/en"></a><a class="no_image" href="../pl/registrationc07e.php?login/en"><span>Polski</span></a></li><li class="sv"><a href="../sv/registrationc07e.php?login/en"></a><a class="no_image" href="../sv/registrationc07e.php?login/en"><span>Svenska</span></a></li><li class="en active"><a href="registrationc07e.php?login/en"></a><a class="no_image" href="registrationc07e.php?login/en"><span>English</span></a></li><li class="de"><a href="../de/registrationc07e.php?login/en"></a><a class="no_image" href="../de/registrationc07e.php?login/en"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/registrationc07e.php?login/en"></a><a class="no_image" href="../ro/registrationc07e.php?login/en"><span>Română</span></a></li><li class="zh"><a href="../zh/registrationc07e.php?login/en"></a><a class="no_image" href="../zh/registrationc07e.php?login/en"><span>Chinese</span></a></li><li class="uk"><a href="../uk/registrationc07e.php?login/en"></a><a class="no_image" href="../uk/registrationc07e.php?login/en"><span>Українська</span></a></li><li class="tr"><a href="../tr/registrationc07e.php?login/en"></a><a class="no_image" href="../tr/registrationc07e.php?login/en"><span>Turkey</span></a></li>                                    </ul>
+                                </div>
+                            </li>
+
+															<!--                                <li><a class="fix-login btn small blue popup-open"-->
+<!--                                       href="/--><?//= LANGUAGE_CODE ?><!--/registration?login"><span>--><!--</span></a>-->
+<!--                                </li>-->
+																			                    </ul>
+                </nav>
+            </div><!-- /.navbar_top_line -->
+            <div class="navbar_bottom_line">
+                <nav class="header-top__nav pull-right main_top_bar">
+                    <ul class="header-top__nav__list horizontal">
+                        <li class="search_box">
+
+                            <div id="search-plugin">
+                                <div class="">
+                                    <form action="http://6.argocasino50.com/en/search" method="get" class="search_form">
+                                        <input type="text" class="search-plugin__text" name="q"
+                                               placeholder="Search games">
+                                        <input type="submit" class="search-plugin__btn" onclick="$('form.search_form').submit(); return false;" value="search">
+                                        <!--			  <a href="#" class="search_close" onclick="$('body').click(); return false;"></a>-->
+                                    </form>
+<!--                                    <div class="search_close" onclick="$('body').click(); $(this).hide(); return false;"><i></i></div>-->
+                                </div>
+                            </div>
+                        </li>
+						                            <li class="flex100">
+                                <a class="fix-login btn small blue popup-open"
+                                   href="registrationd56b.php?login"><span>Login</span></a>
+                            </li>
+                            <li class=""><a class="btn green_reg_top small popup-open"
+                                   href="registration.php"><span>Join Now</span></a>
+                            </li>
+							                    </ul>
+                </nav>
+            </div><!-- /.navbar_bottom_line -->
+        </div><!-- /.navbar     -->
+    </div>
     <div class="autocomplete-suggestions"
          style="position: absolute; display: none; max-height: 485px; z-index: 9999;"></div>
 </div>
@@ -349,11 +461,11 @@ include("includes/connect_db.php");
             <div class="insidee">
                 <nav class="header-nav__menu">
                     <ul class="header-nav__list">
-                        <li class="" id="reg">
+                        <li class="active" id="reg">
                             <a>REGISTRATION</a>
                         </li>
 
-                        <li class="active" id="log">
+                        <li class="" id="log">
                             <a>Login</a></li>
                     </ul>
                 </nav>
@@ -361,42 +473,127 @@ include("includes/connect_db.php");
             <div class="row">
                 <div class="register-container">
 
-                    <div class="register none">
-                        <form  action="Controller/ajouter_client.php">
-                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            
-                            <div class="pull-left popup-registration__item">
+                    <div class="register ">
+                        <form id="ajax-register-form" class="ajax-register-form">
+                            <input type="hidden" name="csrf" value="f94004894813ac4ba92a5696ec221538">                            <div class="pull-left popup-registration__item">
                                 <input name="login" type="text" placeholder="Login" autocomplete="off"/>
-                                <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
 
                             <div class="pull-left popup-registration__item">
-                                <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
+                                <select name="country" id="styled-country" class="styled styled-country gold-reg-country-select simple-select">
+                                    <option value=""></option>
+                                </select>
+
+                                <label id="styled-country-error" class="error" for="styled-country"></label>
                             </div>
-                            
-                            <div class="pull-left popup-registration__item">
-                                <input name="prenom" type="text" placeholder="Prename" autocomplete="off"/>
-                            </div>
-             
-                            <br/>            
+                            <br/>
+
 
                             <div class="pull-left popup-registration__item">
-                                <input name="email" type="email" placeholder="Email" autocomplete="off"/>
+                                <input name="name" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
 
                             <div class="pull-left popup-registration__item">
-                                
+                                <input name="city" type="text" placeholder="City" autocomplete="off"/>
+                            </div>
+                            <br/>
+
+
+                            <div class="pull-left popup-registration__item">
+                                <input name="surname" type="text" placeholder="Surname" autocomplete="off"/>
+                            </div>
+
+
+                            <div class="pull-left popup-registration__item">
+                                <input id="birthday" type="text" class="datepicker" id="from" name="birth_day" value="" placeholder="Date of Birth" autocomplete="off">
+                            </div>
+
+
+                            <div class="pull-left popup-registration__item">
+                                <input name="email" value="" type="email" placeholder="E-Mail" autocomplete="off"/>
 
                                 <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
                             </div>
 
-                            <br/>
+                            <div class="pull-left popup-registration__item client-phone">
+                                <input type="text" class="input_tel" name="phone" id="user-phone"
+                                       placeholder="Phone number (optional)">
 
-                            <div class="pull-left popup-registration__item">
-                                <input name="phone" value="" type="number" placeholder="Number" autocomplete="off"/>
-
+                                <div class="pull-left popup-registration__item tooltip-container">
+                                    <div class="tooltip bottom" role="tooltip">
+                                        <div class="tooltip-arrow"></div>
+                                        <div class="tooltip-inner"> Enter your phone number and get <b>BONUSES</b>                                            <i class="icon-promo"></i></div>
+                                    </div>
+                                </div>
                             </div>
 
+
+                            <div class="gender pull-left popup-registration__item">
+                                <div class="gender_label">Gender:</div>
+                                <ul class="radio_gender">
+                                    <li class="male"><input name="gender" value="m" type="radio" class="radio styled" checked/> Male</li>
+                                    <li><input name="gender" value="f" type="radio" class="radio styled"/> Female</li>
+                                </ul>
+                            </div>
+
+                            <div class="pull-left popup-registration__item">
+
+
+                                <div class="currency_label">Choose the currency:</div>
+                                <ul class="radio_currency">
+                                    <li class="first-column">
+                                        
+        <input name="currency" value="eur" type="radio" class="radio styled" checked/>
+        EUR
+                                            </li>
+                                    <li>
+                                        
+        <input name="currency" value="rub" type="radio" class="radio styled" />
+        RUB
+                                            </li>
+                                    <br/>
+                                    <li class="first-column">
+                                        
+        <input name="currency" value="pln" type="radio" class="radio styled" />
+        PLN
+                                            </li>
+                                    <li>
+                                        
+        <input name="currency" value="sek" type="radio" class="radio styled" />
+        SEK
+                                            </li>
+                                </ul>
+                            </div>
+
+
                             <br/>
+                            <div style="clear: both"></div>
+                            <div class="register-agreement-block">
+                                <!--                                -->                                <div class="check-label">
+                                    <input name="notifications" checked="checked"
+                                           class="checkbox styled checkbox-normal"
+                                           type="checkbox" autocomplete="off"/>
+                                    I would like to receive exclusive bonuses, special promotions and gifts from ArgoCasino.com                                </div>
+                                <!--                                -->                                <br/>
+                                <div class="check-label">
+                                    <input name="autobonus" checked="checked" class="checkbox styled checkbox-normal"
+                                           type="checkbox"
+                                           autocomplete="off"/>
+                                    I would like bonuses to be automatically credited to my account                                </div>
+                                <br/>
+                                <div class="check-label">
+                                    <input name="sms" checked="checked" class="checkbox styled checkbox-normal"
+                                           type="checkbox"
+                                           autocomplete="off"/>
+                                    Follow promotions via SMS                                </div>
+                                <br/>
+                                <div class="check-label accept">
+                                    <input name="accept" checked="checked" class="checkbox styled checkbox-normal"
+                                           type="checkbox"
+                                           autocomplete="off"/>
+                                    <p style="margin-top: -10px" class="rules">I confirm that I am 18 years or older and have read and accept the <a target="_blank" href="../ru/rules.php">Terms and Conditions</a> of ArgoCasino.com. I consent to the processing of my personal data to use this service. </p>
+                                </div>
+                            </div>
 
                             <button type="submit" id="register" class="reg-fix btn green_long big">
                                 <span>Join Now</span>
@@ -406,12 +603,15 @@ include("includes/connect_db.php");
                     </div>
 
 
-                    <div class="logining ">
-                        <form id="" class="" action="Controller/cnx_client.php" method="post">
-                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">
-                            <input type="text" name="login" placeholder="UserName" autocomplete="off"/>
+                    <div class="logining none">
+                        <form id="ajax-login-form" class="ajax-login-form">
+                            <input type="hidden" name="csrf" value="f94004894813ac4ba92a5696ec221538">                            <input type="text" name="login"
+                                   placeholder="Login or Email"
+                                   autocomplete="off"/>
                             <br>
-                            <input type="password" name="password" placeholder="Password" autocomplete="off"/>
+                            <input type="password" name="password"
+                                   placeholder="Password"
+                                   autocomplete="off"/>
 
 
                             <div class="check-label" style="margin-left: 11px; margin-top: 20px;">
@@ -423,13 +623,19 @@ include("includes/connect_db.php");
                                 <a class="fancybox"
                                    href="#forgot-password-form">Forgot Password?</a>
                             </div>
-                            <button type="submit" id="" class="reg-fix btn green_long big"
+                            <button type="submit" id="login" class="reg-fix btn green_long big"
                                     style="margin-top: 20px;margin-bottom: 78px;">
                                 <span>Login</span>
                             </button>
                         </form>
                     </div>
-                   
+                    <div class="footer_form">
+                        <h3>Or login via social networks:</h3>
+                        <div class="social_box">
+    <ul>
+                <li><a href="https://oauth.jocsystems.com:30443/facebook/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJzdiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvc3ZcL2RlbW9cL2xpbC1kZXZpbC02NTEzIiwibGFuZyI6InN2In19" class="btn gray social_login facebook"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/google/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJzdiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZGVcL2RlbW9cL2RpdmluZS1zaG93ZG93bi00NDYzIiwibGFuZyI6InJ1In19" class="btn gray social_login google"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/mailru/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJlbiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2dvcmlsbGEtZ29sZC1tZWdhd2F5cy02MjM0IiwibGFuZyI6ImVuIn19" class="btn gray social_login mailru"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/odnoklassniki/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJzdiIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZGVcL2RlbW9cL2Jvb2stb2YtbWVybGluLTQ5MDYiLCJsYW5nIjoiemgifX0" class="btn gray social_login odnoklassniki"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/vkontakte/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJkZSIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL2RlbW9cL2FyY2hlcnktNDE0OSIsImxhbmciOiJkZSJ9fQ" class="btn gray social_login vkontakte"><div></div></a></li><li><a href="https://oauth.jocsystems.com:30443/yandex/old?data=eyJob3N0IjoiNi5hcmdvY2FzaW5vNTAuY29tIiwibGFuZ3VhZ2UiOiJ6aCIsImNsaWVudCI6ImFyZ28iLCJpcCI6IjQxLjIyNy4xNTcuODAiLCJ1c2VyQWdlbnQiOiJNb3ppbGxhXC80LjUgKGNvbXBhdGlibGU7IEhUVHJhY2sgMy4weDsgV2luZG93cyA5OCkiLCJjb3VudHJ5Q29kZSI6IlROIiwiZmluZ2VyUHJpbnQiOiIiLCJwbGF0Zm9ybSI6IndlYiIsImlzTW9iaWxlIjpmYWxzZSwiY29va2llcyI6eyIkVmVyc2lvbiI6IjEiLCJzc2lkIjoiaXU2bmVnb2g5OWhjMTJucDExZm5kMjByYTMiLCIkUGF0aCI6IlwvIiwibGFuZyI6ImRlIiwicmVmZXJlciI6Imh0dHA6XC9cLzYuYXJnb2Nhc2lubzUwLmNvbVwvZW5cL3JlZ2lzdHJhdGlvbj9sb2dpblwvZW4ifX0" class="btn gray social_login yandex"><div></div></a></li>    </ul>
+</div>                    </div>
+                </div>
             </div>
         </div>
 
@@ -525,7 +731,7 @@ include("includes/connect_db.php");
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="registrationb5d3.php?login&amp;forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="registration93fb.php?login/en&amp;forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -959,5 +1165,5 @@ include("includes/connect_db.php");
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/registration?login by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:55 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/registration?login/en by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 03:46:35 GMT -->
 </html>

@@ -8,27 +8,27 @@
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
                             <a data-title="OROBET.COM - Online Casino, Slots, Online Lottery"
-                               href="../en.html"
+                               href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Online Kasino - OROBET.COM"
-                               href="live-casino.html"
+                               href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="TV Games"
-                               href="tv_games.html"
+                               href="tv_games.php"
                                class="casino_options_link">TV games</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Sport betting sportsbook ArgoCasino"
-                               href="sport.html"
+                               href="sport.php"
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
                             <a data-title="Virtual Sport - OROBET.COM"
-                               href="virtual-sport.html"
+                               href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
 <!--                                <li class="casino_options_sub_menu_li">-->
@@ -53,7 +53,7 @@
                     <!-- /.casino_options_list -->
                 </nav>
 
-                <a href="e-sport.html">
+                <a href="e-sport.php">
                     <img src="../img/logo_ESports.svg" alt="">
                 </a>
                 <!-- /.casino_options_nav -->
@@ -61,21 +61,21 @@
                     <ul class="header-top__nav__list pull-left horizontal left_top_menu">
                         <li class="header-top__nav__item">
                             <a title="Promotions"
-                               href="bonuses.html">
+                               href="bonuses.php">
                                 <i class="icon-promo"></i>
                                 <span>Promotions</span>
                             </a>
                         </li>
 						                            <li class="header-top__nav__item">
                                 <a title="Tournaments"
-                                   href="tournament.html">
+                                   href="tournament.php">
                                     <i class="icon-tournament"></i>
                                     <span>Tournaments</span>
                                 </a>
                             </li>
 						
 						                            <li class="header-top__nav__item"><a title="Download"
-                                     href="download.html">
+                                     href="download.php">
                                     <i class="icon-download"></i>
                                     <span>Download</span>
                                 </a>
@@ -86,7 +86,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/registrationd56b.html?login"></a><a class="no_image" href="../ru/registrationd56b.html?login"><span>Русский</span></a></li><li class="pl"><a href="../pl/registrationd56b.html?login"></a><a class="no_image" href="../pl/registrationd56b.html?login"><span>Polski</span></a></li><li class="sv"><a href="../sv/registrationd56b.html?login"></a><a class="no_image" href="../sv/registrationd56b.html?login"><span>Svenska</span></a></li><li class="en active"><a href="registrationd56b.html?login"></a><a class="no_image" href="registrationd56b.html?login"><span>English</span></a></li><li class="de"><a href="../de/registrationd56b.html?login"></a><a class="no_image" href="../de/registrationd56b.html?login"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/registrationd56b.html?login"></a><a class="no_image" href="../ro/registrationd56b.html?login"><span>Română</span></a></li><li class="zh"><a href="../zh/registrationd56b.html?login"></a><a class="no_image" href="../zh/registrationd56b.html?login"><span>Chinese</span></a></li><li class="uk"><a href="../uk/registrationd56b.html?login"></a><a class="no_image" href="../uk/registrationd56b.html?login"><span>Українська</span></a></li><li class="tr"><a href="../tr/registrationd56b.html?login"></a><a class="no_image" href="../tr/registrationd56b.html?login"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/registrationd56b.php?login"></a><a class="no_image" href="../ru/registrationd56b.php?login"><span>Русский</span></a></li><li class="pl"><a href="../pl/registrationd56b.php?login"></a><a class="no_image" href="../pl/registrationd56b.php?login"><span>Polski</span></a></li><li class="sv"><a href="../sv/registrationd56b.php?login"></a><a class="no_image" href="../sv/registrationd56b.php?login"><span>Svenska</span></a></li><li class="en active"><a href="registrationd56b.php?login"></a><a class="no_image" href="registrationd56b.php?login"><span>English</span></a></li><li class="de"><a href="../de/registrationd56b.php?login"></a><a class="no_image" href="../de/registrationd56b.php?login"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/registrationd56b.php?login"></a><a class="no_image" href="../ro/registrationd56b.php?login"><span>Română</span></a></li><li class="zh"><a href="../zh/registrationd56b.php?login"></a><a class="no_image" href="../zh/registrationd56b.php?login"><span>Chinese</span></a></li><li class="uk"><a href="../uk/registrationd56b.php?login"></a><a class="no_image" href="../uk/registrationd56b.php?login"><span>Українська</span></a></li><li class="tr"><a href="../tr/registrationd56b.php?login"></a><a class="no_image" href="../tr/registrationd56b.php?login"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 

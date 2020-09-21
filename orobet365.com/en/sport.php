@@ -1,38 +1,21 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
+<html prefix="og: http://ogp.me/ns#" lang="en" class="">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/sport by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:26:26 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+			        <title>Sport betting sportsbook ArgoCasino</title>
         <meta name="keywords" content="Online Slot,slot machines ">
         <meta name="description" content="">
-
-        <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
+        <meta property="og:title" content="Sport betting sportsbook ArgoCasino">
         <meta property="og:description" content="">
-        <meta property="og:url" content="../en.php">
-        <meta property="og:locale" content="en_EN">
-        <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta property="og:image:width" content="968">
-        <meta property="og:image:height" content="504">
-        <!--social network FB OK VK G+-->
-
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="../en.php">
-        <meta name="twitter:domain" content="../en.php">
-        <!--<meta name="twitter:site" content="@">-->
-        <!--<meta name="twitter:creator" content="@...">-->
-        <!--twitter-->
-
-        <base >
+        <meta property="og:url"
+              content="sport.php">
+        <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/s3argo/img/logo_argo_big.png">
+	    <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/sport">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,52 +23,40 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+	        <link rel="alternate" href="../ru/sport.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+	        <link rel="alternate" href="sport.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+	        <link rel="alternate" href="../sv/sport.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+	        <link rel="alternate" href="../pl/sport.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+	        <link rel="alternate" href="../de/sport.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+	        <link rel="alternate" href="../zh/sport.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+	        <link rel="alternate" href="../ro/sport.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+	        <link rel="alternate" href="../uk/sport.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+	        <link rel="alternate" href="../tr/sport.php"
               hreflang="tr"/>
-        <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
+	    <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-16x16.png" sizes="16x16">
     <link rel="mask-icon" href="../img/favicons/safari-pinned-tab.svg" color="#17150f">
     <link rel="shortcut icon" href="../img/favicons/favicon.ico">
 
-
-    <link href="../images/iphone5.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphone6.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphoneplus.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonex.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonexr.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonexsmax.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/ipad.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro1.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro3.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro2.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-
     <link rel="stylesheet"
           href="../../cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
     <link rel="stylesheet" href="../css/notyaaa4.css?v=eAiTahee5iei4ggx"/>
     <link rel="stylesheet" href="../css/styleaaa4.css?v=eAiTahee5iei4ggx" type="text/css"/>
-    <link rel="stylesheet" href="../css/cms-cssaaa4.css?v=eAiTahee5iei4ggx" type="text/css"/>
+
     <!-- Proof | Real-time conversion signals -->
     <!--        <script id=proof-script>!function(){function b(){var a=(new Date).getTime(),b=document.createElement('script');b.type='text/javascript',b.async=!0,b.src='https://cdn.getmoreproof.com/embed/latest/proof.js?'+a;var c=document.getElementsByTagName('script')[0];c.parentNode.insertBefore(b,c)}var a=window;a.attachEvent?a.attachEvent('onload',b):a.addEventListener('load',b,!1),window.proof_config={acc:'uMPCDX8rK9f13RaVBBxEzYTNbU73', v:'1.1'}}()</script>-->
     <!-- End Proof -->
     <!--        <script type="text/javascript" src="https://3e100851-d592-4fa7-a983-5a57f0ec5015.snippet.antillephone.com/apg-seal.js"></script>-->
-    <script src="../../cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+	<script src="../../cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 <script>
     var OneSignal = OneSignal || [];
     OneSignal.push(["init", {
@@ -110,6 +81,7 @@
             }
         }*/
 </script>
+    <script type="text/javascript" src="../../sport.argocasino50.com/js/Partner/IntegrationLoader.min.js"></script>
     <script type="text/javascript" src="../js/jquery/jquery-2.2.2.min.js"></script>
     <script type="text/javascript" src="../js/main-topaaa4.js?v=eAiTahee5iei4ggx"></script>
     <script type="text/javascript" src="../js/socket.io-1.4.5.js"></script>
@@ -157,8 +129,8 @@
 <body>
 <div class="loadmask"></div>
 <div class="wrapper">
-    <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+	<header class="header" id="header">
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +152,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +172,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -259,7 +231,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/sport.php"></a><a class="no_image" href="../ru/sport.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/sport.php"></a><a class="no_image" href="../pl/sport.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/sport.php"></a><a class="no_image" href="../sv/sport.php"><span>Svenska</span></a></li><li class="en active"><a href="sport.php"></a><a class="no_image" href="sport.php"><span>English</span></a></li><li class="de"><a href="../de/sport.php"></a><a class="no_image" href="../de/sport.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/sport.php"></a><a class="no_image" href="../ro/sport.php"><span>Română</span></a></li><li class="zh"><a href="../zh/sport.php"></a><a class="no_image" href="../zh/sport.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/sport.php"></a><a class="no_image" href="../uk/sport.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/sport.php"></a><a class="no_image" href="../tr/sport.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -304,142 +276,7 @@
 
         </div>
     </div>
-    <div class="header-slider">
-        
-<ul class="bxslider" id="header-slider">
-    
-        <li>
-                            <a href="sport.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i0c626fa87e67b9394b57078805349adc.jpg');"></div>
-                </a>
-                    </li>
-
-    
-        <li>
-                            <a href="tournament/pragmatic_argo_tournament.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i89e58c6a45351683e45c61fe1de2b27f.jpg');"></div>
-                </a>
-                    </li>
-
-    
-        <li>
-                            <a href="e-sport.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i72ef8db86fa06fb5b28a4321199dffcf.jpg');"></div>
-                </a>
-                    </li>
-
-    
-        <li>
-                            <a href="tv_games.php">
-                    <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7bb48a46b769f74dcfabb6d7ce8db9fb.jpg');"></div>
-                </a>
-                    </li>
-
-    
-        <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i6942864d1a39c0681cf945704638913a.jpg');"></div>
-                    </li>
-
-    
-        <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i12d48902a47f9c129780ef572345ff17.jpg');"></div>
-                    </li>
-
-    
-        <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i38b3eff8baf56627478ec76a704e9b52.jpg');"></div>
-                    </li>
-
-    
-        <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/if899139df5e1059396431415e770c6dd.jpg');"></div>
-                    </li>
-
-    
-        <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/if4b9ec30ad9f68f89b29639786cb62ef.jpg');"></div>
-                    </li>
-
-    
-        <li>
-                            <div class="slide_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i54229abfcfa5649e7003b83dd4755294.jpg');"></div>
-                    </li>
-
-    </ul>
-        <div id="promo-slider_wrap">
-    <div class="promo_bg"></div>
-    <ul style="display: none" class="bxslider" id="promo-slider">
-
-        
-            <li>
-                <div class="slide__promotions_bg" style="background-image: url('../../s3-eu-west-1.amazonaws.com/cms-sliders/30/i7dd60838e4b82627d183c289f9c23676.png');"></div>
-
-                                    <div class="header-slider-btn-plugin" style="top: 86px; z-index: 1000;">
-                        <a
-                                class="btn green_long big popup-open-reg"
-                                href="registrationd56b.php?login"
-                        >
-                            <span>Claim</span>
-                        </a>
-                    </div>
-                            </li>
-            </ul>
-</div>
-        <div class="logo">
-            <a href="index.php">
-                <div class="logoimage"></div>
-            </a>
-        </div>
-    </div>
-    <div class="header-nav">
-    <div class="inside">
-        <nav class="header-nav__menu">
-            <ul class="header-nav__list">
-                <li class="
-                    ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
-                       href="../en.php">
-                        Popular                    </a>
-                </li>
-                <li class="
-                    ">
-                    <a data-title="New Games"
-                       href="new.php">
-                        New                    </a>
-                </li>
-                <li class="
-                    ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
-                       href="slots-classic.php">
-                        Retro                    </a>
-                </li>
-                <li class="
-                    ">
-                    <a data-title="Online Kasino - Orobet365.com"
-                       href="live-casino.php">
-                        Live Casino                    </a>
-                </li>
-<!--                <li class="-->
-<!--                    --><?//= !(strpos(Page::getName(), 'roulette') === false)
-//                        && (strpos(Page::getName(), 'roulette') === 0) ? ' active' : '' ?><!--">-->
-<!--                    <a href="/--><?//= base\Langpack::$lang; ?><!--/roulette">-->
-<!--                        --><!--                    </a>-->
-<!--                </li>-->
-                <li class="
-                    ">
-                    <a data-title="Brettspiele - Orobet365.com"
-                       href="table.php">
-                        Table games                    </a>
-                <li class="
-                    ">
-                    <a data-title="Other"
-                       href="other.php">
-                        Casual games                    </a>
-                </li>
-            </ul>
-        </nav>
-    </div>
-</div>    <div class="decor-border-top">
+    <div class="decor-border-top">
         <div class="inside"></div>
     </div>
     <div class="decor-border">
@@ -447,35 +284,23 @@
         </div>
     </div>
 </header><!--.header-->
-    <div class="main" id="main">
-
-        <div class="inside">
-                            <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
-                    <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
-                            <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
-                        </section>
-                    </div>
-                </div>
-                        </div>
-    </div>
+    <div id="sport_div_iframe"></div>
+	    <script>
+        var _sp = _sp || [];
+        _sp.push(['server', 'https://sport.argocasino50.com/']);
+        _sp.push(['sportPartner', '-']);
+        _sp.push(['token', '-']);
+        _sp.push(['language', 'en']);
+        _sp.push(['login', 'SportLogin']);
+        _sp.push(['registration', 'SportRegistration']);
+        _sp.push(['currentPage', '0']);
+        _sp.push(['device', 'd']);
+        _sp.push(['unHideOverflow', true]);
+        //_sp.push(['timeZone', '4']);
+        //_sp.push(['eventId', '2381829']);
+        SportFrame.frame(_sp);
+    </script>
 </div>
-
-
     <footer class="footer" id="footer">
         <div class="footer_top_box">
             <div class="inside">
@@ -483,7 +308,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="sport2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +333,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -519,7 +344,7 @@
                 href="privacy-policy.php">Privacy Policy</a>
         </li>
         <li><a
-                href="rules.php">Terms and Conditions</a>
+                href="sport/rules.php">Terms and Conditions</a>
         </li>
         <li><a
                 href="responsible-gaming.php">Responsible Gaming</a>
@@ -544,7 +369,21 @@
 			    </ul>
 </section><!--.payment-systems-->                </div>
             </div>
-			        </div>
+			                <div class="sport_fix social-buttons_fixed" style="position: absolute!important; bottom: 290px;">
+					
+                        <ul class="social-buttons__list">
+																					                                <li>
+                                    <a class="icon-fb1" target="_blank"
+                                       href="https://www.facebook.com/ARGO.SPORT.EN/?ref=bookmarks/">fb</a>
+                                </li>
+                                <li>
+                                    <a class="icon-tg1" href="https://t.me/argocasino_en" target="_blank"></a>
+                                </li>
+							                        </ul>
+					
+                </div>
+
+				        </div>
         <div class="footer_bottom_box">
             <div class="inside">
 				    <div class="footer-bottom clearfix">
@@ -570,14 +409,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +649,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -895,27 +734,11 @@
     <!--	-->    <!---->
     <!--	-->    <!--  </ul>-->
     <!--</div>-->
-    <div style="width: 50px!important;"
-         class="right_fixed_block">
-        <div class="chat open_chat"><a></a></div>
-
-        <div class="social-buttons_fixed">
-			
-                <ul class="social-buttons__list">
-															                        <li><a class="icon-fb1" target="_blank" href="https://www.facebook.com/ARGOCasino.en/">fb</a>
-                        </li>
-                        <li>
-                            <a class="icon-tg1" href="https://t.me/argocasino_en" target="_blank"></a>
-                        </li>
-					
-                    <li>
-                        <a class="icon-tg1" href="https://t.me/ArgoCasinoBot" target="_blank"></a>
-                    </li>
-                </ul>
-			
-        </div>
+    <div class="chat_sport open_chat animation-rotate">
+        <i class="zmdi zmdi-comment-text zmdi-hc-2x"></i>
     </div>
+
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/sport by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:26:29 GMT -->
 </html>

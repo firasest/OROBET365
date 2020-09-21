@@ -1,38 +1,44 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN" data-cr="TN">
+<html prefix="og: http://ogp.me/ns#" lang="en" class="" data-country="TN"
+      data-cr="TN">
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:45 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/virtual-sport by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:26:29 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-                    <title>About us</title>
+			        <title>Virtual Sport - ArgoCasino.com</title>
         <meta name="keywords" content="Online Slot,slot machines ">
-        <meta name="description" content="">
+        <meta name="description" content="AVirtual Sport ArgoCacino">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="OROBET.COM">
-        <meta property="og:title" content="About us">
-        <meta property="og:description" content="">
-        <meta property="og:url" content="../en.php">
+        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:title" content="Virtual Sport - ArgoCasino.com">
+        <meta property="og:description" content="AVirtual Sport ArgoCacino">
+        <meta property="og:url"
+              content="../en.php">
         <meta property="og:locale" content="en_EN">
-        <meta property="og:image" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
+        <meta property="og:image"
+              content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
         <meta property="og:image:width" content="968">
         <meta property="og:image:height" content="504">
         <!--social network FB OK VK G+-->
 
         <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title" content="About us">
-        <meta name="twitter:description" content="">
-        <meta name="twitter:image:src" content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
-        <meta name="twitter:url" content="../en.php">
-        <meta name="twitter:domain" content="../en.php">
+        <meta name="twitter:title" content="Virtual Sport - ArgoCasino.com">
+        <meta name="twitter:description" content="AVirtual Sport ArgoCacino">
+        <meta name="twitter:image:src"
+              content="../../s3-eu-west-1.amazonaws.com/casinos-landing/argocasino/_main_img/Argo_968x504_social.jpg">
+        <meta name="twitter:url"
+              content="../en.php">
+        <meta name="twitter:domain"
+              content="../en.php">
         <!--<meta name="twitter:site" content="@">-->
         <!--<meta name="twitter:creator" content="@...">-->
         <!--twitter-->
 
-        <base >
+	    <base >
     <meta charset="UTF-8">
     <link rel="alternate" media="only screen and (max-width: 640px)"
-          href="https://m.6.argocasino50.com/en/about">
+          href="https://m.6.argocasino50.com/en/virtual-sport">
     <link rel="manifest" href="../manifest.json">
 
     <meta name="yandex-verification" content="6ceed54e5fe19dab"/>
@@ -40,41 +46,29 @@
 
     <meta name="msapplication-config" content="../img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#11100b">
-            <link rel="alternate" href="../ru/about.php"
+	        <link rel="alternate" href="../ru/virtual-sport.php"
               hreflang="ru"/>
-            <link rel="alternate" href="about.php"
+	        <link rel="alternate" href="virtual-sport.php"
               hreflang="en"/>
-            <link rel="alternate" href="../sv/about.php"
+	        <link rel="alternate" href="../sv/virtual-sport.php"
               hreflang="sv"/>
-            <link rel="alternate" href="../pl/about.php"
+	        <link rel="alternate" href="../pl/virtual-sport.php"
               hreflang="pl"/>
-            <link rel="alternate" href="../de/about.php"
+	        <link rel="alternate" href="../de/virtual-sport.php"
               hreflang="de"/>
-            <link rel="alternate" href="../zh/about.php"
+	        <link rel="alternate" href="../zh/virtual-sport.php"
               hreflang="zh"/>
-            <link rel="alternate" href="../ro/about.php"
+	        <link rel="alternate" href="../ro/virtual-sport.php"
               hreflang="ro"/>
-            <link rel="alternate" href="../uk/about.php"
+	        <link rel="alternate" href="../uk/virtual-sport.php"
               hreflang="uk"/>
-            <link rel="alternate" href="../tr/about.php"
+	        <link rel="alternate" href="../tr/virtual-sport.php"
               hreflang="tr"/>
-        <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
+	    <link rel="apple-touch-icon" sizes="180x180" href="../img/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="../img/favicons/favicon-16x16.png" sizes="16x16">
     <link rel="mask-icon" href="../img/favicons/safari-pinned-tab.svg" color="#17150f">
     <link rel="shortcut icon" href="../img/favicons/favicon.ico">
-
-
-    <link href="../images/iphone5.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphone6.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphoneplus.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonex.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonexr.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/iphonexsmax.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
-    <link href="../images/ipad.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro1.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro3.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
-    <link href="../images/ipadpro2.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
 
     <link rel="stylesheet"
           href="../../cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
@@ -85,7 +79,7 @@
     <!--        <script id=proof-script>!function(){function b(){var a=(new Date).getTime(),b=document.createElement('script');b.type='text/javascript',b.async=!0,b.src='https://cdn.getmoreproof.com/embed/latest/proof.js?'+a;var c=document.getElementsByTagName('script')[0];c.parentNode.insertBefore(b,c)}var a=window;a.attachEvent?a.attachEvent('onload',b):a.addEventListener('load',b,!1),window.proof_config={acc:'uMPCDX8rK9f13RaVBBxEzYTNbU73', v:'1.1'}}()</script>-->
     <!-- End Proof -->
     <!--        <script type="text/javascript" src="https://3e100851-d592-4fa7-a983-5a57f0ec5015.snippet.antillephone.com/apg-seal.js"></script>-->
-    <script src="../../cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
+	<script src="../../cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
 <script>
     var OneSignal = OneSignal || [];
     OneSignal.push(["init", {
@@ -157,8 +151,8 @@
 <body>
 <div class="loadmask"></div>
 <div class="wrapper">
-    <header class="header" id="header">
-    <div class="display_none" style="display: none;" id="pagetitle">Orobet365.com</div>
+	<header class="header" id="header">
+    <div class="display_none" style="display: none;" id="pagetitle">ArgoCasino.com</div>
     <div class="header-top">
         <div class="inside clearfix">
             <a href="index.php">
@@ -180,12 +174,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                                href="../en.php"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - Orobet365.com"
+                            <a data-title="Online Kasino - ArgoCasino.com"
                                href="live-casino.php"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -200,7 +194,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - Orobet365.com"
+                            <a data-title="Virtual Sport - ArgoCasino.com"
                                href="virtual-sport.php"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -259,7 +253,7 @@
                                     <ul class="hidden_switcher">
 
 
-										<li class="ru"><a href="../ru/about.php"></a><a class="no_image" href="../ru/about.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/about.php"></a><a class="no_image" href="../pl/about.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/about.php"></a><a class="no_image" href="../sv/about.php"><span>Svenska</span></a></li><li class="en active"><a href="about.php"></a><a class="no_image" href="about.php"><span>English</span></a></li><li class="de"><a href="../de/about.php"></a><a class="no_image" href="../de/about.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/about.php"></a><a class="no_image" href="../ro/about.php"><span>Română</span></a></li><li class="zh"><a href="../zh/about.php"></a><a class="no_image" href="../zh/about.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/about.php"></a><a class="no_image" href="../uk/about.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/about.php"></a><a class="no_image" href="../tr/about.php"><span>Turkey</span></a></li>                                    </ul>
+										<li class="ru"><a href="../ru/virtual-sport.php"></a><a class="no_image" href="../ru/virtual-sport.php"><span>Русский</span></a></li><li class="pl"><a href="../pl/virtual-sport.php"></a><a class="no_image" href="../pl/virtual-sport.php"><span>Polski</span></a></li><li class="sv"><a href="../sv/virtual-sport.php"></a><a class="no_image" href="../sv/virtual-sport.php"><span>Svenska</span></a></li><li class="en active"><a href="virtual-sport.php"></a><a class="no_image" href="virtual-sport.php"><span>English</span></a></li><li class="de"><a href="../de/virtual-sport.php"></a><a class="no_image" href="../de/virtual-sport.php"><span>Deutsch</span></a></li><li class="ro"><a href="../ro/virtual-sport.php"></a><a class="no_image" href="../ro/virtual-sport.php"><span>Română</span></a></li><li class="zh"><a href="../zh/virtual-sport.php"></a><a class="no_image" href="../zh/virtual-sport.php"><span>Chinese</span></a></li><li class="uk"><a href="../uk/virtual-sport.php"></a><a class="no_image" href="../uk/virtual-sport.php"><span>Українська</span></a></li><li class="tr"><a href="../tr/virtual-sport.php"></a><a class="no_image" href="../tr/virtual-sport.php"><span>Turkey</span></a></li>                                    </ul>
                                 </div>
                             </li>
 
@@ -397,7 +391,7 @@
             <ul class="header-nav__list">
                 <li class="
                     ">
-                    <a data-title="Orobet365.com - Online Casino, Slots, Online Lottery"
+                    <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
                        href="../en.php">
                         Popular                    </a>
                 </li>
@@ -409,13 +403,13 @@
                 </li>
                 <li class="
                     ">
-                    <a data-title="Retro Slots Online in Orobet365.com"
+                    <a data-title="Retro Slots Online in ArgoCasino.com"
                        href="slots-classic.php">
                         Retro                    </a>
                 </li>
                 <li class="
                     ">
-                    <a data-title="Online Kasino - Orobet365.com"
+                    <a data-title="Online Kasino - ArgoCasino.com"
                        href="live-casino.php">
                         Live Casino                    </a>
                 </li>
@@ -427,7 +421,7 @@
 <!--                </li>-->
                 <li class="
                     ">
-                    <a data-title="Brettspiele - Orobet365.com"
+                    <a data-title="Brettspiele - ArgoCasino.com"
                        href="table.php">
                         Table games                    </a>
                 <li class="
@@ -448,30 +442,307 @@
     </div>
 </header><!--.header-->
     <div class="main" id="main">
-
         <div class="inside">
-                            <div class="main-content pages" style="padding-top: 20px;margin-top: 25px;">
-                    <div class="pl_back" style="padding-left: 35px;padding-right: 35px;text-align: justify;">
-                        <section class="middle about" style="z-index: 1">
-                            <div class="container">
-                                <div class="cms-css">
-<h2>
-  About us
-</h2>
-<p>
-  Orobet365.com is the representative for the largest software manufacturers in the gambling industry - Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming , Playson, Betsoft Gaming, Ainsworth. Orobet365.com gives you the opportunity to play more than 2000 games from Netent, Yggdrasil, Microgaming, Ezugi, QuickSpin, Blueprint, Habanero, Big Time Gaming, Pragmatic Play, Amatic, NextGen, ELK, 1x2 Gaming, Lighting Box, Endorphina, Thunderkick, Spinomenal, Booming, Playson, Betsoft Gaming, Ainsworth. Different types of roulettes and blackjack are available to clients, a huge selection of video slots and classic slot machines, jackpot games, video poker, craps, baccarat, scratch games and, of course, live games with live dealers.
-</p>
-<p>
-  To experience full pleasure and real emotions during the game, we recommend that you look into the Live Casino section. An emotional kick is guaranteed! Visit a real casino with real croupiers, without leaving home, at any time convenient for you day and night. This is the best way to feel at the gaming table. Games in Live Casino are broadcasted from Netent & Ezugi studios in Europe and Asia in real time. This means that all dealers are real and the games are reliable. Respect and satisfaction of our clients are our priorities and we wish to provide you with the best conditions for recreation and entertainment.
-</p>
-<p>
-  Customers of Orobet365.com will be able to appreciate the luxurious and modern design, as well as the unique graphics of images and the ease of navigation on the site. Customer Service Orobet365.com is always happy to answer all your questions around the clock!
-</p>
-</div>                            </div>
-                        </section>
-                    </div>
-                </div>
+			                <div id="our-games-vsport" class="our-games vsport">
+					
+<section class="our-games virtual-sport">
+
+    
+
+    <div class="heading_img">
+		        <img src="../img/slider/img/Betradar_ico.png" alt="">
+	        </div>
+	    <ul class="our-games__list clearfix">
+
+		                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1b700e615.jpg" alt="betradar">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betradar.png" />                        <!-- betradar-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Virtual Tennis Open                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/virtual-tennis-open-4129.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
                         </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1b673e04e.jpg" alt="betradar">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betradar.png" />                        <!-- betradar-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Virtual Football Wor...                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/virtual-football-world-cup-4130.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1b5e08ac4.jpg" alt="betradar">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/betradar.png" />                        <!-- betradar-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Virtual Football Lea...                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/virtual-football-league-mode-4132.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				    </ul>
+    
+
+    <div class="heading_img">
+		        <img src="../img/slider/img/Kiron_ico.png" alt="">
+	        </div>
+	    <ul class="our-games__list clearfix">
+
+		                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1b105d271.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Keno                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/keno-4137.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1b057156b.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Hounds                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/hounds-4142.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1afa39a98.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Horses                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/horses-4143.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1ae11e823.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Motor racing                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/motor-racing-4145.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1ad6e887d.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Badminton                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/badminton-4146.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1acdac0fb.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Table tennis                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/table-tennis-4147.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15e3c1ab5ebbec.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Football                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/football-4148.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				                <li class="our-games__item ">
+                    <div class="our-games__photo">
+                        <img loading="lazy" width="190" height="122"
+                             src="../../d32wwkuryjkg7f.cloudfront.net/img/15d7a57a4b1a57.jpg" alt="kiron">
+						<img loading="lazy" class="provider" src="../img/providers/boxicons/kiron.png" />                        <!-- kiron-->
+                        <div class="sepia">
+                            <ul>
+                                <li>
+									Archery                                </li>
+                                <li>
+									                                        <a class="btn big green popup-open"
+                                           href="registrationd56b.php?login">
+                                            <span>Play</span>
+                                        </a>
+										                                </li>
+								                                    <li class="btn_demo_box">
+                                        <a class="btn_demo" data="../en.php" target="_parent"
+                                           href="demo/archery-4149.php">
+                                            <span>Demo</span>
+                                        </a>
+                                    </li>
+									                            </ul>
+                        </div>
+                    </div>
+                </li>
+				    </ul>
+    </section>
+
+                    <script>var gamesajax = true;</script>
+					                </div>
+				        </div>
     </div>
 </div>
 
@@ -483,7 +754,7 @@
 				<nav class="footer-nav" style="font-family: 'Roboto Condensed';">
     <ul class="footer-nav__list horizontal">
         <li>    <span class="version">
-        <a class="mobile" href="about2074.php?forceMobile">Mobile version</a>    </span>
+        <a class="mobile" href="virtual-sport2074.php?forceMobile">Mobile version</a>    </span>
     <script>
     $(document).ready(function () {
         if (window.location.href.indexOf('forceMobile') > -1) {
@@ -508,7 +779,7 @@
     });
 </script>
 </li>
-        <li class="active"><a
+        <li><a
                 href="about.php">About Us</a></li>
         <!--
             <li><a href="/<? /*= LANGUAGE_CODE; */ ?>/plugin"></a></li>
@@ -570,14 +841,14 @@
 
 				            </ul>
             <div class="owner_info">
-                Orobet365.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
-                Orobet365.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
+                ArgoCasino.com is owned and operated by JocSolutions Limited, Gibraltar Internet Gambling may be illegal in the jurisdiction in which you are located; if so, you are not authorized to use your payment card to complete this transaction.
+                ArgoCasino.com is licensed in Curacao and the license is held by JocSolutions ltd. a limited liability company incorporated under the laws of Curacao and having its registered address at E-Commerce Park, Vredenberg, Curacao, Netherlands Antilles.
             </div>
             <!--		<div class="lic_img"></div>-->
             <div class="copyright" style="margin: 0 auto;">
-                2020 &copy;
+                2014 - 2020 &copy;
                 <span>
-                    <a href="http://OROBET365.COM/">OROBET365.COM</a>
+                <a href="http://argocasino.com/">ArgoCasino.com</a>
             </span>
 				All rights reserved            </div>
             <!--  -->
@@ -810,7 +1081,7 @@
         $.timepicker.setDefaults($.timepicker.regional[LANG]);
     }
 
-    
+    <!--Start of Tawk.to Script-->
     var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
     (function(){
         var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
@@ -917,5 +1188,5 @@
     </div>
 	</body>
 
-<!-- Mirrored from 6.argocasino50.com/en/about by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:41:53 GMT -->
+<!-- Mirrored from 6.argocasino50.com/en/virtual-sport by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Sep 2020 02:27:02 GMT -->
 </html>
