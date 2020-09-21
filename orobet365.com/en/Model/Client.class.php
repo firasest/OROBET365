@@ -1,24 +1,28 @@
 <?php
 class Client{
-private $login;
+
 private $name;
+private $prenom;
+private $email;
 private $city;
-private $surname;
-private $email; 
-private $password;
 private $phone;
+private $login; 
+private $password;
+
 
 
               
 
-function __construct($login,$name,$city,$surname,$email,$password,$phone){
-  $this->login = $login;
+function __construct($name,$prenom,$email,$city,$phone,$login,$password){
+  
   $this->name = $name;
-  $this->city = $city;
-  $this->surname = $surname;
+  $this->prenom = $prenom;
   $this->email = $email;
-  $this->password = $password;
+  $this->city = $city;
   $this->phone = $phone;
+  $this->login = $login;
+  $this->password = $password;
+  
   
 
 
@@ -32,25 +36,22 @@ public function ajouter(){
       
     
       $req = $bdd->exec ("INSERT INTO `client`(
-                                              `login`
-                                              `name`,
-                                              `surname`,
+                                              `nom`,
+                                              `prenom`,
                                               `email`,
-                                              `city`, 
-                                              `phone`,
-                                              `login`, 
-                                              `password`,
-                                              
+                                              `ville`, 
+                                              `mobile`,
+                                              `username`, 
+                                              `password`
                                               )
-       VALUES ('$this->login',
+       VALUES (
                '$this->name',
-               '$this->surname',
+               '$this->prenom',
                '$this->email',
                '$this->city',
                '$this->phone',
                '$this->login',
-               '$this->password',
-               
+               '$this->password'
                )");
       
       echo 'oui';

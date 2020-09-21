@@ -363,60 +363,40 @@ include("includes/connect_db.php");
 
                     <div class="register none">
                         <form  action="Controller/ajouter_client.php">
-                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            <div class="pull-left popup-registration__item">
+                            <input type="hidden" name="csrf" value="8faa95602e23297cb1fe441ff26146c6">                            
+                            <div class="pull-left popup-registration__item">
+                                <input name="login" type="text" placeholder="Login" autocomplete="off"/>
                                 <input name="nom" type="text" placeholder="Name" autocomplete="off"/>
                             </div>
-
-                           
 
                             <div class="pull-left popup-registration__item">
                                 <input name="ville" value="" type="text" id="ville" placeholder="City" autocomplete="off"/>
                             </div>
                             
-
-
                             <div class="pull-left popup-registration__item">
                                 <input name="prenom" type="text" placeholder="Prename" autocomplete="off"/>
                             </div>
-
-                           
-                            <br/>
-                            
+             
+                            <br/>            
 
                             <div class="pull-left popup-registration__item">
                                 <input name="email" type="email" placeholder="Email" autocomplete="off"/>
                             </div>
-
-
-                           
-
 
                             <div class="pull-left popup-registration__item">
                                 
 
                                 <input name="password" value="" type="password" id="password" placeholder="Password" autocomplete="off"/>
                             </div>
+
                             <br/>
 
                             <div class="pull-left popup-registration__item">
                                 <input name="phone" value="" type="number" placeholder="Number" autocomplete="off"/>
 
                             </div>
+
                             <br/>
-
-                            
-
-                            
-
-                            
-
-                           
-
-                            
-
-                            
-
-                            
 
                             <button type="submit" id="register" class="reg-fix btn green_long big">
                                 <span>Join Now</span>
