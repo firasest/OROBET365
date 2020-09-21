@@ -9,7 +9,7 @@
         <meta name="description" content="">
 
         <meta property="og:type" content="website">
-        <meta property="og:site_name" content="argocasino.com">
+        <meta property="og:site_name" content="OROBET.COM">
         <meta property="og:title" content="About us">
         <meta property="og:description" content="">
         <meta property="og:url" content="../en.html">

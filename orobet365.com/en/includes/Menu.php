@@ -7,12 +7,12 @@
                 <nav class="casino_options_nav">
                     <ul class="casino_options_list">
                         <li class="casino_options_li">
-                            <a data-title="ArgoCasino.com - Online Casino, Slots, Online Lottery"
+                            <a data-title="OROBET.COM - Online Casino, Slots, Online Lottery"
                                href="../en.html"
                                class="casino_options_link">Casino</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Online Kasino - ArgoCasino.com"
+                            <a data-title="Online Kasino - OROBET.COM"
                                href="live-casino.html"
                                class="casino_options_link">Live Casino</a>
                         </li>
@@ -27,7 +27,7 @@
                                class="casino_options_link">Sport</a>
                         </li>
                         <li class="casino_options_li">
-                            <a data-title="Virtual Sport - ArgoCasino.com"
+                            <a data-title="Virtual Sport - OROBET.COM"
                                href="virtual-sport.html"
                                class="casino_options_link">Virtual Sport</a>
 <!--                            <ul class="casino_options_sub_menu">-->
@@ -118,17 +118,17 @@
 ?>
 						                            
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="registration.html"><span>Logout</span></a>
+                                   href="registration.php"><span>Logout</span></a>
                             </li>
 
                             <?php }else{ ?>
 
                                 <li class="flex100">
                                 <a class="fix-login btn small blue popup-open"
-                                   href="registrationd56b.html?login"><span>Login</span></a>
+                                   href="registrationd56b.php?login"><span>Login</span></a>
                             </li>
                             <li class=""><a class="btn green_reg_top small popup-open"
-                                   href="registration.html"><span>Join Now</span></a>
+                                   href="registration.php"><span>Join Now</span></a>
                             </li>
 
                             <?php } ?>
