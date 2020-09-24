@@ -489,10 +489,10 @@
 			                <div class="clearfix">
                     <div class=" ig_green_banner">
                         <div style="margin: 0 auto;width: 935px">
-                            <img style="margin-top: 5px;float: left" src="../../img/ArgoCasino_play.png">
+                            <img style="margin-top: 5px;float: left" src="/img/ArgoCasino_play.png">
                             <h2 class="ig_h1_demo">
 								You are playing in demo mode. Playing for real money is much more interesting !                            </h2>
-                            <a class="ig_denghi" href="../account/deposit">
+                            <a class="ig_denghi" href="en/account/deposit">
 								play for money                            </a>
                         </div>
                     </div>
@@ -506,7 +506,7 @@
                                  width="1024"
                                  height="768"
                             ></div>
-                            <script src="../../../aggr.softswiss.net/public/sg.js"></script>
+                            <script src="https://aggr.softswiss.net/public/sg.js"></script>
                             <script type="text/javascript">
                                 gameLaunchOptions = {target_element: 'game_frame'};
 
@@ -525,68 +525,108 @@
                             <div class="sidebar__box">
 								                                <div class="deposit_box">
                                     <p>INSTANT DEPOSIT</p>
+									                                        <form class="ajax-deposit-form-new" method="post" action="/ajax/newdep">
+                                            <input type="hidden" name="paymethod"
+                                                   value="sc_visa">
+                                            <div class="user-deposit-payment_mode__tab cloud-gray show_tab">
+                                                <ul class="dep_amount">
+													                                                        <li data-amount="10">10<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                        <li data-amount="25">25<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                        <li data-amount="50">50<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                        <li data-amount="100">100<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                </ul>
+                                                <ul class="ps__list horizontal">
+                                                    <li class="pull-left_ text_pool_right">
+                                                        <input type="text" autofocus="" name="amount"
+                                                               style="width: 160px"
+                                                               class="profile__input-text"
+                                                               value=""
+                                                               placeholder="INSTANT DEPOSIT">
+                                                        <input id="sc_visa"
+                                                               style="" type="text" name="code"
+                                                               class="profile__input-text promo_code"
+                                                               placeholder="">
+                                                    </li>
+                                                    <li class="pull-right_ action">
+
+														                                                            <button onclick="ga('send','event','Web','Deposit'); return true;"
+                                                                    class="btn green_dep small" type="submit">
+                                                                <span class="withdraw_cancel">Deposit</span>
+                                                            </button>
+														                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </form>
 									                                </div>
                                 <div class="winwin">
 									
 <div class="win-now">
     <ul class="win-now__list">
                     <li class="win-now-li">
-                <a href="crystal-queen-2932.html">
+                <a href="/en/game/extra-chilli-5322">
                     <div class="win-now-left">
-                        <div class="win-now-user">ALEX1*</div>
+                        <div class="win-now-user">BAZIE*</div>
+                        <div class="win-now-sum">5 CREDITS</div>
+                        <div class="win-now_game">Extra Chilli</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/15e593b846f1ad.jpg"/>
+                    </div>
+                </a>
+            </li>
+                        <li class="win-now-li">
+                <a href="/en/game/chimney-sweep-235">
+                    <div class="win-now-left">
+                        <div class="win-now-user">IRINK*</div>
+                        <div class="win-now-sum">0.8 CREDITS</div>
+                        <div class="win-now_game">Chimney Sweep</div>
+                    </div>
+                    <div class="win-now-img">
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/ChimneySweep.jpg"/>
+                    </div>
+                </a>
+            </li>
+                        <li class="win-now-li">
+                <a href="/en/game/minotaurus-232">
+                    <div class="win-now-left">
+                        <div class="win-now-user">ZMEEE*</div>
                         <div class="win-now-sum">2 CREDITS</div>
-                        <div class="win-now_game">Crystal Queen</div>
+                        <div class="win-now_game">Minotaurus</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bb4b68211b1e.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/Minotaur.jpg"/>
                     </div>
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="/en/game/sword-of-khans-4473">
                     <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">40 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
+                        <div class="win-now-user">MARIK*</div>
+                        <div class="win-now-sum">5 CREDITS</div>
+                        <div class="win-now_game">Sword of Khans</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/15dfa03c3a2a05.jpg"/>
                     </div>
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="crystal-queen-2932.html">
+                <a href="/en/game/voodoo-gold-4283">
                     <div class="win-now-left">
-                        <div class="win-now-user">ALEX1*</div>
-                        <div class="win-now-sum">4 CREDITS</div>
-                        <div class="win-now_game">Crystal Queen</div>
+                        <div class="win-now-user">GAZ19*</div>
+                        <div class="win-now-sum">9 CREDITS</div>
+                        <div class="win-now_game">Voodoo Gold</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bb4b68211b1e.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">60 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
-                    </div>
-                </a>
-            </li>
-                        <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
-                    <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">350 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
-                    </div>
-                    <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/15d9dcb9c7bcf8.jpg"/>
                     </div>
                 </a>
             </li>
@@ -601,133 +641,6 @@
 
             </div>
 
-			                <div itemscope
-                     itemtype="http://schema.org/WebApplication"
-                     class='pl_back'
-                     style='margin-bottom: 40px !important;border: 1px solid #5b563d;margin-top: 25px !important;'>
-                    <link itemprop="applicationCategory" href="https://schema.org/BrowserApplication"/>
-                    <meta itemprop="name" content="Roulette Royal">
-                    <meta itemprop="applicationSubCategory" content="table-roulette">
-                    <meta itemprop="applicationSuite" content="Amatic">
-                    <meta itemprop="operatingSystem" content="Any">
-                    <meta itemprop="thumbnailUrl" content="../../../d32wwkuryjkg7f.cloudfront.net/img/RouletteRoyal.jpg">
-                    <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                        <meta itemprop="price" content="10.00">
-                        <meta itemprop="priceCurrency" content="RUB, EUR, PLN, SEK" />
-                    </div>
-					                        <div itemprop="aggregateRating"
-                             itemscope
-                             itemtype="http://schema.org/AggregateRating"
-                             class="rating_box">
-
-                            <div>
-
-								
-                                <span>
-                                <ol class="floating-box">
-                                    <li>
-                                        <a href="javascript:void('#star1')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star2')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star3')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                </ol>
-                            </span>
-                                <span>
-                                <b style="float: right;
-                                        font-size: 16px;
-                                        color: #ffba00;
-                                        margin-top: 9px;
-                                        margin-left: 140px;
-                                        text-transform: uppercase;
-                                        font-weight: initial;">
-                                    GAME RATING 3                                    <img style=" width: 13px;background-color: #e8ba00;"
-                                         src="../../img/argo_rating_star_contur1.png"/>
-                                </b>
-                            </span>
-                                <meta itemprop="ratingValue"
-                                      content="3">
-                                <meta itemprop="ratingCount"
-                                      content="3">
-                                <meta itemprop="worstRating" content="0">
-                                <meta itemprop="bestRating" content="5">
-                            </div>
-                        </div>
-                        <style>
-
-                            .floating-box {
-                                list-style-type: none;
-                                margin: 0;
-                                padding: 0;
-                                position: absolute;
-                            }
-
-                            .floating-box li {
-                                float: left;
-                            }
-
-                            .floating-box li img {
-                                /*position: absolute;*/
-                                z-index: 246 !important;
-                                height: 30px !important;
-                                width: auto !important;
-                                margin-right: 2px;
-                            }
-
-                            .floating-box li a:hover img {
-                                background-color: #e8ba00;
-                            }
-                        </style>
-                        <div class="breadcrumbs_g">
-							                            <ol itemscope itemtype="http://schema.org/BreadcrumbList"  >
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem"
-                                    style="float: left;margin-right: 3px">
-                                    <a itemprop="item" href="../../index.html">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                Home                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="1"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" style="float: left;margin-right: 3px">
-                                    /<a itemprop="item"
-                                        href="../../table-roulette">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                table-roulette                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="2"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" class="overflow ellipsis">
-                                    /<a itemprop="item">
-                                        <span itemprop="name">Roulette Royal</span>
-                                    </a>
-                                    <meta itemprop="position" content="3"/>
-                                </li>
-                            </ol>
-                        </div>
-
-										<h1 style='text-align: center;color: #ffba00'>To play in  Roulette Royal at ArgoCasino </h1>                     <p itemprop="description" style='text-align: justify'>The newest slot machine  Roulette Royal from the best provider Amatic  and ArgoCasino. Modern graphics and high quality sound will capture your attention. This is one of the best online slots from the provider Amatic . The Slot Machine Roulette Royal - is one of the most popular games from this category. This slot will help you re-open the world of the online slot machines and try your luck. The easy rules of Roulette Royal are clear enough even to newbies.  </p>                     <h2 style='text-align: center;color: #ffba00'>Slot machine Roulette Royal: on real money or free demo version</h2>                     <p itemprop="description" style='text-align: justify;'>Slot machine  Roulette Royal allows you to play online without registration and absolutely for free. The game- play in the online casino can bring essential winnings, as well as, loses. That is why, before starting to play real money on the Roulette Royal slot machine make sure you totally got familiar with the game-play in demo version. Anyone can play on Roulette Royal. You can play the demo version absolutely for free, or you can register and play on real money. Slot Roulette Royal, would rather be preferred by players of profitable classic games. But  even those who prefer the modern online (offline) slot machines, should not pass by this wonderful game.  </p>                </div>
 			        </div>
         <!--.flex-game-table -->
 </section>

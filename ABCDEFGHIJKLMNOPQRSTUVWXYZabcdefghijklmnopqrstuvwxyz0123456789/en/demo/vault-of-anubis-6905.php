@@ -486,95 +486,121 @@
     <div class="flex-game-table">
         <div class="flex-game-table__box">
             <div class="loading"></div>
-			                <div class="clearfix">
-                    <div class=" ig_green_banner">
-                        <div style="margin: 0 auto;width: 935px">
-                            <img style="margin-top: 5px;float: left" src="../../img/ArgoCasino_play.png">
-                            <h2 class="ig_h1_demo">
-								You are playing in demo mode. Playing for real money is much more interesting !                            </h2>
-                            <a class="ig_denghi" href="../registrationd56b.html">
-								play for money                            </a>
-                        </div>
-                    </div>
-                </div>
 			            <div class="flex-game-table__box__container ">
                 <div class="loader"></div>
                 <div class="flex-game-table__game">
 
                     <div class="game-box__container">
-						                            <div id="game_frame"
-                                 width="1280"
-                                 height="720"
-                            >
-								<iframe src="https://gserver-softgamings.redtiger.cash/softgamings/launcher/VaultOfAnubis?hasHistory=1&amp;hasGamble=1&amp;channel=desktop&amp;hasAutoplayTotalSpins=1&amp;hasAutoplayLimitLoss=1&amp;hasAutoplaySingleWinLimit=1&amp;hasAutoplayStopOnJackpot=1&amp;hasAutoplayStopOnBonus=1&amp;playMode=demo&amp;lang=en"  width="100%" height="100%" frameBorder="0" marginheight="0" marginwidth="0" class="egamings_game_frame" allowfullscreen></iframe>                            </div>
+						                            <div class="game_error">
+								Error in request, please contact support.                            </div>
 						                        <div class="flex-game-table__sidebar-right" id="sidebar-right">
                             <span class="open_btn_deposit">
                             </span>
                             <div class="sidebar__box">
 								                                <div class="deposit_box">
                                     <p>INSTANT DEPOSIT</p>
+									                                        <form class="ajax-deposit-form-new" method="post" action="/ajax/newdep">
+                                            <input type="hidden" name="paymethod"
+                                                   value="sc_visa">
+                                            <div class="user-deposit-payment_mode__tab cloud-gray show_tab">
+                                                <ul class="dep_amount">
+													                                                        <li data-amount="10">10<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                        <li data-amount="25">25<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                        <li data-amount="50">50<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                        <li data-amount="100">100<b
+                                                                    style="font-size: 12px; color: #17150E; margin-left: 5px">EUR</b>
+                                                        </li>
+														                                                </ul>
+                                                <ul class="ps__list horizontal">
+                                                    <li class="pull-left_ text_pool_right">
+                                                        <input type="text" autofocus="" name="amount"
+                                                               style="width: 160px"
+                                                               class="profile__input-text"
+                                                               value=""
+                                                               placeholder="INSTANT DEPOSIT">
+                                                        <input id="sc_visa"
+                                                               style="" type="text" name="code"
+                                                               class="profile__input-text promo_code"
+                                                               placeholder="">
+                                                    </li>
+                                                    <li class="pull-right_ action">
+
+														                                                            <button onclick="ga('send','event','Web','Deposit'); return true;"
+                                                                    class="btn green_dep small" type="submit">
+                                                                <span class="withdraw_cancel">Deposit</span>
+                                                            </button>
+														                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </form>
 									                                </div>
                                 <div class="winwin">
 									
 <div class="win-now">
     <ul class="win-now__list">
                     <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="/en/game/fruit-shop-527">
                     <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">180 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
+                        <div class="win-now-user">KILAB*</div>
+                        <div class="win-now-sum">0.1 CREDITS</div>
+                        <div class="win-now_game">Fruit Shop</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/FruitShop.jpg"/>
                     </div>
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="micro-knights-4669.html">
+                <a href="/en/game/chimney-sweep-235">
                     <div class="win-now-left">
-                        <div class="win-now-user">DDDDD*</div>
-                        <div class="win-now-sum">412 CREDITS</div>
-                        <div class="win-now_game">Micro Knights</div>
+                        <div class="win-now-user">IRINK*</div>
+                        <div class="win-now-sum">3.2 CREDITS</div>
+                        <div class="win-now_game">Chimney Sweep</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15e564074529fe.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/ChimneySweep.jpg"/>
                     </div>
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="gonzo-s-quest-megaways-6862.html">
+                <a href="/en/game/demi-gods-iii-lines-series-7086">
                     <div class="win-now-left">
-                        <div class="win-now-user">SVETA*</div>
-                        <div class="win-now-sum">14.4 CREDITS</div>
-                        <div class="win-now_game">Gonzo's Quest Megaways</div>
+                        <div class="win-now-user">ALEX0*</div>
+                        <div class="win-now-sum">375 CREDITS</div>
+                        <div class="win-now_game">Demi Gods III 15 Lines Series</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15f3d133617f75.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/15f63004cb04db.jpg"/>
                     </div>
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="/en/game/sweet-bonanza-3819">
                     <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">300 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
+                        <div class="win-now-user">PRIM0*</div>
+                        <div class="win-now-sum">1868.5 CREDITS</div>
+                        <div class="win-now_game">Sweet Bonanza</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/15d1329e398b3e.jpg"/>
                     </div>
                 </a>
             </li>
                         <li class="win-now-li">
-                <a href="lake-s-five-2854.html">
+                <a href="/en/game/book-of-dead-3510">
                     <div class="win-now-left">
-                        <div class="win-now-user">ASKOP*</div>
-                        <div class="win-now-sum">50 CREDITS</div>
-                        <div class="win-now_game">Lake's Five</div>
+                        <div class="win-now-user">YARIK*</div>
+                        <div class="win-now-sum">12 CREDITS</div>
+                        <div class="win-now_game">Book of Dead</div>
                     </div>
                     <div class="win-now-img">
-                        <img class="win_img" src="../../../d32wwkuryjkg7f.cloudfront.net/img/15bab54df062b6.jpg"/>
+                        <img class="win_img" src="https://d32wwkuryjkg7f.cloudfront.net/img/15cf509578e7bf.jpg"/>
                     </div>
                 </a>
             </li>
@@ -589,133 +615,6 @@
 
             </div>
 
-			                <div itemscope
-                     itemtype="http://schema.org/WebApplication"
-                     class='pl_back'
-                     style='margin-bottom: 40px !important;border: 1px solid #5b563d;margin-top: 25px !important;'>
-                    <link itemprop="applicationCategory" href="https://schema.org/BrowserApplication"/>
-                    <meta itemprop="name" content="Vault of Anubis">
-                    <meta itemprop="applicationSubCategory" content="popular">
-                    <meta itemprop="applicationSuite" content="Red Tiger">
-                    <meta itemprop="operatingSystem" content="Any">
-                    <meta itemprop="thumbnailUrl" content="../../../d32wwkuryjkg7f.cloudfront.net/img/15f3d73df030f9.jpg">
-                    <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
-                        <meta itemprop="price" content="10.00">
-                        <meta itemprop="priceCurrency" content="RUB, EUR, PLN, SEK" />
-                    </div>
-					                        <div itemprop="aggregateRating"
-                             itemscope
-                             itemtype="http://schema.org/AggregateRating"
-                             class="rating_box">
-
-                            <div>
-
-								
-                                <span>
-                                <ol class="floating-box">
-                                    <li>
-                                        <a href="javascript:void('#star1')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star2')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star3')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="javascript:void('#star5')">
-                                            <img style="background-color: #e8ba00;" src="../../img/argo_rating_star_contur1.png"/>
-                                        </a>
-                                    </li>
-                                </ol>
-                            </span>
-                                <span>
-                                <b style="float: right;
-                                        font-size: 16px;
-                                        color: #ffba00;
-                                        margin-top: 9px;
-                                        margin-left: 140px;
-                                        text-transform: uppercase;
-                                        font-weight: initial;">
-                                    GAME RATING 5                                    <img style=" width: 13px;background-color: #e8ba00;"
-                                         src="../../img/argo_rating_star_contur1.png"/>
-                                </b>
-                            </span>
-                                <meta itemprop="ratingValue"
-                                      content="5">
-                                <meta itemprop="ratingCount"
-                                      content="5">
-                                <meta itemprop="worstRating" content="0">
-                                <meta itemprop="bestRating" content="5">
-                            </div>
-                        </div>
-                        <style>
-
-                            .floating-box {
-                                list-style-type: none;
-                                margin: 0;
-                                padding: 0;
-                                position: absolute;
-                            }
-
-                            .floating-box li {
-                                float: left;
-                            }
-
-                            .floating-box li img {
-                                /*position: absolute;*/
-                                z-index: 246 !important;
-                                height: 30px !important;
-                                width: auto !important;
-                                margin-right: 2px;
-                            }
-
-                            .floating-box li a:hover img {
-                                background-color: #e8ba00;
-                            }
-                        </style>
-                        <div class="breadcrumbs_g">
-							                            <ol itemscope itemtype="http://schema.org/BreadcrumbList"  >
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem"
-                                    style="float: left;margin-right: 3px">
-                                    <a itemprop="item" href="../../index.html">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                Home                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="1"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" style="float: left;margin-right: 3px">
-                                    /<a itemprop="item"
-                                        href="../popular.html">
-                            <span itemprop="name" style="text-transform: capitalize">
-                                popular                            </span>
-                                    </a>
-                                    <meta itemprop="position" content="2"/>
-                                </li>
-                                <li itemprop="itemListElement" itemscope
-                                    itemtype="http://schema.org/ListItem" class="overflow ellipsis">
-                                    /<a itemprop="item">
-                                        <span itemprop="name">Vault of Anubis</span>
-                                    </a>
-                                    <meta itemprop="position" content="3"/>
-                                </li>
-                            </ol>
-                        </div>
-
-										<h1 style='text-align: center;color: #ffba00'>To play in  Vault of Anubis at ArgoCasino </h1>                     <p itemprop="description" style='text-align: justify'>The newest slot machine  Vault of Anubis from the best provider Red Tiger  and ArgoCasino. Modern graphics and high quality sound will capture your attention. This is one of the best online slots from the provider Red Tiger . The Slot Machine Vault of Anubis - is one of the most popular games from this category. This slot will help you re-open the world of the online slot machines and try your luck. The easy rules of Vault of Anubis are clear enough even to newbies.  </p>                     <h2 style='text-align: center;color: #ffba00'>Slot machine Vault of Anubis: on real money or free demo version</h2>                     <p itemprop="description" style='text-align: justify;'>Slot machine  Vault of Anubis allows you to play online without registration and absolutely for free. The game- play in the online casino can bring essential winnings, as well as, loses. That is why, before starting to play real money on the Vault of Anubis slot machine make sure you totally got familiar with the game-play in demo version. Anyone can play on Vault of Anubis. You can play the demo version absolutely for free, or you can register and play on real money. Slot Vault of Anubis, would rather be preferred by players of profitable classic games. But  even those who prefer the modern online (offline) slot machines, should not pass by this wonderful game.  </p>                </div>
 			        </div>
         <!--.flex-game-table -->
 </section>
